@@ -1,0 +1,22 @@
+{
+  "accuracy": 99.5,
+  "feature_importance": {
+    "origin": 0.0211,
+    "season": 0.0236,
+    "budget_usd": 0.8903,
+    "trip_type": 0.01,
+    "duration_days": 0.0288,
+    "past_destinations": 0.0263
+  },
+  "algorithm": "RandomForestClassifier",
+  "target": "recommended_dest",
+  "classes": [
+    "BOM",
+    "CDG",
+    "DXB",
+    "LHR",
+    "NRT",
+    "SIN"
+  ],
+  "n_features": 6
+}

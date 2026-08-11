@@ -1,0 +1,22 @@
+{
+  "accuracy": 97.17,
+  "feature_importance": {
+    "airport": 0.0201,
+    "wind_speed_kmh": 0.3765,
+    "visibility_km": 0.3499,
+    "precipitation_mm": 0.1787,
+    "temperature_c": 0.0213,
+    "humidity_pct": 0.0176,
+    "lightning_risk": 0.01,
+    "fog_level": 0.0123,
+    "season": 0.0135
+  },
+  "algorithm": "XGBClassifier",
+  "target": "risk_level",
+  "classes": [
+    "high",
+    "low",
+    "medium"
+  ],
+  "n_features": 9
+}

@@ -1,0 +1,18 @@
+{
+  "accuracy": 97.69,
+  "mae": 864.71,
+  "r2": 0.996,
+  "feature_importance": {
+    "aircraft_type": 0.0002,
+    "distance_km": 0.9875,
+    "passengers": 0.0036,
+    "cargo_kg": 0.0071,
+    "altitude_ft": 0.0004,
+    "wind_speed_kmh": 0.0004,
+    "temperature_c": 0.0004,
+    "engine_age_years": 0.0004
+  },
+  "algorithm": "XGBRegressor",
+  "target": "fuel_kg",
+  "n_features": 8
+}

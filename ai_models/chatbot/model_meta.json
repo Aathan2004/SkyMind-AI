@@ -1,0 +1,28 @@
+{
+  "accuracy": 100.0,
+  "feature_importance": {
+    "intents": [
+      "baggage",
+      "booking",
+      "cancellation",
+      "check_in",
+      "delay_info",
+      "general",
+      "refund",
+      "upgrade"
+    ]
+  },
+  "algorithm": "TF-IDF + LogisticRegression",
+  "target": "intent",
+  "classes": [
+    "baggage",
+    "booking",
+    "cancellation",
+    "check_in",
+    "delay_info",
+    "general",
+    "refund",
+    "upgrade"
+  ],
+  "n_features": 300
+}

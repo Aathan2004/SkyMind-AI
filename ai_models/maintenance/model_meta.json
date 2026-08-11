@@ -1,0 +1,17 @@
+{
+  "accuracy": 95.67,
+  "feature_importance": {
+    "aircraft_type": 0.0488,
+    "flight_hours": 0.2022,
+    "cycles": 0.0656,
+    "engine_temp_c": 0.0604,
+    "vibration_level": 0.1236,
+    "oil_pressure_psi": 0.0669,
+    "hydraulic_pressure": 0.0584,
+    "age_years": 0.2036,
+    "last_maintenance_days": 0.1704
+  },
+  "algorithm": "XGBClassifier",
+  "target": "needs_maintenance",
+  "n_features": 9
+}

@@ -1,0 +1,22 @@
+{
+  "accuracy": 94.67,
+  "feature_importance": {
+    "airport": 0.0267,
+    "hour_of_day": 0.0201,
+    "day_of_week": 0.0209,
+    "month": 0.0198,
+    "flights_per_hour": 0.3558,
+    "gate_utilization_pct": 0.2531,
+    "runway_utilization_pct": 0.2598,
+    "avg_taxi_time_min": 0.0188,
+    "weather_score": 0.025
+  },
+  "algorithm": "XGBClassifier",
+  "target": "congestion_level",
+  "classes": [
+    "high",
+    "low",
+    "medium"
+  ],
+  "n_features": 9
+}

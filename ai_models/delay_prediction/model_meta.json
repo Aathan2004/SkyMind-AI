@@ -1,0 +1,21 @@
+{
+  "accuracy": 89.01,
+  "mae": 7.67,
+  "r2": 0.865,
+  "feature_importance": {
+    "departure_hour": 0.017,
+    "day_of_week": 0.0118,
+    "month": 0.017,
+    "origin": 0.0165,
+    "destination": 0.0157,
+    "aircraft_type": 0.0162,
+    "airline": 0.0199,
+    "weather_score": 0.445,
+    "atc_delay": 0.2641,
+    "prev_flight_delay": 0.1573,
+    "distance_km": 0.0194
+  },
+  "algorithm": "XGBRegressor",
+  "target": "delay_minutes",
+  "n_features": 11
+}

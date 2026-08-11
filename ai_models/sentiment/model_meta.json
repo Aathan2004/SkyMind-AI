@@ -1,0 +1,16 @@
+{
+  "accuracy": 100.0,
+  "feature_importance": {
+    "tfidf_features": 500,
+    "ngram_range": "(1,2)",
+    "algorithm": "LogisticRegression"
+  },
+  "algorithm": "TF-IDF + LogisticRegression",
+  "target": "sentiment",
+  "classes": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "n_features": 500
+}

@@ -1,0 +1,17 @@
+{
+  "accuracy": 61.0,
+  "feature_importance": {
+    "weather_score": 0.1275,
+    "aircraft_age_years": 0.1004,
+    "crew_availability": 0.0884,
+    "atc_restrictions": 0.2363,
+    "season": 0.0896,
+    "route_distance_km": 0.0897,
+    "airline": 0.088,
+    "prev_cancellations": 0.0948,
+    "is_international": 0.0854
+  },
+  "algorithm": "XGBClassifier",
+  "target": "cancelled",
+  "n_features": 9
+}

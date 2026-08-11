@@ -1,0 +1,19 @@
+{
+  "accuracy": 98.06,
+  "mae": 0.0073,
+  "r2": 0.999,
+  "feature_importance": {
+    "origin": 0.0001,
+    "destination": 0.0001,
+    "distance_km": 0.0001,
+    "avg_passengers": 0.0001,
+    "avg_revenue_usd": 0.9599,
+    "avg_delay_min": 0.0105,
+    "fuel_cost_usd": 0.0291,
+    "competition_score": 0.0001,
+    "demand_score": 0.0001
+  },
+  "algorithm": "XGBRegressor",
+  "target": "profitability_score",
+  "n_features": 9
+}

@@ -1,0 +1,3001 @@
+query,intent
+Tell me about SkyMind,general
+Can I upgrade my seat,upgrade
+Refund policy,refund
+When does check-in open,check_in
+What is the baggage allowance,baggage
+What is the baggage allowance,baggage
+Online check-in process,check_in
+How to get my money back,refund
+Help me please,general
+What is the baggage allowance,baggage
+Refund policy,refund
+Can I upgrade my seat,upgrade
+What is the delay status,delay_info
+Baggage policy,baggage
+How do I book a flight,booking
+Cancel my flight,cancellation
+What is the weather,general
+What is the weather,general
+I want to cancel my ticket,cancellation
+How to get my money back,refund
+What is the baggage allowance,baggage
+What is the weather,general
+Flight delay information,delay_info
+Is my flight delayed,delay_info
+How to upgrade to business,upgrade
+How do I book a flight,booking
+How to upgrade to business,upgrade
+I need a refund,refund
+Help me please,general
+Flight delay information,delay_info
+Online check-in process,check_in
+Book flight to London,booking
+I want to cancel my ticket,cancellation
+Book flight to London,booking
+Cancel my flight,cancellation
+I want to cancel my ticket,cancellation
+I want to buy a ticket,booking
+How to get my money back,refund
+Refund policy,refund
+When does check-in open,check_in
+Cancel my flight,cancellation
+I want to cancel my ticket,cancellation
+Baggage policy,baggage
+What is the baggage allowance,baggage
+Is my flight delayed,delay_info
+How do I check in online,check_in
+What is the delay status,delay_info
+How to upgrade to business,upgrade
+Book flight to London,booking
+Baggage policy,baggage
+Baggage policy,baggage
+What is the weather,general
+Tell me about SkyMind,general
+What is the delay status,delay_info
+I need a refund,refund
+What is the weather,general
+What is the delay status,delay_info
+Tell me about SkyMind,general
+Is my flight delayed,delay_info
+How do I book a flight,booking
+Refund policy,refund
+What is the weather,general
+I want to buy a ticket,booking
+I want to cancel my ticket,cancellation
+Book flight to London,booking
+Cancel my flight,cancellation
+Is my flight delayed,delay_info
+How to cancel booking,cancellation
+I need a refund,refund
+How to cancel booking,cancellation
+How do I check in online,check_in
+How to cancel booking,cancellation
+Online check-in process,check_in
+How much luggage can I bring,baggage
+How much luggage can I bring,baggage
+I need a refund,refund
+How to upgrade to business,upgrade
+Is my flight delayed,delay_info
+How do I check in online,check_in
+When does check-in open,check_in
+Flight delay information,delay_info
+Baggage policy,baggage
+Help me please,general
+Is my flight delayed,delay_info
+Can I upgrade my seat,upgrade
+How do I book a flight,booking
+How to get my money back,refund
+Can I upgrade my seat,upgrade
+How much luggage can I bring,baggage
+Seat upgrade options,upgrade
+When does check-in open,check_in
+Seat upgrade options,upgrade
+What is the delay status,delay_info
+How much luggage can I bring,baggage
+Refund policy,refund
+How to get my money back,refund
+Seat upgrade options,upgrade
+I need a refund,refund
+How to get my money back,refund
+How to upgrade to business,upgrade
+Online check-in process,check_in
+How to get my money back,refund
+How to upgrade to business,upgrade
+Tell me about SkyMind,general
+Cancel my flight,cancellation
+What is the delay status,delay_info
+How to get my money back,refund
+Help me please,general
+Flight delay information,delay_info
+Help me please,general
+How much luggage can I bring,baggage
+Can I upgrade my seat,upgrade
+How to upgrade to business,upgrade
+What is the weather,general
+What is the baggage allowance,baggage
+What is the delay status,delay_info
+Seat upgrade options,upgrade
+How to get my money back,refund
+Flight delay information,delay_info
+Online check-in process,check_in
+I need a refund,refund
+Seat upgrade options,upgrade
+I want to cancel my ticket,cancellation
+I want to cancel my ticket,cancellation
+What is the weather,general
+Seat upgrade options,upgrade
+Help me please,general
+What is the weather,general
+Tell me about SkyMind,general
+Baggage policy,baggage
+Is my flight delayed,delay_info
+Online check-in process,check_in
+I need a refund,refund
+Book flight to London,booking
+Seat upgrade options,upgrade
+Help me please,general
+Tell me about SkyMind,general
+How do I book a flight,booking
+How to upgrade to business,upgrade
+Baggage policy,baggage
+What is the delay status,delay_info
+Tell me about SkyMind,general
+What is the delay status,delay_info
+I need a refund,refund
+How much luggage can I bring,baggage
+Cancel my flight,cancellation
+Book flight to London,booking
+What is the baggage allowance,baggage
+How do I check in online,check_in
+How to get my money back,refund
+How to cancel booking,cancellation
+Help me please,general
+I want to cancel my ticket,cancellation
+I need a refund,refund
+Flight delay information,delay_info
+Online check-in process,check_in
+How do I book a flight,booking
+Can I upgrade my seat,upgrade
+Is my flight delayed,delay_info
+Baggage policy,baggage
+When does check-in open,check_in
+Help me please,general
+Can I upgrade my seat,upgrade
+How to cancel booking,cancellation
+I want to buy a ticket,booking
+When does check-in open,check_in
+Is my flight delayed,delay_info
+How to upgrade to business,upgrade
+Online check-in process,check_in
+Refund policy,refund
+When does check-in open,check_in
+Seat upgrade options,upgrade
+Can I upgrade my seat,upgrade
+I want to buy a ticket,booking
+What is the weather,general
+What is the weather,general
+Book flight to London,booking
+Refund policy,refund
+How do I book a flight,booking
+How do I book a flight,booking
+Flight delay information,delay_info
+What is the delay status,delay_info
+Seat upgrade options,upgrade
+Help me please,general
+How to cancel booking,cancellation
+Refund policy,refund
+What is the delay status,delay_info
+I want to buy a ticket,booking
+How do I check in online,check_in
+I need a refund,refund
+Seat upgrade options,upgrade
+How to get my money back,refund
+Baggage policy,baggage
+What is the delay status,delay_info
+I need a refund,refund
+How do I check in online,check_in
+Help me please,general
+I want to cancel my ticket,cancellation
+Baggage policy,baggage
+Can I upgrade my seat,upgrade
+Cancel my flight,cancellation
+Flight delay information,delay_info
+Online check-in process,check_in
+Is my flight delayed,delay_info
+Flight delay information,delay_info
+Flight delay information,delay_info
+Flight delay information,delay_info
+Baggage policy,baggage
+Is my flight delayed,delay_info
+I want to buy a ticket,booking
+What is the delay status,delay_info
+What is the weather,general
+Flight delay information,delay_info
+Book flight to London,booking
+Flight delay information,delay_info
+What is the weather,general
+What is the baggage allowance,baggage
+Refund policy,refund
+Seat upgrade options,upgrade
+I want to buy a ticket,booking
+How to cancel booking,cancellation
+How do I book a flight,booking
+Flight delay information,delay_info
+I want to cancel my ticket,cancellation
+Help me please,general
+What is the weather,general
+I want to buy a ticket,booking
+Tell me about SkyMind,general
+Help me please,general
+Seat upgrade options,upgrade
+How to cancel booking,cancellation
+How to upgrade to business,upgrade
+Tell me about SkyMind,general
+Seat upgrade options,upgrade
+I want to cancel my ticket,cancellation
+What is the delay status,delay_info
+Tell me about SkyMind,general
+I want to cancel my ticket,cancellation
+What is the baggage allowance,baggage
+Refund policy,refund
+Seat upgrade options,upgrade
+Tell me about SkyMind,general
+How to get my money back,refund
+Baggage policy,baggage
+Tell me about SkyMind,general
+Is my flight delayed,delay_info
+I want to cancel my ticket,cancellation
+How do I book a flight,booking
+How to upgrade to business,upgrade
+Seat upgrade options,upgrade
+I want to buy a ticket,booking
+What is the baggage allowance,baggage
+Flight delay information,delay_info
+Is my flight delayed,delay_info
+I want to buy a ticket,booking
+Is my flight delayed,delay_info
+Tell me about SkyMind,general
+How to upgrade to business,upgrade
+What is the weather,general
+Flight delay information,delay_info
+Tell me about SkyMind,general
+When does check-in open,check_in
+How do I book a flight,booking
+Flight delay information,delay_info
+I need a refund,refund
+Seat upgrade options,upgrade
+Tell me about SkyMind,general
+When does check-in open,check_in
+Refund policy,refund
+Cancel my flight,cancellation
+I need a refund,refund
+What is the delay status,delay_info
+Cancel my flight,cancellation
+When does check-in open,check_in
+I need a refund,refund
+What is the delay status,delay_info
+How much luggage can I bring,baggage
+Refund policy,refund
+Refund policy,refund
+Refund policy,refund
+Baggage policy,baggage
+What is the delay status,delay_info
+When does check-in open,check_in
+How do I book a flight,booking
+I want to cancel my ticket,cancellation
+How much luggage can I bring,baggage
+What is the weather,general
+Refund policy,refund
+Tell me about SkyMind,general
+Flight delay information,delay_info
+Can I upgrade my seat,upgrade
+I need a refund,refund
+What is the delay status,delay_info
+How much luggage can I bring,baggage
+Book flight to London,booking
+Refund policy,refund
+Baggage policy,baggage
+How to upgrade to business,upgrade
+What is the baggage allowance,baggage
+Baggage policy,baggage
+Help me please,general
+What is the baggage allowance,baggage
+Seat upgrade options,upgrade
+How do I book a flight,booking
+What is the weather,general
+What is the baggage allowance,baggage
+Is my flight delayed,delay_info
+Flight delay information,delay_info
+Is my flight delayed,delay_info
+How to get my money back,refund
+What is the weather,general
+Cancel my flight,cancellation
+Online check-in process,check_in
+Flight delay information,delay_info
+I want to buy a ticket,booking
+Online check-in process,check_in
+Help me please,general
+How to cancel booking,cancellation
+Baggage policy,baggage
+Online check-in process,check_in
+What is the weather,general
+How to upgrade to business,upgrade
+Online check-in process,check_in
+Is my flight delayed,delay_info
+Flight delay information,delay_info
+Help me please,general
+What is the delay status,delay_info
+How to get my money back,refund
+Online check-in process,check_in
+How do I book a flight,booking
+Flight delay information,delay_info
+Tell me about SkyMind,general
+Online check-in process,check_in
+I need a refund,refund
+When does check-in open,check_in
+Refund policy,refund
+Help me please,general
+Flight delay information,delay_info
+I want to buy a ticket,booking
+Seat upgrade options,upgrade
+I want to buy a ticket,booking
+How do I check in online,check_in
+Online check-in process,check_in
+Online check-in process,check_in
+Is my flight delayed,delay_info
+Is my flight delayed,delay_info
+When does check-in open,check_in
+Seat upgrade options,upgrade
+Tell me about SkyMind,general
+Baggage policy,baggage
+Seat upgrade options,upgrade
+I want to buy a ticket,booking
+Flight delay information,delay_info
+Seat upgrade options,upgrade
+When does check-in open,check_in
+Tell me about SkyMind,general
+Help me please,general
+I want to cancel my ticket,cancellation
+Baggage policy,baggage
+Book flight to London,booking
+Refund policy,refund
+I want to cancel my ticket,cancellation
+I need a refund,refund
+Can I upgrade my seat,upgrade
+How do I book a flight,booking
+How to cancel booking,cancellation
+Flight delay information,delay_info
+Help me please,general
+Refund policy,refund
+Seat upgrade options,upgrade
+I want to cancel my ticket,cancellation
+Baggage policy,baggage
+Flight delay information,delay_info
+Refund policy,refund
+Cancel my flight,cancellation
+Seat upgrade options,upgrade
+How do I check in online,check_in
+When does check-in open,check_in
+Online check-in process,check_in
+What is the weather,general
+How to cancel booking,cancellation
+I want to buy a ticket,booking
+Baggage policy,baggage
+What is the weather,general
+Baggage policy,baggage
+What is the delay status,delay_info
+I want to buy a ticket,booking
+Book flight to London,booking
+Cancel my flight,cancellation
+Cancel my flight,cancellation
+Is my flight delayed,delay_info
+I want to buy a ticket,booking
+How do I check in online,check_in
+Baggage policy,baggage
+How do I check in online,check_in
+Cancel my flight,cancellation
+Tell me about SkyMind,general
+Baggage policy,baggage
+Can I upgrade my seat,upgrade
+How to cancel booking,cancellation
+Refund policy,refund
+How to get my money back,refund
+How much luggage can I bring,baggage
+What is the baggage allowance,baggage
+How much luggage can I bring,baggage
+Baggage policy,baggage
+Seat upgrade options,upgrade
+When does check-in open,check_in
+Cancel my flight,cancellation
+What is the baggage allowance,baggage
+What is the baggage allowance,baggage
+Refund policy,refund
+How do I book a flight,booking
+What is the weather,general
+Book flight to London,booking
+What is the baggage allowance,baggage
+How do I book a flight,booking
+Book flight to London,booking
+Can I upgrade my seat,upgrade
+What is the weather,general
+Can I upgrade my seat,upgrade
+How to cancel booking,cancellation
+What is the weather,general
+What is the weather,general
+Is my flight delayed,delay_info
+Online check-in process,check_in
+How to upgrade to business,upgrade
+Can I upgrade my seat,upgrade
+What is the weather,general
+Flight delay information,delay_info
+How much luggage can I bring,baggage
+Refund policy,refund
+Refund policy,refund
+Book flight to London,booking
+Help me please,general
+Baggage policy,baggage
+How do I book a flight,booking
+Book flight to London,booking
+Tell me about SkyMind,general
+How to cancel booking,cancellation
+How much luggage can I bring,baggage
+Refund policy,refund
+What is the delay status,delay_info
+I want to buy a ticket,booking
+Is my flight delayed,delay_info
+I need a refund,refund
+What is the weather,general
+How much luggage can I bring,baggage
+Refund policy,refund
+I want to buy a ticket,booking
+Cancel my flight,cancellation
+How to cancel booking,cancellation
+Seat upgrade options,upgrade
+What is the delay status,delay_info
+What is the weather,general
+Book flight to London,booking
+Refund policy,refund
+How to cancel booking,cancellation
+How do I check in online,check_in
+How do I check in online,check_in
+How to cancel booking,cancellation
+What is the baggage allowance,baggage
+Book flight to London,booking
+I need a refund,refund
+Is my flight delayed,delay_info
+What is the baggage allowance,baggage
+Book flight to London,booking
+How to upgrade to business,upgrade
+How to get my money back,refund
+I want to buy a ticket,booking
+Cancel my flight,cancellation
+Book flight to London,booking
+Refund policy,refund
+How do I check in online,check_in
+Tell me about SkyMind,general
+How much luggage can I bring,baggage
+Tell me about SkyMind,general
+Refund policy,refund
+How much luggage can I bring,baggage
+I want to cancel my ticket,cancellation
+I need a refund,refund
+What is the delay status,delay_info
+I want to buy a ticket,booking
+Tell me about SkyMind,general
+How to upgrade to business,upgrade
+How to upgrade to business,upgrade
+I want to cancel my ticket,cancellation
+Help me please,general
+How to cancel booking,cancellation
+Help me please,general
+Online check-in process,check_in
+I want to cancel my ticket,cancellation
+Baggage policy,baggage
+Is my flight delayed,delay_info
+Can I upgrade my seat,upgrade
+Flight delay information,delay_info
+Help me please,general
+How to get my money back,refund
+How do I book a flight,booking
+What is the delay status,delay_info
+Online check-in process,check_in
+Book flight to London,booking
+How to get my money back,refund
+How do I check in online,check_in
+Help me please,general
+Refund policy,refund
+How to cancel booking,cancellation
+I want to cancel my ticket,cancellation
+Tell me about SkyMind,general
+How do I book a flight,booking
+I want to cancel my ticket,cancellation
+How much luggage can I bring,baggage
+Baggage policy,baggage
+Refund policy,refund
+Baggage policy,baggage
+How to get my money back,refund
+Cancel my flight,cancellation
+How do I check in online,check_in
+Baggage policy,baggage
+Baggage policy,baggage
+I want to buy a ticket,booking
+Online check-in process,check_in
+I want to buy a ticket,booking
+How to get my money back,refund
+I need a refund,refund
+How do I check in online,check_in
+Help me please,general
+Is my flight delayed,delay_info
+I want to buy a ticket,booking
+Flight delay information,delay_info
+Online check-in process,check_in
+How to get my money back,refund
+How much luggage can I bring,baggage
+Tell me about SkyMind,general
+How much luggage can I bring,baggage
+How much luggage can I bring,baggage
+I need a refund,refund
+Refund policy,refund
+Help me please,general
+Seat upgrade options,upgrade
+Refund policy,refund
+Cancel my flight,cancellation
+I need a refund,refund
+Tell me about SkyMind,general
+Baggage policy,baggage
+Cancel my flight,cancellation
+Seat upgrade options,upgrade
+How do I check in online,check_in
+How to get my money back,refund
+Flight delay information,delay_info
+I want to cancel my ticket,cancellation
+Baggage policy,baggage
+Online check-in process,check_in
+How do I check in online,check_in
+What is the baggage allowance,baggage
+I want to cancel my ticket,cancellation
+How to upgrade to business,upgrade
+Can I upgrade my seat,upgrade
+How to cancel booking,cancellation
+Tell me about SkyMind,general
+Baggage policy,baggage
+When does check-in open,check_in
+How to cancel booking,cancellation
+When does check-in open,check_in
+When does check-in open,check_in
+What is the delay status,delay_info
+When does check-in open,check_in
+How to upgrade to business,upgrade
+Online check-in process,check_in
+What is the delay status,delay_info
+I need a refund,refund
+How to cancel booking,cancellation
+How to upgrade to business,upgrade
+How much luggage can I bring,baggage
+Online check-in process,check_in
+Book flight to London,booking
+What is the weather,general
+What is the weather,general
+Is my flight delayed,delay_info
+I want to buy a ticket,booking
+I want to buy a ticket,booking
+Flight delay information,delay_info
+When does check-in open,check_in
+How much luggage can I bring,baggage
+I need a refund,refund
+What is the baggage allowance,baggage
+When does check-in open,check_in
+Tell me about SkyMind,general
+Seat upgrade options,upgrade
+I need a refund,refund
+How do I check in online,check_in
+Is my flight delayed,delay_info
+I want to buy a ticket,booking
+Baggage policy,baggage
+Book flight to London,booking
+How to cancel booking,cancellation
+Flight delay information,delay_info
+I want to cancel my ticket,cancellation
+Seat upgrade options,upgrade
+How to upgrade to business,upgrade
+Refund policy,refund
+What is the weather,general
+What is the delay status,delay_info
+How to upgrade to business,upgrade
+Baggage policy,baggage
+How do I check in online,check_in
+Is my flight delayed,delay_info
+I need a refund,refund
+Flight delay information,delay_info
+What is the weather,general
+Is my flight delayed,delay_info
+How to get my money back,refund
+Book flight to London,booking
+What is the delay status,delay_info
+How much luggage can I bring,baggage
+Is my flight delayed,delay_info
+I want to cancel my ticket,cancellation
+Book flight to London,booking
+I want to buy a ticket,booking
+How do I check in online,check_in
+When does check-in open,check_in
+I want to buy a ticket,booking
+How much luggage can I bring,baggage
+How do I check in online,check_in
+How do I check in online,check_in
+When does check-in open,check_in
+How do I check in online,check_in
+Help me please,general
+What is the delay status,delay_info
+Flight delay information,delay_info
+Can I upgrade my seat,upgrade
+Help me please,general
+Flight delay information,delay_info
+Book flight to London,booking
+I need a refund,refund
+What is the weather,general
+Can I upgrade my seat,upgrade
+Baggage policy,baggage
+Tell me about SkyMind,general
+How to get my money back,refund
+When does check-in open,check_in
+Baggage policy,baggage
+How to get my money back,refund
+Is my flight delayed,delay_info
+I need a refund,refund
+I need a refund,refund
+Can I upgrade my seat,upgrade
+How to cancel booking,cancellation
+I need a refund,refund
+Seat upgrade options,upgrade
+Baggage policy,baggage
+I want to buy a ticket,booking
+Refund policy,refund
+Baggage policy,baggage
+Help me please,general
+What is the delay status,delay_info
+How to get my money back,refund
+Can I upgrade my seat,upgrade
+Can I upgrade my seat,upgrade
+Refund policy,refund
+How to upgrade to business,upgrade
+Tell me about SkyMind,general
+What is the weather,general
+I need a refund,refund
+Tell me about SkyMind,general
+When does check-in open,check_in
+How to get my money back,refund
+What is the weather,general
+How to cancel booking,cancellation
+Cancel my flight,cancellation
+Is my flight delayed,delay_info
+When does check-in open,check_in
+Baggage policy,baggage
+Book flight to London,booking
+What is the delay status,delay_info
+How much luggage can I bring,baggage
+How do I check in online,check_in
+I need a refund,refund
+Refund policy,refund
+Refund policy,refund
+Book flight to London,booking
+What is the baggage allowance,baggage
+Cancel my flight,cancellation
+How to cancel booking,cancellation
+Cancel my flight,cancellation
+What is the weather,general
+Flight delay information,delay_info
+Tell me about SkyMind,general
+How to cancel booking,cancellation
+Online check-in process,check_in
+How to get my money back,refund
+How to get my money back,refund
+When does check-in open,check_in
+I need a refund,refund
+What is the weather,general
+How do I book a flight,booking
+Baggage policy,baggage
+Book flight to London,booking
+How to cancel booking,cancellation
+How to cancel booking,cancellation
+I want to buy a ticket,booking
+What is the delay status,delay_info
+Is my flight delayed,delay_info
+How to get my money back,refund
+Flight delay information,delay_info
+Flight delay information,delay_info
+How do I book a flight,booking
+Online check-in process,check_in
+What is the baggage allowance,baggage
+I need a refund,refund
+Tell me about SkyMind,general
+What is the delay status,delay_info
+What is the weather,general
+Seat upgrade options,upgrade
+How to cancel booking,cancellation
+How much luggage can I bring,baggage
+How to cancel booking,cancellation
+What is the weather,general
+What is the weather,general
+How do I book a flight,booking
+What is the baggage allowance,baggage
+How do I check in online,check_in
+Baggage policy,baggage
+How do I book a flight,booking
+Can I upgrade my seat,upgrade
+Tell me about SkyMind,general
+How to upgrade to business,upgrade
+How to cancel booking,cancellation
+How do I check in online,check_in
+Refund policy,refund
+I want to buy a ticket,booking
+Seat upgrade options,upgrade
+How do I check in online,check_in
+When does check-in open,check_in
+Refund policy,refund
+How to upgrade to business,upgrade
+I need a refund,refund
+I want to cancel my ticket,cancellation
+Refund policy,refund
+How do I book a flight,booking
+Flight delay information,delay_info
+Flight delay information,delay_info
+When does check-in open,check_in
+What is the baggage allowance,baggage
+Seat upgrade options,upgrade
+When does check-in open,check_in
+I need a refund,refund
+I want to cancel my ticket,cancellation
+Is my flight delayed,delay_info
+Flight delay information,delay_info
+How to cancel booking,cancellation
+Cancel my flight,cancellation
+Cancel my flight,cancellation
+How much luggage can I bring,baggage
+Online check-in process,check_in
+How do I book a flight,booking
+How do I check in online,check_in
+How to upgrade to business,upgrade
+I want to buy a ticket,booking
+How to cancel booking,cancellation
+What is the baggage allowance,baggage
+Is my flight delayed,delay_info
+How much luggage can I bring,baggage
+Is my flight delayed,delay_info
+Online check-in process,check_in
+What is the delay status,delay_info
+Online check-in process,check_in
+Tell me about SkyMind,general
+How do I check in online,check_in
+How to get my money back,refund
+How do I check in online,check_in
+Flight delay information,delay_info
+Can I upgrade my seat,upgrade
+I need a refund,refund
+Help me please,general
+How to cancel booking,cancellation
+Refund policy,refund
+Cancel my flight,cancellation
+I need a refund,refund
+What is the baggage allowance,baggage
+What is the weather,general
+Baggage policy,baggage
+Book flight to London,booking
+How to upgrade to business,upgrade
+I want to buy a ticket,booking
+I want to cancel my ticket,cancellation
+What is the delay status,delay_info
+What is the delay status,delay_info
+What is the baggage allowance,baggage
+I want to cancel my ticket,cancellation
+Can I upgrade my seat,upgrade
+Refund policy,refund
+What is the delay status,delay_info
+I want to cancel my ticket,cancellation
+How do I check in online,check_in
+What is the baggage allowance,baggage
+When does check-in open,check_in
+Is my flight delayed,delay_info
+What is the delay status,delay_info
+What is the delay status,delay_info
+I want to buy a ticket,booking
+How to upgrade to business,upgrade
+How to get my money back,refund
+What is the weather,general
+How to cancel booking,cancellation
+How do I check in online,check_in
+How to cancel booking,cancellation
+What is the weather,general
+Baggage policy,baggage
+How to cancel booking,cancellation
+How do I book a flight,booking
+When does check-in open,check_in
+Online check-in process,check_in
+Help me please,general
+I need a refund,refund
+Refund policy,refund
+Online check-in process,check_in
+Book flight to London,booking
+How to get my money back,refund
+I need a refund,refund
+When does check-in open,check_in
+What is the baggage allowance,baggage
+What is the delay status,delay_info
+When does check-in open,check_in
+How to upgrade to business,upgrade
+Baggage policy,baggage
+Is my flight delayed,delay_info
+What is the delay status,delay_info
+When does check-in open,check_in
+Help me please,general
+Seat upgrade options,upgrade
+How much luggage can I bring,baggage
+Seat upgrade options,upgrade
+Online check-in process,check_in
+I want to cancel my ticket,cancellation
+Cancel my flight,cancellation
+When does check-in open,check_in
+Cancel my flight,cancellation
+Help me please,general
+How to cancel booking,cancellation
+Book flight to London,booking
+How to cancel booking,cancellation
+How do I check in online,check_in
+Refund policy,refund
+How to get my money back,refund
+Online check-in process,check_in
+What is the baggage allowance,baggage
+Refund policy,refund
+Baggage policy,baggage
+Flight delay information,delay_info
+What is the delay status,delay_info
+Cancel my flight,cancellation
+Online check-in process,check_in
+How to cancel booking,cancellation
+I need a refund,refund
+Flight delay information,delay_info
+Cancel my flight,cancellation
+How to get my money back,refund
+How do I book a flight,booking
+Flight delay information,delay_info
+Can I upgrade my seat,upgrade
+Can I upgrade my seat,upgrade
+I want to cancel my ticket,cancellation
+Book flight to London,booking
+Tell me about SkyMind,general
+How to get my money back,refund
+Refund policy,refund
+How much luggage can I bring,baggage
+Baggage policy,baggage
+Is my flight delayed,delay_info
+How to get my money back,refund
+Is my flight delayed,delay_info
+Flight delay information,delay_info
+Flight delay information,delay_info
+How do I check in online,check_in
+How to get my money back,refund
+Cancel my flight,cancellation
+When does check-in open,check_in
+Can I upgrade my seat,upgrade
+How to get my money back,refund
+How to upgrade to business,upgrade
+I need a refund,refund
+How to upgrade to business,upgrade
+Refund policy,refund
+Book flight to London,booking
+When does check-in open,check_in
+Refund policy,refund
+What is the weather,general
+Tell me about SkyMind,general
+Flight delay information,delay_info
+How do I book a flight,booking
+Help me please,general
+Can I upgrade my seat,upgrade
+Online check-in process,check_in
+Seat upgrade options,upgrade
+Flight delay information,delay_info
+What is the baggage allowance,baggage
+What is the baggage allowance,baggage
+Tell me about SkyMind,general
+How to upgrade to business,upgrade
+What is the delay status,delay_info
+Flight delay information,delay_info
+How to upgrade to business,upgrade
+Refund policy,refund
+Can I upgrade my seat,upgrade
+What is the delay status,delay_info
+What is the weather,general
+Is my flight delayed,delay_info
+What is the baggage allowance,baggage
+How to upgrade to business,upgrade
+What is the weather,general
+What is the baggage allowance,baggage
+What is the baggage allowance,baggage
+What is the baggage allowance,baggage
+When does check-in open,check_in
+Flight delay information,delay_info
+Can I upgrade my seat,upgrade
+How to upgrade to business,upgrade
+How to upgrade to business,upgrade
+How to cancel booking,cancellation
+Flight delay information,delay_info
+Online check-in process,check_in
+How to get my money back,refund
+Refund policy,refund
+How to cancel booking,cancellation
+Baggage policy,baggage
+What is the delay status,delay_info
+What is the weather,general
+Book flight to London,booking
+Cancel my flight,cancellation
+When does check-in open,check_in
+How to upgrade to business,upgrade
+Refund policy,refund
+How much luggage can I bring,baggage
+Is my flight delayed,delay_info
+Is my flight delayed,delay_info
+Flight delay information,delay_info
+What is the weather,general
+How do I check in online,check_in
+I want to buy a ticket,booking
+Is my flight delayed,delay_info
+Help me please,general
+Seat upgrade options,upgrade
+Flight delay information,delay_info
+I want to cancel my ticket,cancellation
+I want to buy a ticket,booking
+Is my flight delayed,delay_info
+How to cancel booking,cancellation
+Cancel my flight,cancellation
+How to get my money back,refund
+Can I upgrade my seat,upgrade
+Baggage policy,baggage
+Is my flight delayed,delay_info
+How to cancel booking,cancellation
+I want to buy a ticket,booking
+How much luggage can I bring,baggage
+Is my flight delayed,delay_info
+Seat upgrade options,upgrade
+What is the weather,general
+How to upgrade to business,upgrade
+Online check-in process,check_in
+How to cancel booking,cancellation
+How to upgrade to business,upgrade
+I want to buy a ticket,booking
+How do I check in online,check_in
+I want to buy a ticket,booking
+Help me please,general
+How to get my money back,refund
+Online check-in process,check_in
+Can I upgrade my seat,upgrade
+Seat upgrade options,upgrade
+Baggage policy,baggage
+How to upgrade to business,upgrade
+Seat upgrade options,upgrade
+When does check-in open,check_in
+Refund policy,refund
+Refund policy,refund
+How to cancel booking,cancellation
+What is the baggage allowance,baggage
+What is the weather,general
+Baggage policy,baggage
+Baggage policy,baggage
+Seat upgrade options,upgrade
+How to get my money back,refund
+Cancel my flight,cancellation
+How do I check in online,check_in
+Cancel my flight,cancellation
+Online check-in process,check_in
+I want to cancel my ticket,cancellation
+What is the delay status,delay_info
+How do I book a flight,booking
+How do I book a flight,booking
+What is the delay status,delay_info
+Cancel my flight,cancellation
+How to cancel booking,cancellation
+How to get my money back,refund
+Seat upgrade options,upgrade
+Tell me about SkyMind,general
+Online check-in process,check_in
+How to get my money back,refund
+How do I book a flight,booking
+Tell me about SkyMind,general
+How do I check in online,check_in
+What is the delay status,delay_info
+How to upgrade to business,upgrade
+What is the baggage allowance,baggage
+Baggage policy,baggage
+How to upgrade to business,upgrade
+What is the delay status,delay_info
+Cancel my flight,cancellation
+What is the delay status,delay_info
+Can I upgrade my seat,upgrade
+I want to buy a ticket,booking
+Seat upgrade options,upgrade
+Help me please,general
+Cancel my flight,cancellation
+What is the baggage allowance,baggage
+When does check-in open,check_in
+How to get my money back,refund
+Online check-in process,check_in
+Help me please,general
+Is my flight delayed,delay_info
+Online check-in process,check_in
+How to get my money back,refund
+Refund policy,refund
+Flight delay information,delay_info
+Help me please,general
+Tell me about SkyMind,general
+How do I book a flight,booking
+Help me please,general
+How much luggage can I bring,baggage
+Is my flight delayed,delay_info
+How do I book a flight,booking
+Baggage policy,baggage
+Can I upgrade my seat,upgrade
+Help me please,general
+How much luggage can I bring,baggage
+How much luggage can I bring,baggage
+Online check-in process,check_in
+I need a refund,refund
+I need a refund,refund
+Online check-in process,check_in
+Seat upgrade options,upgrade
+Tell me about SkyMind,general
+How to upgrade to business,upgrade
+How to upgrade to business,upgrade
+What is the baggage allowance,baggage
+What is the weather,general
+What is the weather,general
+How do I book a flight,booking
+How do I book a flight,booking
+What is the baggage allowance,baggage
+How to get my money back,refund
+Flight delay information,delay_info
+Cancel my flight,cancellation
+How do I book a flight,booking
+Seat upgrade options,upgrade
+How to upgrade to business,upgrade
+Book flight to London,booking
+How to cancel booking,cancellation
+How do I check in online,check_in
+Online check-in process,check_in
+Book flight to London,booking
+What is the baggage allowance,baggage
+How to cancel booking,cancellation
+How do I book a flight,booking
+How to upgrade to business,upgrade
+Online check-in process,check_in
+Baggage policy,baggage
+How to upgrade to business,upgrade
+How much luggage can I bring,baggage
+Baggage policy,baggage
+How do I book a flight,booking
+Refund policy,refund
+What is the baggage allowance,baggage
+What is the delay status,delay_info
+Is my flight delayed,delay_info
+When does check-in open,check_in
+Book flight to London,booking
+Baggage policy,baggage
+Is my flight delayed,delay_info
+When does check-in open,check_in
+How much luggage can I bring,baggage
+Tell me about SkyMind,general
+What is the delay status,delay_info
+Is my flight delayed,delay_info
+Flight delay information,delay_info
+How to get my money back,refund
+How to upgrade to business,upgrade
+Book flight to London,booking
+How do I check in online,check_in
+Seat upgrade options,upgrade
+Flight delay information,delay_info
+I need a refund,refund
+Refund policy,refund
+Cancel my flight,cancellation
+What is the delay status,delay_info
+Seat upgrade options,upgrade
+How to cancel booking,cancellation
+Can I upgrade my seat,upgrade
+How to cancel booking,cancellation
+I need a refund,refund
+How do I check in online,check_in
+When does check-in open,check_in
+Online check-in process,check_in
+How do I check in online,check_in
+I want to buy a ticket,booking
+When does check-in open,check_in
+How much luggage can I bring,baggage
+Tell me about SkyMind,general
+How to cancel booking,cancellation
+I need a refund,refund
+How much luggage can I bring,baggage
+I want to buy a ticket,booking
+I want to cancel my ticket,cancellation
+When does check-in open,check_in
+Online check-in process,check_in
+Baggage policy,baggage
+When does check-in open,check_in
+Tell me about SkyMind,general
+Is my flight delayed,delay_info
+Online check-in process,check_in
+I need a refund,refund
+I want to buy a ticket,booking
+How to cancel booking,cancellation
+Is my flight delayed,delay_info
+Baggage policy,baggage
+When does check-in open,check_in
+When does check-in open,check_in
+What is the weather,general
+Cancel my flight,cancellation
+Is my flight delayed,delay_info
+How to upgrade to business,upgrade
+How to get my money back,refund
+How to cancel booking,cancellation
+I need a refund,refund
+Help me please,general
+Online check-in process,check_in
+Cancel my flight,cancellation
+Is my flight delayed,delay_info
+How do I book a flight,booking
+How do I check in online,check_in
+Baggage policy,baggage
+Book flight to London,booking
+Baggage policy,baggage
+When does check-in open,check_in
+Tell me about SkyMind,general
+I need a refund,refund
+Online check-in process,check_in
+What is the delay status,delay_info
+When does check-in open,check_in
+What is the delay status,delay_info
+How do I book a flight,booking
+I want to cancel my ticket,cancellation
+How do I book a flight,booking
+Is my flight delayed,delay_info
+Seat upgrade options,upgrade
+How to cancel booking,cancellation
+Online check-in process,check_in
+Can I upgrade my seat,upgrade
+Help me please,general
+Flight delay information,delay_info
+Online check-in process,check_in
+Tell me about SkyMind,general
+How much luggage can I bring,baggage
+Baggage policy,baggage
+Can I upgrade my seat,upgrade
+How do I check in online,check_in
+What is the delay status,delay_info
+I want to cancel my ticket,cancellation
+What is the weather,general
+Online check-in process,check_in
+I want to cancel my ticket,cancellation
+Tell me about SkyMind,general
+Flight delay information,delay_info
+I need a refund,refund
+How do I book a flight,booking
+Can I upgrade my seat,upgrade
+Cancel my flight,cancellation
+Baggage policy,baggage
+How do I check in online,check_in
+What is the baggage allowance,baggage
+When does check-in open,check_in
+What is the weather,general
+Online check-in process,check_in
+How much luggage can I bring,baggage
+How to cancel booking,cancellation
+Help me please,general
+How to upgrade to business,upgrade
+Baggage policy,baggage
+What is the delay status,delay_info
+Online check-in process,check_in
+I want to buy a ticket,booking
+What is the baggage allowance,baggage
+Refund policy,refund
+What is the weather,general
+Is my flight delayed,delay_info
+How much luggage can I bring,baggage
+How do I check in online,check_in
+Refund policy,refund
+I need a refund,refund
+What is the delay status,delay_info
+Refund policy,refund
+What is the delay status,delay_info
+How to cancel booking,cancellation
+Is my flight delayed,delay_info
+How to get my money back,refund
+How to cancel booking,cancellation
+Help me please,general
+Online check-in process,check_in
+Is my flight delayed,delay_info
+Book flight to London,booking
+Online check-in process,check_in
+Book flight to London,booking
+Refund policy,refund
+When does check-in open,check_in
+Refund policy,refund
+Is my flight delayed,delay_info
+Can I upgrade my seat,upgrade
+How do I check in online,check_in
+How do I check in online,check_in
+I need a refund,refund
+Tell me about SkyMind,general
+How to upgrade to business,upgrade
+Seat upgrade options,upgrade
+Flight delay information,delay_info
+Tell me about SkyMind,general
+Flight delay information,delay_info
+Help me please,general
+What is the baggage allowance,baggage
+How to get my money back,refund
+Online check-in process,check_in
+I want to buy a ticket,booking
+Baggage policy,baggage
+I want to buy a ticket,booking
+Online check-in process,check_in
+How to get my money back,refund
+What is the baggage allowance,baggage
+How do I check in online,check_in
+How to cancel booking,cancellation
+Seat upgrade options,upgrade
+How to upgrade to business,upgrade
+How to cancel booking,cancellation
+What is the delay status,delay_info
+What is the weather,general
+Is my flight delayed,delay_info
+What is the delay status,delay_info
+How do I book a flight,booking
+Is my flight delayed,delay_info
+How do I book a flight,booking
+What is the baggage allowance,baggage
+How to upgrade to business,upgrade
+Online check-in process,check_in
+Baggage policy,baggage
+Can I upgrade my seat,upgrade
+What is the delay status,delay_info
+I want to buy a ticket,booking
+Refund policy,refund
+What is the baggage allowance,baggage
+What is the weather,general
+Is my flight delayed,delay_info
+Tell me about SkyMind,general
+How do I book a flight,booking
+Tell me about SkyMind,general
+How to cancel booking,cancellation
+How much luggage can I bring,baggage
+Refund policy,refund
+How do I book a flight,booking
+What is the delay status,delay_info
+Seat upgrade options,upgrade
+Is my flight delayed,delay_info
+What is the delay status,delay_info
+What is the delay status,delay_info
+Can I upgrade my seat,upgrade
+I want to buy a ticket,booking
+Online check-in process,check_in
+How do I check in online,check_in
+What is the baggage allowance,baggage
+How to upgrade to business,upgrade
+Cancel my flight,cancellation
+Can I upgrade my seat,upgrade
+How to get my money back,refund
+Online check-in process,check_in
+Book flight to London,booking
+I want to cancel my ticket,cancellation
+When does check-in open,check_in
+I want to buy a ticket,booking
+What is the delay status,delay_info
+What is the baggage allowance,baggage
+How to cancel booking,cancellation
+I want to buy a ticket,booking
+How to cancel booking,cancellation
+What is the delay status,delay_info
+Book flight to London,booking
+I want to cancel my ticket,cancellation
+Is my flight delayed,delay_info
+Book flight to London,booking
+When does check-in open,check_in
+Refund policy,refund
+When does check-in open,check_in
+How to cancel booking,cancellation
+Help me please,general
+Help me please,general
+Is my flight delayed,delay_info
+I want to buy a ticket,booking
+When does check-in open,check_in
+Is my flight delayed,delay_info
+What is the baggage allowance,baggage
+Is my flight delayed,delay_info
+Seat upgrade options,upgrade
+I want to cancel my ticket,cancellation
+How do I book a flight,booking
+Is my flight delayed,delay_info
+How do I check in online,check_in
+When does check-in open,check_in
+I need a refund,refund
+Tell me about SkyMind,general
+Cancel my flight,cancellation
+Online check-in process,check_in
+Flight delay information,delay_info
+I want to cancel my ticket,cancellation
+How to cancel booking,cancellation
+How to get my money back,refund
+What is the delay status,delay_info
+I need a refund,refund
+Online check-in process,check_in
+I want to buy a ticket,booking
+How much luggage can I bring,baggage
+I want to cancel my ticket,cancellation
+How much luggage can I bring,baggage
+What is the baggage allowance,baggage
+What is the weather,general
+Cancel my flight,cancellation
+Baggage policy,baggage
+Book flight to London,booking
+How to upgrade to business,upgrade
+I want to cancel my ticket,cancellation
+How to upgrade to business,upgrade
+Refund policy,refund
+When does check-in open,check_in
+How to cancel booking,cancellation
+I want to buy a ticket,booking
+Baggage policy,baggage
+I want to buy a ticket,booking
+What is the delay status,delay_info
+What is the delay status,delay_info
+How do I check in online,check_in
+What is the baggage allowance,baggage
+Cancel my flight,cancellation
+Help me please,general
+When does check-in open,check_in
+Book flight to London,booking
+Help me please,general
+Tell me about SkyMind,general
+Is my flight delayed,delay_info
+Book flight to London,booking
+Is my flight delayed,delay_info
+Flight delay information,delay_info
+Refund policy,refund
+Is my flight delayed,delay_info
+What is the delay status,delay_info
+How to upgrade to business,upgrade
+How do I check in online,check_in
+Flight delay information,delay_info
+How to cancel booking,cancellation
+Flight delay information,delay_info
+I want to cancel my ticket,cancellation
+Cancel my flight,cancellation
+How to cancel booking,cancellation
+Tell me about SkyMind,general
+How to get my money back,refund
+Baggage policy,baggage
+How to upgrade to business,upgrade
+Tell me about SkyMind,general
+I want to cancel my ticket,cancellation
+Seat upgrade options,upgrade
+Flight delay information,delay_info
+Cancel my flight,cancellation
+When does check-in open,check_in
+Help me please,general
+I want to cancel my ticket,cancellation
+Book flight to London,booking
+What is the weather,general
+Tell me about SkyMind,general
+What is the baggage allowance,baggage
+Book flight to London,booking
+Is my flight delayed,delay_info
+Help me please,general
+I need a refund,refund
+Tell me about SkyMind,general
+How do I book a flight,booking
+Tell me about SkyMind,general
+What is the delay status,delay_info
+Refund policy,refund
+How much luggage can I bring,baggage
+How to cancel booking,cancellation
+Tell me about SkyMind,general
+How to cancel booking,cancellation
+Help me please,general
+How to get my money back,refund
+Help me please,general
+Book flight to London,booking
+How do I check in online,check_in
+When does check-in open,check_in
+How do I book a flight,booking
+What is the delay status,delay_info
+What is the baggage allowance,baggage
+Tell me about SkyMind,general
+Baggage policy,baggage
+How to cancel booking,cancellation
+What is the weather,general
+Cancel my flight,cancellation
+Seat upgrade options,upgrade
+Help me please,general
+How do I check in online,check_in
+Seat upgrade options,upgrade
+I need a refund,refund
+Can I upgrade my seat,upgrade
+Tell me about SkyMind,general
+How do I check in online,check_in
+I want to buy a ticket,booking
+Online check-in process,check_in
+How much luggage can I bring,baggage
+How to upgrade to business,upgrade
+When does check-in open,check_in
+How to upgrade to business,upgrade
+Refund policy,refund
+Refund policy,refund
+How do I check in online,check_in
+How to upgrade to business,upgrade
+Cancel my flight,cancellation
+Refund policy,refund
+I need a refund,refund
+How to get my money back,refund
+Can I upgrade my seat,upgrade
+Flight delay information,delay_info
+Is my flight delayed,delay_info
+What is the baggage allowance,baggage
+Book flight to London,booking
+Refund policy,refund
+Is my flight delayed,delay_info
+I need a refund,refund
+Help me please,general
+Refund policy,refund
+Help me please,general
+Help me please,general
+What is the delay status,delay_info
+How do I check in online,check_in
+I want to cancel my ticket,cancellation
+Online check-in process,check_in
+I want to cancel my ticket,cancellation
+What is the delay status,delay_info
+How to cancel booking,cancellation
+Online check-in process,check_in
+What is the delay status,delay_info
+When does check-in open,check_in
+What is the delay status,delay_info
+When does check-in open,check_in
+Tell me about SkyMind,general
+Can I upgrade my seat,upgrade
+How to get my money back,refund
+How to get my money back,refund
+Help me please,general
+When does check-in open,check_in
+Seat upgrade options,upgrade
+What is the weather,general
+What is the baggage allowance,baggage
+Can I upgrade my seat,upgrade
+How do I book a flight,booking
+Is my flight delayed,delay_info
+Is my flight delayed,delay_info
+Refund policy,refund
+Online check-in process,check_in
+Cancel my flight,cancellation
+Flight delay information,delay_info
+Is my flight delayed,delay_info
+How to get my money back,refund
+I want to buy a ticket,booking
+I need a refund,refund
+What is the weather,general
+How to upgrade to business,upgrade
+Online check-in process,check_in
+I want to cancel my ticket,cancellation
+I want to cancel my ticket,cancellation
+What is the weather,general
+Flight delay information,delay_info
+Tell me about SkyMind,general
+Refund policy,refund
+Refund policy,refund
+How to get my money back,refund
+How do I check in online,check_in
+Seat upgrade options,upgrade
+I want to buy a ticket,booking
+What is the weather,general
+Can I upgrade my seat,upgrade
+How to upgrade to business,upgrade
+How to cancel booking,cancellation
+Can I upgrade my seat,upgrade
+How do I book a flight,booking
+What is the delay status,delay_info
+Help me please,general
+Refund policy,refund
+Flight delay information,delay_info
+How much luggage can I bring,baggage
+How to cancel booking,cancellation
+When does check-in open,check_in
+Seat upgrade options,upgrade
+How much luggage can I bring,baggage
+Help me please,general
+What is the delay status,delay_info
+How to upgrade to business,upgrade
+Cancel my flight,cancellation
+I want to cancel my ticket,cancellation
+I need a refund,refund
+How much luggage can I bring,baggage
+Is my flight delayed,delay_info
+How to get my money back,refund
+Baggage policy,baggage
+When does check-in open,check_in
+Refund policy,refund
+What is the baggage allowance,baggage
+How to upgrade to business,upgrade
+What is the weather,general
+Flight delay information,delay_info
+Flight delay information,delay_info
+Help me please,general
+Baggage policy,baggage
+Online check-in process,check_in
+Online check-in process,check_in
+How do I book a flight,booking
+Refund policy,refund
+Book flight to London,booking
+I want to buy a ticket,booking
+Refund policy,refund
+I want to cancel my ticket,cancellation
+Cancel my flight,cancellation
+How much luggage can I bring,baggage
+Tell me about SkyMind,general
+How do I book a flight,booking
+Flight delay information,delay_info
+What is the weather,general
+Cancel my flight,cancellation
+I want to buy a ticket,booking
+Cancel my flight,cancellation
+I want to buy a ticket,booking
+What is the baggage allowance,baggage
+What is the weather,general
+What is the delay status,delay_info
+How do I check in online,check_in
+Tell me about SkyMind,general
+Refund policy,refund
+What is the weather,general
+How do I check in online,check_in
+How much luggage can I bring,baggage
+What is the weather,general
+Refund policy,refund
+Cancel my flight,cancellation
+What is the baggage allowance,baggage
+I want to buy a ticket,booking
+How to upgrade to business,upgrade
+Can I upgrade my seat,upgrade
+How to cancel booking,cancellation
+When does check-in open,check_in
+What is the weather,general
+Is my flight delayed,delay_info
+Seat upgrade options,upgrade
+What is the baggage allowance,baggage
+When does check-in open,check_in
+Baggage policy,baggage
+How much luggage can I bring,baggage
+Cancel my flight,cancellation
+I need a refund,refund
+I want to buy a ticket,booking
+Baggage policy,baggage
+I want to cancel my ticket,cancellation
+How to upgrade to business,upgrade
+How to upgrade to business,upgrade
+What is the delay status,delay_info
+How to get my money back,refund
+Flight delay information,delay_info
+Seat upgrade options,upgrade
+Is my flight delayed,delay_info
+Book flight to London,booking
+Cancel my flight,cancellation
+Can I upgrade my seat,upgrade
+Book flight to London,booking
+Flight delay information,delay_info
+What is the delay status,delay_info
+Is my flight delayed,delay_info
+What is the delay status,delay_info
+How do I book a flight,booking
+Cancel my flight,cancellation
+Refund policy,refund
+When does check-in open,check_in
+Can I upgrade my seat,upgrade
+How much luggage can I bring,baggage
+How to get my money back,refund
+Refund policy,refund
+How much luggage can I bring,baggage
+I need a refund,refund
+How to cancel booking,cancellation
+What is the delay status,delay_info
+Is my flight delayed,delay_info
+Flight delay information,delay_info
+Is my flight delayed,delay_info
+Help me please,general
+What is the baggage allowance,baggage
+How to upgrade to business,upgrade
+Book flight to London,booking
+I need a refund,refund
+What is the weather,general
+I want to cancel my ticket,cancellation
+What is the weather,general
+Book flight to London,booking
+How do I book a flight,booking
+I need a refund,refund
+Tell me about SkyMind,general
+Tell me about SkyMind,general
+I want to cancel my ticket,cancellation
+Baggage policy,baggage
+Is my flight delayed,delay_info
+Seat upgrade options,upgrade
+When does check-in open,check_in
+I need a refund,refund
+How to cancel booking,cancellation
+How to upgrade to business,upgrade
+Help me please,general
+I need a refund,refund
+When does check-in open,check_in
+How to get my money back,refund
+What is the baggage allowance,baggage
+Baggage policy,baggage
+How do I book a flight,booking
+How to get my money back,refund
+Is my flight delayed,delay_info
+How to upgrade to business,upgrade
+How to cancel booking,cancellation
+How to upgrade to business,upgrade
+How much luggage can I bring,baggage
+How to get my money back,refund
+I want to cancel my ticket,cancellation
+Seat upgrade options,upgrade
+Flight delay information,delay_info
+Help me please,general
+When does check-in open,check_in
+How much luggage can I bring,baggage
+How to cancel booking,cancellation
+Help me please,general
+I want to cancel my ticket,cancellation
+What is the delay status,delay_info
+Flight delay information,delay_info
+Is my flight delayed,delay_info
+How do I book a flight,booking
+Can I upgrade my seat,upgrade
+How to upgrade to business,upgrade
+Cancel my flight,cancellation
+Cancel my flight,cancellation
+Is my flight delayed,delay_info
+Refund policy,refund
+How much luggage can I bring,baggage
+Book flight to London,booking
+Refund policy,refund
+What is the weather,general
+How much luggage can I bring,baggage
+What is the delay status,delay_info
+How to get my money back,refund
+Refund policy,refund
+I need a refund,refund
+I need a refund,refund
+What is the baggage allowance,baggage
+Book flight to London,booking
+What is the delay status,delay_info
+Cancel my flight,cancellation
+What is the weather,general
+How do I check in online,check_in
+Seat upgrade options,upgrade
+I want to cancel my ticket,cancellation
+Help me please,general
+Refund policy,refund
+Refund policy,refund
+Refund policy,refund
+Help me please,general
+Cancel my flight,cancellation
+How to get my money back,refund
+What is the weather,general
+How to get my money back,refund
+What is the weather,general
+I want to buy a ticket,booking
+Is my flight delayed,delay_info
+How to upgrade to business,upgrade
+How to get my money back,refund
+Cancel my flight,cancellation
+Can I upgrade my seat,upgrade
+I want to cancel my ticket,cancellation
+Online check-in process,check_in
+Flight delay information,delay_info
+How do I book a flight,booking
+How to cancel booking,cancellation
+Seat upgrade options,upgrade
+Baggage policy,baggage
+When does check-in open,check_in
+Tell me about SkyMind,general
+What is the baggage allowance,baggage
+Refund policy,refund
+When does check-in open,check_in
+How do I book a flight,booking
+How much luggage can I bring,baggage
+What is the baggage allowance,baggage
+Flight delay information,delay_info
+Refund policy,refund
+Tell me about SkyMind,general
+I want to cancel my ticket,cancellation
+Tell me about SkyMind,general
+Cancel my flight,cancellation
+Is my flight delayed,delay_info
+Help me please,general
+How to get my money back,refund
+What is the delay status,delay_info
+Online check-in process,check_in
+I need a refund,refund
+Refund policy,refund
+Book flight to London,booking
+Is my flight delayed,delay_info
+Baggage policy,baggage
+When does check-in open,check_in
+How much luggage can I bring,baggage
+Tell me about SkyMind,general
+Book flight to London,booking
+Is my flight delayed,delay_info
+Cancel my flight,cancellation
+How do I check in online,check_in
+Cancel my flight,cancellation
+Tell me about SkyMind,general
+How to cancel booking,cancellation
+I need a refund,refund
+Can I upgrade my seat,upgrade
+What is the baggage allowance,baggage
+Is my flight delayed,delay_info
+What is the baggage allowance,baggage
+I need a refund,refund
+Baggage policy,baggage
+Online check-in process,check_in
+How do I check in online,check_in
+Book flight to London,booking
+How much luggage can I bring,baggage
+How do I book a flight,booking
+Seat upgrade options,upgrade
+What is the weather,general
+Seat upgrade options,upgrade
+How to upgrade to business,upgrade
+What is the baggage allowance,baggage
+How do I book a flight,booking
+I want to cancel my ticket,cancellation
+When does check-in open,check_in
+How to cancel booking,cancellation
+How to cancel booking,cancellation
+I want to buy a ticket,booking
+Baggage policy,baggage
+What is the weather,general
+Seat upgrade options,upgrade
+Refund policy,refund
+Tell me about SkyMind,general
+What is the delay status,delay_info
+I want to cancel my ticket,cancellation
+How to cancel booking,cancellation
+How to cancel booking,cancellation
+I need a refund,refund
+Seat upgrade options,upgrade
+When does check-in open,check_in
+Cancel my flight,cancellation
+How to get my money back,refund
+Baggage policy,baggage
+How to cancel booking,cancellation
+Baggage policy,baggage
+Tell me about SkyMind,general
+Refund policy,refund
+I want to cancel my ticket,cancellation
+Cancel my flight,cancellation
+How to get my money back,refund
+Book flight to London,booking
+What is the delay status,delay_info
+What is the delay status,delay_info
+I need a refund,refund
+Seat upgrade options,upgrade
+How do I check in online,check_in
+Baggage policy,baggage
+How do I check in online,check_in
+What is the weather,general
+What is the baggage allowance,baggage
+What is the delay status,delay_info
+How do I check in online,check_in
+How to get my money back,refund
+What is the weather,general
+What is the delay status,delay_info
+How do I check in online,check_in
+When does check-in open,check_in
+Help me please,general
+I want to buy a ticket,booking
+Flight delay information,delay_info
+Tell me about SkyMind,general
+Help me please,general
+I want to cancel my ticket,cancellation
+How much luggage can I bring,baggage
+Flight delay information,delay_info
+Baggage policy,baggage
+Seat upgrade options,upgrade
+How much luggage can I bring,baggage
+Is my flight delayed,delay_info
+What is the baggage allowance,baggage
+I need a refund,refund
+How to upgrade to business,upgrade
+I need a refund,refund
+I need a refund,refund
+How to upgrade to business,upgrade
+Tell me about SkyMind,general
+Online check-in process,check_in
+I want to buy a ticket,booking
+Cancel my flight,cancellation
+Can I upgrade my seat,upgrade
+What is the weather,general
+How to cancel booking,cancellation
+Is my flight delayed,delay_info
+Refund policy,refund
+What is the baggage allowance,baggage
+Cancel my flight,cancellation
+How much luggage can I bring,baggage
+Refund policy,refund
+Refund policy,refund
+Is my flight delayed,delay_info
+Refund policy,refund
+I need a refund,refund
+Cancel my flight,cancellation
+How do I check in online,check_in
+Help me please,general
+When does check-in open,check_in
+Seat upgrade options,upgrade
+Cancel my flight,cancellation
+How to upgrade to business,upgrade
+Tell me about SkyMind,general
+How to upgrade to business,upgrade
+How to upgrade to business,upgrade
+What is the delay status,delay_info
+When does check-in open,check_in
+Tell me about SkyMind,general
+Help me please,general
+Book flight to London,booking
+Is my flight delayed,delay_info
+When does check-in open,check_in
+Help me please,general
+How do I book a flight,booking
+I need a refund,refund
+Flight delay information,delay_info
+How do I book a flight,booking
+How to get my money back,refund
+Book flight to London,booking
+What is the weather,general
+How do I book a flight,booking
+Is my flight delayed,delay_info
+Help me please,general
+When does check-in open,check_in
+Refund policy,refund
+Can I upgrade my seat,upgrade
+How do I book a flight,booking
+Refund policy,refund
+Flight delay information,delay_info
+How to get my money back,refund
+Refund policy,refund
+How much luggage can I bring,baggage
+Book flight to London,booking
+How much luggage can I bring,baggage
+What is the baggage allowance,baggage
+Help me please,general
+How to cancel booking,cancellation
+Refund policy,refund
+Can I upgrade my seat,upgrade
+How to upgrade to business,upgrade
+Is my flight delayed,delay_info
+Seat upgrade options,upgrade
+What is the baggage allowance,baggage
+How to get my money back,refund
+Tell me about SkyMind,general
+I need a refund,refund
+Refund policy,refund
+What is the baggage allowance,baggage
+When does check-in open,check_in
+Help me please,general
+Is my flight delayed,delay_info
+I want to buy a ticket,booking
+How to get my money back,refund
+Is my flight delayed,delay_info
+How to cancel booking,cancellation
+What is the delay status,delay_info
+What is the delay status,delay_info
+I need a refund,refund
+Tell me about SkyMind,general
+Cancel my flight,cancellation
+I need a refund,refund
+Seat upgrade options,upgrade
+How to cancel booking,cancellation
+Refund policy,refund
+What is the baggage allowance,baggage
+I need a refund,refund
+Can I upgrade my seat,upgrade
+How to upgrade to business,upgrade
+How do I book a flight,booking
+Seat upgrade options,upgrade
+Tell me about SkyMind,general
+How to cancel booking,cancellation
+I want to buy a ticket,booking
+I need a refund,refund
+Cancel my flight,cancellation
+Tell me about SkyMind,general
+How do I book a flight,booking
+What is the weather,general
+How do I book a flight,booking
+How do I check in online,check_in
+Help me please,general
+Online check-in process,check_in
+Refund policy,refund
+Is my flight delayed,delay_info
+I want to cancel my ticket,cancellation
+I want to buy a ticket,booking
+Baggage policy,baggage
+When does check-in open,check_in
+Is my flight delayed,delay_info
+Seat upgrade options,upgrade
+How do I check in online,check_in
+What is the weather,general
+What is the weather,general
+What is the weather,general
+Help me please,general
+I want to buy a ticket,booking
+Book flight to London,booking
+What is the delay status,delay_info
+What is the delay status,delay_info
+I need a refund,refund
+How to cancel booking,cancellation
+Baggage policy,baggage
+I need a refund,refund
+Is my flight delayed,delay_info
+I need a refund,refund
+How much luggage can I bring,baggage
+What is the baggage allowance,baggage
+Help me please,general
+What is the weather,general
+What is the baggage allowance,baggage
+I need a refund,refund
+I want to buy a ticket,booking
+Flight delay information,delay_info
+Online check-in process,check_in
+What is the baggage allowance,baggage
+Refund policy,refund
+What is the baggage allowance,baggage
+How to upgrade to business,upgrade
+When does check-in open,check_in
+Cancel my flight,cancellation
+Can I upgrade my seat,upgrade
+Help me please,general
+How to get my money back,refund
+When does check-in open,check_in
+What is the delay status,delay_info
+I want to cancel my ticket,cancellation
+Help me please,general
+Help me please,general
+Book flight to London,booking
+When does check-in open,check_in
+How to cancel booking,cancellation
+How to get my money back,refund
+I want to buy a ticket,booking
+Can I upgrade my seat,upgrade
+Book flight to London,booking
+How to get my money back,refund
+When does check-in open,check_in
+I want to buy a ticket,booking
+Baggage policy,baggage
+What is the delay status,delay_info
+How do I check in online,check_in
+I want to buy a ticket,booking
+I need a refund,refund
+How to get my money back,refund
+Cancel my flight,cancellation
+When does check-in open,check_in
+Baggage policy,baggage
+When does check-in open,check_in
+Book flight to London,booking
+How to upgrade to business,upgrade
+Is my flight delayed,delay_info
+Baggage policy,baggage
+How much luggage can I bring,baggage
+Refund policy,refund
+How to get my money back,refund
+How much luggage can I bring,baggage
+I want to cancel my ticket,cancellation
+What is the delay status,delay_info
+Can I upgrade my seat,upgrade
+How to get my money back,refund
+Online check-in process,check_in
+Online check-in process,check_in
+Seat upgrade options,upgrade
+How to get my money back,refund
+What is the weather,general
+Flight delay information,delay_info
+What is the baggage allowance,baggage
+Cancel my flight,cancellation
+I want to buy a ticket,booking
+Help me please,general
+How do I book a flight,booking
+I want to cancel my ticket,cancellation
+Is my flight delayed,delay_info
+What is the baggage allowance,baggage
+Online check-in process,check_in
+How to get my money back,refund
+What is the weather,general
+How to get my money back,refund
+What is the delay status,delay_info
+I want to cancel my ticket,cancellation
+Cancel my flight,cancellation
+Online check-in process,check_in
+Can I upgrade my seat,upgrade
+Seat upgrade options,upgrade
+How to cancel booking,cancellation
+How do I check in online,check_in
+Is my flight delayed,delay_info
+Can I upgrade my seat,upgrade
+How much luggage can I bring,baggage
+How do I check in online,check_in
+Can I upgrade my seat,upgrade
+How to upgrade to business,upgrade
+What is the delay status,delay_info
+Book flight to London,booking
+I want to buy a ticket,booking
+Baggage policy,baggage
+When does check-in open,check_in
+Baggage policy,baggage
+I need a refund,refund
+Is my flight delayed,delay_info
+Baggage policy,baggage
+When does check-in open,check_in
+How to upgrade to business,upgrade
+How do I check in online,check_in
+I need a refund,refund
+How much luggage can I bring,baggage
+How to upgrade to business,upgrade
+What is the delay status,delay_info
+Is my flight delayed,delay_info
+When does check-in open,check_in
+Is my flight delayed,delay_info
+I need a refund,refund
+Is my flight delayed,delay_info
+How do I check in online,check_in
+Seat upgrade options,upgrade
+I want to cancel my ticket,cancellation
+Help me please,general
+Seat upgrade options,upgrade
+What is the delay status,delay_info
+How to get my money back,refund
+How do I book a flight,booking
+Refund policy,refund
+What is the delay status,delay_info
+What is the weather,general
+How do I check in online,check_in
+Help me please,general
+What is the baggage allowance,baggage
+Baggage policy,baggage
+Baggage policy,baggage
+Book flight to London,booking
+Flight delay information,delay_info
+How do I book a flight,booking
+Cancel my flight,cancellation
+How do I book a flight,booking
+Book flight to London,booking
+Online check-in process,check_in
+How to get my money back,refund
+What is the weather,general
+What is the weather,general
+How do I book a flight,booking
+Is my flight delayed,delay_info
+When does check-in open,check_in
+I need a refund,refund
+When does check-in open,check_in
+Help me please,general
+How to get my money back,refund
+Online check-in process,check_in
+Refund policy,refund
+How to upgrade to business,upgrade
+Help me please,general
+Online check-in process,check_in
+Baggage policy,baggage
+How to get my money back,refund
+Flight delay information,delay_info
+Online check-in process,check_in
+Can I upgrade my seat,upgrade
+How much luggage can I bring,baggage
+How to cancel booking,cancellation
+What is the delay status,delay_info
+I need a refund,refund
+Help me please,general
+Help me please,general
+Tell me about SkyMind,general
+When does check-in open,check_in
+What is the delay status,delay_info
+What is the baggage allowance,baggage
+What is the weather,general
+Tell me about SkyMind,general
+How to get my money back,refund
+What is the baggage allowance,baggage
+What is the delay status,delay_info
+Can I upgrade my seat,upgrade
+Online check-in process,check_in
+Tell me about SkyMind,general
+Cancel my flight,cancellation
+Is my flight delayed,delay_info
+Online check-in process,check_in
+Cancel my flight,cancellation
+How to upgrade to business,upgrade
+When does check-in open,check_in
+What is the delay status,delay_info
+How do I book a flight,booking
+What is the weather,general
+When does check-in open,check_in
+Online check-in process,check_in
+Flight delay information,delay_info
+What is the delay status,delay_info
+I need a refund,refund
+How to upgrade to business,upgrade
+Refund policy,refund
+Flight delay information,delay_info
+How much luggage can I bring,baggage
+Cancel my flight,cancellation
+Book flight to London,booking
+Help me please,general
+What is the delay status,delay_info
+Book flight to London,booking
+Flight delay information,delay_info
+What is the weather,general
+How do I check in online,check_in
+What is the baggage allowance,baggage
+Can I upgrade my seat,upgrade
+Tell me about SkyMind,general
+What is the weather,general
+How do I check in online,check_in
+How do I check in online,check_in
+Cancel my flight,cancellation
+How to cancel booking,cancellation
+How much luggage can I bring,baggage
+When does check-in open,check_in
+What is the weather,general
+I need a refund,refund
+Can I upgrade my seat,upgrade
+How to get my money back,refund
+Can I upgrade my seat,upgrade
+How to get my money back,refund
+Can I upgrade my seat,upgrade
+What is the weather,general
+Seat upgrade options,upgrade
+Cancel my flight,cancellation
+How to get my money back,refund
+Can I upgrade my seat,upgrade
+Cancel my flight,cancellation
+How do I book a flight,booking
+What is the baggage allowance,baggage
+Cancel my flight,cancellation
+I want to buy a ticket,booking
+How do I check in online,check_in
+Help me please,general
+How do I check in online,check_in
+Flight delay information,delay_info
+How do I check in online,check_in
+Seat upgrade options,upgrade
+Baggage policy,baggage
+Flight delay information,delay_info
+Is my flight delayed,delay_info
+Seat upgrade options,upgrade
+Cancel my flight,cancellation
+I need a refund,refund
+I want to cancel my ticket,cancellation
+How to get my money back,refund
+How do I check in online,check_in
+When does check-in open,check_in
+How to upgrade to business,upgrade
+I want to buy a ticket,booking
+When does check-in open,check_in
+Can I upgrade my seat,upgrade
+Refund policy,refund
+Online check-in process,check_in
+How much luggage can I bring,baggage
+Seat upgrade options,upgrade
+Refund policy,refund
+How to get my money back,refund
+I need a refund,refund
+How much luggage can I bring,baggage
+What is the baggage allowance,baggage
+When does check-in open,check_in
+What is the delay status,delay_info
+What is the baggage allowance,baggage
+Baggage policy,baggage
+Tell me about SkyMind,general
+I need a refund,refund
+How do I check in online,check_in
+Seat upgrade options,upgrade
+Seat upgrade options,upgrade
+Help me please,general
+Book flight to London,booking
+How much luggage can I bring,baggage
+When does check-in open,check_in
+I want to cancel my ticket,cancellation
+I need a refund,refund
+What is the delay status,delay_info
+Flight delay information,delay_info
+How much luggage can I bring,baggage
+I want to cancel my ticket,cancellation
+Book flight to London,booking
+Is my flight delayed,delay_info
+I need a refund,refund
+Baggage policy,baggage
+What is the baggage allowance,baggage
+How to cancel booking,cancellation
+How much luggage can I bring,baggage
+Cancel my flight,cancellation
+I need a refund,refund
+Seat upgrade options,upgrade
+Book flight to London,booking
+When does check-in open,check_in
+Can I upgrade my seat,upgrade
+What is the delay status,delay_info
+How do I book a flight,booking
+How much luggage can I bring,baggage
+Refund policy,refund
+When does check-in open,check_in
+What is the weather,general
+What is the weather,general
+Tell me about SkyMind,general
+I want to cancel my ticket,cancellation
+Can I upgrade my seat,upgrade
+Book flight to London,booking
+I want to cancel my ticket,cancellation
+What is the baggage allowance,baggage
+When does check-in open,check_in
+How to upgrade to business,upgrade
+How do I book a flight,booking
+How to get my money back,refund
+Tell me about SkyMind,general
+I want to buy a ticket,booking
+What is the weather,general
+Baggage policy,baggage
+What is the baggage allowance,baggage
+I want to buy a ticket,booking
+When does check-in open,check_in
+Online check-in process,check_in
+Can I upgrade my seat,upgrade
+Book flight to London,booking
+How to get my money back,refund
+How to get my money back,refund
+What is the weather,general
+How to get my money back,refund
+Baggage policy,baggage
+What is the baggage allowance,baggage
+When does check-in open,check_in
+How much luggage can I bring,baggage
+Help me please,general
+Cancel my flight,cancellation
+How to upgrade to business,upgrade
+How to upgrade to business,upgrade
+How to get my money back,refund
+Book flight to London,booking
+I need a refund,refund
+How to upgrade to business,upgrade
+Can I upgrade my seat,upgrade
+Seat upgrade options,upgrade
+Tell me about SkyMind,general
+Is my flight delayed,delay_info
+Refund policy,refund
+Refund policy,refund
+Online check-in process,check_in
+I want to buy a ticket,booking
+Cancel my flight,cancellation
+Online check-in process,check_in
+Is my flight delayed,delay_info
+Help me please,general
+Refund policy,refund
+Refund policy,refund
+Seat upgrade options,upgrade
+Flight delay information,delay_info
+Seat upgrade options,upgrade
+Tell me about SkyMind,general
+What is the weather,general
+Baggage policy,baggage
+Help me please,general
+Online check-in process,check_in
+Seat upgrade options,upgrade
+When does check-in open,check_in
+Baggage policy,baggage
+How to cancel booking,cancellation
+What is the delay status,delay_info
+What is the baggage allowance,baggage
+What is the baggage allowance,baggage
+Help me please,general
+How to cancel booking,cancellation
+How much luggage can I bring,baggage
+How to get my money back,refund
+When does check-in open,check_in
+I want to buy a ticket,booking
+I need a refund,refund
+What is the weather,general
+How do I book a flight,booking
+Is my flight delayed,delay_info
+Book flight to London,booking
+Help me please,general
+What is the delay status,delay_info
+What is the baggage allowance,baggage
+How much luggage can I bring,baggage
+What is the weather,general
+When does check-in open,check_in
+I need a refund,refund
+When does check-in open,check_in
+What is the delay status,delay_info
+Is my flight delayed,delay_info
+Online check-in process,check_in
+I want to cancel my ticket,cancellation
+What is the delay status,delay_info
+How do I check in online,check_in
+Online check-in process,check_in
+Baggage policy,baggage
+Is my flight delayed,delay_info
+How do I check in online,check_in
+Online check-in process,check_in
+Online check-in process,check_in
+I want to buy a ticket,booking
+Flight delay information,delay_info
+What is the baggage allowance,baggage
+Seat upgrade options,upgrade
+Tell me about SkyMind,general
+How much luggage can I bring,baggage
+Cancel my flight,cancellation
+Book flight to London,booking
+I want to cancel my ticket,cancellation
+Book flight to London,booking
+I need a refund,refund
+What is the delay status,delay_info
+How do I book a flight,booking
+How do I check in online,check_in
+How to cancel booking,cancellation
+When does check-in open,check_in
+Can I upgrade my seat,upgrade
+What is the delay status,delay_info
+Cancel my flight,cancellation
+I need a refund,refund
+Cancel my flight,cancellation
+Tell me about SkyMind,general
+How to get my money back,refund
+Can I upgrade my seat,upgrade
+Help me please,general
+How much luggage can I bring,baggage
+Online check-in process,check_in
+How to upgrade to business,upgrade
+How to cancel booking,cancellation
+Seat upgrade options,upgrade
+Seat upgrade options,upgrade
+Refund policy,refund
+Online check-in process,check_in
+Online check-in process,check_in
+Cancel my flight,cancellation
+What is the delay status,delay_info
+I want to cancel my ticket,cancellation
+I need a refund,refund
+What is the weather,general
+Seat upgrade options,upgrade
+I want to buy a ticket,booking
+Cancel my flight,cancellation
+Book flight to London,booking
+Can I upgrade my seat,upgrade
+How to cancel booking,cancellation
+What is the weather,general
+Online check-in process,check_in
+What is the delay status,delay_info
+What is the weather,general
+Online check-in process,check_in
+Help me please,general
+Online check-in process,check_in
+Refund policy,refund
+I want to buy a ticket,booking
+Is my flight delayed,delay_info
+Help me please,general
+How do I book a flight,booking
+How do I check in online,check_in
+How to cancel booking,cancellation
+When does check-in open,check_in
+Can I upgrade my seat,upgrade
+Online check-in process,check_in
+Help me please,general
+Flight delay information,delay_info
+What is the delay status,delay_info
+Baggage policy,baggage
+What is the delay status,delay_info
+Can I upgrade my seat,upgrade
+How to cancel booking,cancellation
+Seat upgrade options,upgrade
+What is the weather,general
+Cancel my flight,cancellation
+Tell me about SkyMind,general
+How to cancel booking,cancellation
+What is the delay status,delay_info
+I need a refund,refund
+How to upgrade to business,upgrade
+What is the weather,general
+What is the weather,general
+I need a refund,refund
+Cancel my flight,cancellation
+Baggage policy,baggage
+Refund policy,refund
+Can I upgrade my seat,upgrade
+I want to buy a ticket,booking
+How much luggage can I bring,baggage
+How to get my money back,refund
+What is the baggage allowance,baggage
+What is the weather,general
+What is the delay status,delay_info
+How to upgrade to business,upgrade
+Online check-in process,check_in
+Seat upgrade options,upgrade
+I want to buy a ticket,booking
+How do I check in online,check_in
+Can I upgrade my seat,upgrade
+Help me please,general
+Book flight to London,booking
+Online check-in process,check_in
+Baggage policy,baggage
+Can I upgrade my seat,upgrade
+Online check-in process,check_in
+How much luggage can I bring,baggage
+How much luggage can I bring,baggage
+How do I book a flight,booking
+Is my flight delayed,delay_info
+Can I upgrade my seat,upgrade
+What is the weather,general
+What is the delay status,delay_info
+How do I check in online,check_in
+Refund policy,refund
+How much luggage can I bring,baggage
+Cancel my flight,cancellation
+Book flight to London,booking
+How do I check in online,check_in
+Baggage policy,baggage
+Seat upgrade options,upgrade
+Is my flight delayed,delay_info
+Baggage policy,baggage
+What is the baggage allowance,baggage
+What is the baggage allowance,baggage
+Refund policy,refund
+Online check-in process,check_in
+How do I check in online,check_in
+Book flight to London,booking
+Cancel my flight,cancellation
+Online check-in process,check_in
+Cancel my flight,cancellation
+How to upgrade to business,upgrade
+How much luggage can I bring,baggage
+Seat upgrade options,upgrade
+Can I upgrade my seat,upgrade
+Help me please,general
+When does check-in open,check_in
+How to upgrade to business,upgrade
+Can I upgrade my seat,upgrade
+Help me please,general
+How to upgrade to business,upgrade
+How do I book a flight,booking
+How much luggage can I bring,baggage
+Online check-in process,check_in
+Online check-in process,check_in
+I want to cancel my ticket,cancellation
+Can I upgrade my seat,upgrade
+What is the delay status,delay_info
+Can I upgrade my seat,upgrade
+Help me please,general
+Help me please,general
+What is the weather,general
+When does check-in open,check_in
+Is my flight delayed,delay_info
+Tell me about SkyMind,general
+I need a refund,refund
+How to cancel booking,cancellation
+How to cancel booking,cancellation
+Refund policy,refund
+Flight delay information,delay_info
+Tell me about SkyMind,general
+How to upgrade to business,upgrade
+Flight delay information,delay_info
+Help me please,general
+What is the baggage allowance,baggage
+Seat upgrade options,upgrade
+How do I book a flight,booking
+When does check-in open,check_in
+Tell me about SkyMind,general
+Help me please,general
+How do I check in online,check_in
+How much luggage can I bring,baggage
+How do I book a flight,booking
+Is my flight delayed,delay_info
+Refund policy,refund
+Online check-in process,check_in
+I want to cancel my ticket,cancellation
+I want to cancel my ticket,cancellation
+Seat upgrade options,upgrade
+What is the delay status,delay_info
+Tell me about SkyMind,general
+Refund policy,refund
+How do I check in online,check_in
+Can I upgrade my seat,upgrade
+Online check-in process,check_in
+I want to cancel my ticket,cancellation
+Cancel my flight,cancellation
+How to cancel booking,cancellation
+I want to buy a ticket,booking
+Tell me about SkyMind,general
+I want to buy a ticket,booking
+When does check-in open,check_in
+Help me please,general
+How to upgrade to business,upgrade
+How much luggage can I bring,baggage
+Refund policy,refund
+Help me please,general
+Refund policy,refund
+I want to buy a ticket,booking
+I want to buy a ticket,booking
+Help me please,general
+What is the delay status,delay_info
+I want to cancel my ticket,cancellation
+Is my flight delayed,delay_info
+Baggage policy,baggage
+How to cancel booking,cancellation
+How to cancel booking,cancellation
+What is the baggage allowance,baggage
+Baggage policy,baggage
+Help me please,general
+I want to buy a ticket,booking
+How much luggage can I bring,baggage
+I need a refund,refund
+Seat upgrade options,upgrade
+How to upgrade to business,upgrade
+How do I check in online,check_in
+Online check-in process,check_in
+Book flight to London,booking
+I need a refund,refund
+Refund policy,refund
+I want to cancel my ticket,cancellation
+How to get my money back,refund
+How do I book a flight,booking
+Cancel my flight,cancellation
+Book flight to London,booking
+When does check-in open,check_in
+Seat upgrade options,upgrade
+How do I check in online,check_in
+How to cancel booking,cancellation
+I want to cancel my ticket,cancellation
+Can I upgrade my seat,upgrade
+Tell me about SkyMind,general
+Cancel my flight,cancellation
+How to get my money back,refund
+How much luggage can I bring,baggage
+Book flight to London,booking
+What is the delay status,delay_info
+How do I check in online,check_in
+Refund policy,refund
+I want to cancel my ticket,cancellation
+Cancel my flight,cancellation
+How to cancel booking,cancellation
+Book flight to London,booking
+Flight delay information,delay_info
+Is my flight delayed,delay_info
+Is my flight delayed,delay_info
+Help me please,general
+Seat upgrade options,upgrade
+What is the baggage allowance,baggage
+How to get my money back,refund
+I need a refund,refund
+Refund policy,refund
+How to get my money back,refund
+Baggage policy,baggage
+Refund policy,refund
+Can I upgrade my seat,upgrade
+I want to cancel my ticket,cancellation
+Flight delay information,delay_info
+How to upgrade to business,upgrade
+How do I book a flight,booking
+How much luggage can I bring,baggage
+I want to buy a ticket,booking
+How do I book a flight,booking
+How to cancel booking,cancellation
+I want to cancel my ticket,cancellation
+I need a refund,refund
+I want to cancel my ticket,cancellation
+Is my flight delayed,delay_info
+Tell me about SkyMind,general
+I want to cancel my ticket,cancellation
+Baggage policy,baggage
+Seat upgrade options,upgrade
+How to cancel booking,cancellation
+How much luggage can I bring,baggage
+Online check-in process,check_in
+Flight delay information,delay_info
+How to upgrade to business,upgrade
+I want to buy a ticket,booking
+Refund policy,refund
+How do I check in online,check_in
+Book flight to London,booking
+How to cancel booking,cancellation
+I need a refund,refund
+How to cancel booking,cancellation
+Online check-in process,check_in
+How do I check in online,check_in
+Can I upgrade my seat,upgrade
+How much luggage can I bring,baggage
+Tell me about SkyMind,general
+How much luggage can I bring,baggage
+How much luggage can I bring,baggage
+Seat upgrade options,upgrade
+How much luggage can I bring,baggage
+How to get my money back,refund
+Baggage policy,baggage
+I want to cancel my ticket,cancellation
+How to cancel booking,cancellation
+Can I upgrade my seat,upgrade
+Can I upgrade my seat,upgrade
+Tell me about SkyMind,general
+When does check-in open,check_in
+Tell me about SkyMind,general
+Baggage policy,baggage
+Book flight to London,booking
+What is the baggage allowance,baggage
+How do I check in online,check_in
+I need a refund,refund
+What is the weather,general
+Baggage policy,baggage
+Flight delay information,delay_info
+Can I upgrade my seat,upgrade
+Refund policy,refund
+Baggage policy,baggage
+How do I check in online,check_in
+Is my flight delayed,delay_info
+How do I check in online,check_in
+How to upgrade to business,upgrade
+What is the delay status,delay_info
+What is the baggage allowance,baggage
+Is my flight delayed,delay_info
+What is the weather,general
+Flight delay information,delay_info
+How to upgrade to business,upgrade
+How do I book a flight,booking
+I want to cancel my ticket,cancellation
+How do I check in online,check_in
+How to get my money back,refund
+How do I check in online,check_in
+Cancel my flight,cancellation
+How to upgrade to business,upgrade
+When does check-in open,check_in
+I want to buy a ticket,booking
+How much luggage can I bring,baggage
+How to get my money back,refund
+How to get my money back,refund
+What is the delay status,delay_info
+How do I check in online,check_in
+What is the weather,general
+How much luggage can I bring,baggage
+Cancel my flight,cancellation
+What is the delay status,delay_info
+Tell me about SkyMind,general
+I want to buy a ticket,booking
+How do I check in online,check_in
+How do I book a flight,booking
+Is my flight delayed,delay_info
+Tell me about SkyMind,general
+How do I book a flight,booking
+How to get my money back,refund
+Online check-in process,check_in
+What is the delay status,delay_info
+Can I upgrade my seat,upgrade
+How much luggage can I bring,baggage
+Seat upgrade options,upgrade
+Book flight to London,booking
+Is my flight delayed,delay_info
+Cancel my flight,cancellation
+How to get my money back,refund
+How much luggage can I bring,baggage
+Help me please,general
+Online check-in process,check_in
+Online check-in process,check_in
+When does check-in open,check_in
+How do I check in online,check_in
+Help me please,general
+Can I upgrade my seat,upgrade
+What is the delay status,delay_info
+How much luggage can I bring,baggage
+How much luggage can I bring,baggage
+Refund policy,refund
+Online check-in process,check_in
+What is the delay status,delay_info
+How much luggage can I bring,baggage
+How do I check in online,check_in
+Help me please,general
+I need a refund,refund
+Cancel my flight,cancellation
+Is my flight delayed,delay_info
+How do I book a flight,booking
+How to cancel booking,cancellation
+Can I upgrade my seat,upgrade
+What is the delay status,delay_info
+How to cancel booking,cancellation
+How to cancel booking,cancellation
+Cancel my flight,cancellation
+Refund policy,refund
+When does check-in open,check_in
+I need a refund,refund
+What is the delay status,delay_info
+I want to buy a ticket,booking
+How to cancel booking,cancellation
+Tell me about SkyMind,general
+Book flight to London,booking
+Baggage policy,baggage
+I need a refund,refund
+Refund policy,refund
+Cancel my flight,cancellation
+How do I book a flight,booking
+I want to cancel my ticket,cancellation
+How to upgrade to business,upgrade
+I want to cancel my ticket,cancellation
+How to get my money back,refund
+Refund policy,refund
+Seat upgrade options,upgrade
+Can I upgrade my seat,upgrade
+What is the weather,general
+Is my flight delayed,delay_info
+Is my flight delayed,delay_info
+I need a refund,refund
+I want to buy a ticket,booking
+How to upgrade to business,upgrade
+I want to cancel my ticket,cancellation
+Is my flight delayed,delay_info
+How much luggage can I bring,baggage
+What is the baggage allowance,baggage
+How to upgrade to business,upgrade
+Is my flight delayed,delay_info
+How to get my money back,refund
+I need a refund,refund
+Help me please,general
+Help me please,general
+How to cancel booking,cancellation
+How to get my money back,refund
+When does check-in open,check_in
+Cancel my flight,cancellation
+How do I book a flight,booking
+Flight delay information,delay_info
+How to get my money back,refund
+How much luggage can I bring,baggage
+When does check-in open,check_in
+Online check-in process,check_in
+How to cancel booking,cancellation
+Refund policy,refund
+What is the delay status,delay_info
+Help me please,general
+Can I upgrade my seat,upgrade
+How to cancel booking,cancellation
+How much luggage can I bring,baggage
+What is the delay status,delay_info
+Book flight to London,booking
+How do I check in online,check_in
+How do I check in online,check_in
+How much luggage can I bring,baggage
+Help me please,general
+I need a refund,refund
+What is the delay status,delay_info
+Book flight to London,booking
+Refund policy,refund
+Baggage policy,baggage
+Refund policy,refund
+How to get my money back,refund
+Seat upgrade options,upgrade
+What is the baggage allowance,baggage
+Seat upgrade options,upgrade
+How much luggage can I bring,baggage
+I want to cancel my ticket,cancellation
+Can I upgrade my seat,upgrade
+How do I book a flight,booking
+How much luggage can I bring,baggage
+How to cancel booking,cancellation
+Flight delay information,delay_info
+When does check-in open,check_in
+What is the weather,general
+How much luggage can I bring,baggage
+How to cancel booking,cancellation
+Flight delay information,delay_info
+What is the baggage allowance,baggage
+Baggage policy,baggage
+How to cancel booking,cancellation
+Flight delay information,delay_info
+What is the weather,general
+Flight delay information,delay_info
+Seat upgrade options,upgrade
+Seat upgrade options,upgrade
+I want to cancel my ticket,cancellation
+I want to cancel my ticket,cancellation
+Tell me about SkyMind,general
+I want to buy a ticket,booking
+Tell me about SkyMind,general
+Refund policy,refund
+Tell me about SkyMind,general
+Refund policy,refund
+Seat upgrade options,upgrade
+How to cancel booking,cancellation
+What is the weather,general
+How to cancel booking,cancellation
+When does check-in open,check_in
+Book flight to London,booking
+Tell me about SkyMind,general
+How do I check in online,check_in
+How to get my money back,refund
+Refund policy,refund
+I want to buy a ticket,booking
+Is my flight delayed,delay_info
+How do I book a flight,booking
+Tell me about SkyMind,general
+Help me please,general
+Is my flight delayed,delay_info
+Cancel my flight,cancellation
+How to cancel booking,cancellation
+How do I book a flight,booking
+What is the delay status,delay_info
+I want to buy a ticket,booking
+Baggage policy,baggage
+How do I check in online,check_in
+Seat upgrade options,upgrade
+Cancel my flight,cancellation
+What is the delay status,delay_info
+Refund policy,refund
+I want to buy a ticket,booking
+Online check-in process,check_in
+Book flight to London,booking
+Can I upgrade my seat,upgrade
+How to upgrade to business,upgrade
+Tell me about SkyMind,general
+How much luggage can I bring,baggage
+How to upgrade to business,upgrade
+How to cancel booking,cancellation
+Baggage policy,baggage
+How to upgrade to business,upgrade
+I want to buy a ticket,booking
+Baggage policy,baggage
+How to get my money back,refund
+Flight delay information,delay_info
+How much luggage can I bring,baggage
+Flight delay information,delay_info
+I want to buy a ticket,booking
+How to upgrade to business,upgrade
+How do I check in online,check_in
+Seat upgrade options,upgrade
+How much luggage can I bring,baggage
+Tell me about SkyMind,general
+What is the baggage allowance,baggage
+Book flight to London,booking
+What is the baggage allowance,baggage
+I want to buy a ticket,booking
+When does check-in open,check_in
+When does check-in open,check_in
+Tell me about SkyMind,general
+Help me please,general
+What is the delay status,delay_info
+How to cancel booking,cancellation
+I need a refund,refund
+Help me please,general
+I want to cancel my ticket,cancellation
+What is the baggage allowance,baggage
+Cancel my flight,cancellation
+Flight delay information,delay_info
+How to upgrade to business,upgrade
+What is the delay status,delay_info
+How do I check in online,check_in
+How to cancel booking,cancellation
+Help me please,general
+How to upgrade to business,upgrade
+I want to buy a ticket,booking
+I want to buy a ticket,booking
+Is my flight delayed,delay_info
+Help me please,general
+Is my flight delayed,delay_info
+Book flight to London,booking
+What is the delay status,delay_info
+How do I book a flight,booking
+Refund policy,refund
+Seat upgrade options,upgrade
+I want to buy a ticket,booking
+Refund policy,refund
+Book flight to London,booking
+Refund policy,refund
+Online check-in process,check_in
+What is the delay status,delay_info
+Tell me about SkyMind,general
+Is my flight delayed,delay_info
+I need a refund,refund
+I want to cancel my ticket,cancellation
+Baggage policy,baggage
+How to cancel booking,cancellation
+How to cancel booking,cancellation
+Online check-in process,check_in
+Can I upgrade my seat,upgrade
+Is my flight delayed,delay_info
+How to upgrade to business,upgrade
+How to get my money back,refund
+What is the weather,general
+How to upgrade to business,upgrade
+Cancel my flight,cancellation
+What is the delay status,delay_info
+What is the baggage allowance,baggage
+Online check-in process,check_in
+Baggage policy,baggage
+What is the weather,general
+What is the delay status,delay_info
+Book flight to London,booking
+Refund policy,refund
+Help me please,general
+Online check-in process,check_in
+Online check-in process,check_in
+Help me please,general
+How do I book a flight,booking
+What is the weather,general
+Tell me about SkyMind,general
+I want to buy a ticket,booking
+I need a refund,refund
+What is the delay status,delay_info
+Help me please,general
+How to get my money back,refund
+How much luggage can I bring,baggage
+How much luggage can I bring,baggage
+Is my flight delayed,delay_info
+What is the delay status,delay_info
+What is the baggage allowance,baggage
+I need a refund,refund
+Book flight to London,booking
+Baggage policy,baggage
+Seat upgrade options,upgrade
+I need a refund,refund
+How to cancel booking,cancellation
+Can I upgrade my seat,upgrade
+I need a refund,refund
+Seat upgrade options,upgrade
+Book flight to London,booking
+I need a refund,refund
+Flight delay information,delay_info
+Flight delay information,delay_info
+Flight delay information,delay_info
+Help me please,general
+Can I upgrade my seat,upgrade
+How much luggage can I bring,baggage
+How do I book a flight,booking
+Tell me about SkyMind,general
+What is the weather,general
+I need a refund,refund
+I want to buy a ticket,booking
+Is my flight delayed,delay_info
+I need a refund,refund
+Online check-in process,check_in
+How much luggage can I bring,baggage
+Tell me about SkyMind,general
+When does check-in open,check_in
+How do I check in online,check_in
+Can I upgrade my seat,upgrade
+When does check-in open,check_in
+How to get my money back,refund
+How do I book a flight,booking
+Can I upgrade my seat,upgrade
+I need a refund,refund
+Help me please,general
+I want to cancel my ticket,cancellation
+Cancel my flight,cancellation
+I need a refund,refund
+Can I upgrade my seat,upgrade
+Tell me about SkyMind,general
+Baggage policy,baggage
+When does check-in open,check_in
+Can I upgrade my seat,upgrade
+Baggage policy,baggage
+Baggage policy,baggage
+Refund policy,refund
+Tell me about SkyMind,general
+Online check-in process,check_in
+How do I book a flight,booking
+What is the weather,general
+Book flight to London,booking
+How do I book a flight,booking
+When does check-in open,check_in
+How to cancel booking,cancellation
+How do I book a flight,booking
+I want to cancel my ticket,cancellation
+Is my flight delayed,delay_info
+How do I check in online,check_in
+What is the weather,general
+How to cancel booking,cancellation
+How to upgrade to business,upgrade
+I want to buy a ticket,booking
+What is the delay status,delay_info
+Book flight to London,booking
+How much luggage can I bring,baggage

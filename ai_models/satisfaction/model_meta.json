@@ -1,0 +1,22 @@
+{
+  "accuracy": 94.67,
+  "feature_importance": {
+    "seat_class": 0.0106,
+    "flight_delay_min": 0.1394,
+    "seat_comfort": 0.1573,
+    "food_quality": 0.1915,
+    "staff_service": 0.3949,
+    "entertainment": 0.015,
+    "cleanliness": 0.0144,
+    "wifi_quality": 0.0153,
+    "checkin_ease": 0.0163,
+    "flight_distance_km": 0.0453
+  },
+  "algorithm": "RandomForestClassifier",
+  "target": "satisfaction",
+  "classes": [
+    "dissatisfied",
+    "neutral"
+  ],
+  "n_features": 10
+}

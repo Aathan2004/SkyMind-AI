@@ -1,0 +1,22 @@
+{
+  "accuracy": 98.33,
+  "feature_importance": {
+    "preferred_class": 0.0091,
+    "budget_usd": 0.8941,
+    "preferred_airline": 0.0151,
+    "avg_rating_given": 0.0341,
+    "trips_per_year": 0.0289,
+    "loyalty_tier": 0.0125,
+    "prefers_direct": 0.0063
+  },
+  "algorithm": "RandomForestClassifier",
+  "target": "recommended_airline",
+  "classes": [
+    "AeroGulf",
+    "AsiaJet",
+    "EuroWings",
+    "PacificAir",
+    "SkyMind"
+  ],
+  "n_features": 7
+}

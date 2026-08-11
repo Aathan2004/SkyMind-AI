@@ -1,0 +1,3001 @@
+review_text,word_count,rating,sentiment
+Decent service,38,3,neutral
+Terrible experience,25,1,negative
+Lost my luggage,24,1,negative
+Very rude staff,31,1,negative
+Best airline ever,54,5,positive
+Worst flight ever,60,2,negative
+Very comfortable,27,4,positive
+Terrible experience,67,2,negative
+Very rude staff,62,2,negative
+Very comfortable,84,4,positive
+It was okay,81,3,neutral
+Very comfortable,89,4,positive
+Excellent service,11,4,positive
+Terrible experience,93,1,negative
+Worst flight ever,84,1,negative
+Very comfortable,89,5,positive
+Lost my luggage,33,1,negative
+Very rude staff,53,1,negative
+Terrible experience,40,1,negative
+Terrible experience,34,2,negative
+Best airline ever,89,4,positive
+Best airline ever,38,4,positive
+Very rude staff,57,1,negative
+Excellent service,53,4,positive
+Amazing flight,32,5,positive
+Amazing flight,88,5,positive
+Lost my luggage,7,2,negative
+Very rude staff,28,2,negative
+Excellent service,82,4,positive
+Worst flight ever,24,2,negative
+Very comfortable,12,4,positive
+Decent service,22,3,neutral
+Terrible experience,53,1,negative
+Best airline ever,21,5,positive
+Nothing special,68,3,neutral
+Terrible experience,8,1,negative
+Best airline ever,27,5,positive
+Nothing special,54,3,neutral
+Amazing flight,80,4,positive
+Nothing special,38,3,neutral
+Worst flight ever,54,1,negative
+Best airline ever,5,5,positive
+Decent service,39,3,neutral
+Average experience,98,3,neutral
+Best airline ever,25,5,positive
+Worst flight ever,39,1,negative
+Very comfortable,91,4,positive
+Very rude staff,83,2,negative
+Lost my luggage,27,2,negative
+Best airline ever,63,5,positive
+Excellent service,69,5,positive
+Average experience,35,3,neutral
+Amazing flight,31,5,positive
+Very comfortable,91,4,positive
+Excellent service,88,4,positive
+Amazing flight,36,4,positive
+Worst flight ever,88,1,negative
+Lost my luggage,32,2,negative
+Lost my luggage,26,2,negative
+Worst flight ever,9,2,negative
+Very comfortable,7,5,positive
+Excellent service,85,4,positive
+Very comfortable,66,4,positive
+Excellent service,55,4,positive
+Worst flight ever,79,1,negative
+Very comfortable,77,4,positive
+Lost my luggage,52,2,negative
+Excellent service,71,4,positive
+Average experience,95,3,neutral
+Worst flight ever,27,1,negative
+Nothing special,63,3,neutral
+Amazing flight,11,5,positive
+Best airline ever,55,4,positive
+Lost my luggage,15,1,negative
+Very rude staff,62,1,negative
+Best airline ever,45,4,positive
+Excellent service,51,4,positive
+Terrible experience,61,1,negative
+Excellent service,46,5,positive
+Very comfortable,87,4,positive
+Terrible experience,78,1,negative
+Terrible experience,32,1,negative
+Amazing flight,50,5,positive
+Worst flight ever,77,1,negative
+Very comfortable,73,5,positive
+Very comfortable,96,5,positive
+Terrible experience,87,2,negative
+Very comfortable,19,5,positive
+Decent service,52,3,neutral
+Best airline ever,65,4,positive
+Very comfortable,54,4,positive
+Lost my luggage,50,2,negative
+Very comfortable,57,4,positive
+Average experience,31,3,neutral
+Very comfortable,69,5,positive
+Very comfortable,58,5,positive
+Average experience,32,3,neutral
+Amazing flight,8,4,positive
+Average experience,17,3,neutral
+Worst flight ever,64,1,negative
+Amazing flight,63,5,positive
+Excellent service,83,5,positive
+Best airline ever,67,5,positive
+Excellent service,48,4,positive
+Amazing flight,16,5,positive
+Excellent service,49,5,positive
+Very comfortable,16,4,positive
+Best airline ever,36,5,positive
+Excellent service,57,4,positive
+Nothing special,93,3,neutral
+Average experience,86,3,neutral
+It was okay,68,3,neutral
+Amazing flight,35,5,positive
+Very rude staff,80,2,negative
+Worst flight ever,22,1,negative
+Excellent service,10,5,positive
+Nothing special,7,3,neutral
+Lost my luggage,17,2,negative
+Nothing special,65,3,neutral
+Terrible experience,74,1,negative
+Amazing flight,16,4,positive
+Excellent service,11,4,positive
+Very rude staff,89,2,negative
+Worst flight ever,58,2,negative
+Terrible experience,8,1,negative
+Amazing flight,16,4,positive
+Best airline ever,65,4,positive
+Very comfortable,75,5,positive
+Very comfortable,47,4,positive
+Excellent service,34,4,positive
+Worst flight ever,55,1,negative
+Average experience,23,3,neutral
+Worst flight ever,33,1,negative
+Decent service,49,3,neutral
+Lost my luggage,80,1,negative
+Lost my luggage,25,2,negative
+Average experience,71,3,neutral
+Decent service,27,3,neutral
+Terrible experience,82,2,negative
+Worst flight ever,67,1,negative
+Terrible experience,65,2,negative
+Terrible experience,65,2,negative
+Lost my luggage,91,2,negative
+Terrible experience,80,1,negative
+It was okay,22,3,neutral
+Excellent service,49,4,positive
+Amazing flight,30,5,positive
+Very rude staff,21,2,negative
+Worst flight ever,23,2,negative
+Terrible experience,21,1,negative
+Terrible experience,77,1,negative
+Worst flight ever,16,1,negative
+Terrible experience,45,1,negative
+Decent service,11,3,neutral
+Decent service,70,3,neutral
+Best airline ever,7,5,positive
+Very comfortable,57,4,positive
+Lost my luggage,40,2,negative
+Very rude staff,77,1,negative
+Terrible experience,58,2,negative
+Very rude staff,96,2,negative
+Very rude staff,44,2,negative
+Best airline ever,73,4,positive
+Amazing flight,27,4,positive
+Very comfortable,10,4,positive
+It was okay,45,3,neutral
+Very rude staff,96,2,negative
+Very rude staff,39,1,negative
+Worst flight ever,37,1,negative
+Average experience,26,3,neutral
+Average experience,8,3,neutral
+Very comfortable,95,5,positive
+Amazing flight,40,5,positive
+Best airline ever,63,4,positive
+It was okay,41,3,neutral
+It was okay,88,3,neutral
+Amazing flight,62,5,positive
+Amazing flight,36,4,positive
+Lost my luggage,19,2,negative
+Worst flight ever,64,1,negative
+Very rude staff,24,2,negative
+Average experience,27,3,neutral
+Very rude staff,26,2,negative
+Excellent service,12,5,positive
+Amazing flight,13,5,positive
+Lost my luggage,71,2,negative
+Terrible experience,47,2,negative
+Best airline ever,94,5,positive
+Very comfortable,23,4,positive
+Excellent service,17,4,positive
+Nothing special,98,3,neutral
+Lost my luggage,43,1,negative
+Amazing flight,32,5,positive
+Lost my luggage,91,2,negative
+Lost my luggage,39,1,negative
+Nothing special,60,3,neutral
+It was okay,63,3,neutral
+Very rude staff,29,1,negative
+Best airline ever,68,5,positive
+Average experience,97,3,neutral
+Amazing flight,86,4,positive
+Worst flight ever,49,2,negative
+Terrible experience,38,1,negative
+Terrible experience,48,1,negative
+Best airline ever,79,4,positive
+Nothing special,57,3,neutral
+Decent service,11,3,neutral
+Decent service,19,3,neutral
+Very rude staff,47,1,negative
+Worst flight ever,88,2,negative
+Worst flight ever,42,1,negative
+Lost my luggage,82,1,negative
+Excellent service,78,4,positive
+Best airline ever,45,4,positive
+Amazing flight,32,4,positive
+Worst flight ever,20,2,negative
+Very comfortable,27,5,positive
+Best airline ever,57,4,positive
+Decent service,99,3,neutral
+Lost my luggage,99,1,negative
+Excellent service,28,5,positive
+Best airline ever,56,4,positive
+Amazing flight,55,5,positive
+Best airline ever,5,4,positive
+Very rude staff,74,1,negative
+Worst flight ever,12,1,negative
+Nothing special,34,3,neutral
+Very rude staff,85,2,negative
+Decent service,42,3,neutral
+Very rude staff,76,2,negative
+Amazing flight,94,4,positive
+Very rude staff,93,2,negative
+Terrible experience,44,1,negative
+Very rude staff,66,2,negative
+Very rude staff,25,2,negative
+Nothing special,9,3,neutral
+Best airline ever,69,4,positive
+Worst flight ever,63,2,negative
+Amazing flight,78,4,positive
+Very comfortable,7,4,positive
+Lost my luggage,91,2,negative
+Best airline ever,97,4,positive
+Amazing flight,66,5,positive
+Lost my luggage,98,1,negative
+Nothing special,10,3,neutral
+Terrible experience,37,1,negative
+Nothing special,67,3,neutral
+Terrible experience,38,2,negative
+Very comfortable,62,4,positive
+It was okay,32,3,neutral
+Very rude staff,10,2,negative
+Worst flight ever,76,2,negative
+It was okay,16,3,neutral
+Lost my luggage,40,2,negative
+Nothing special,9,3,neutral
+Best airline ever,96,4,positive
+Amazing flight,98,4,positive
+Lost my luggage,70,1,negative
+Amazing flight,37,5,positive
+Excellent service,71,5,positive
+Worst flight ever,14,2,negative
+It was okay,19,3,neutral
+Terrible experience,74,1,negative
+Terrible experience,96,2,negative
+Best airline ever,51,4,positive
+Amazing flight,26,5,positive
+Amazing flight,42,4,positive
+Worst flight ever,94,2,negative
+Worst flight ever,21,2,negative
+Lost my luggage,28,2,negative
+Very rude staff,66,1,negative
+Worst flight ever,79,1,negative
+Decent service,88,3,neutral
+Decent service,51,3,neutral
+Amazing flight,78,5,positive
+Terrible experience,52,2,negative
+Best airline ever,91,4,positive
+Lost my luggage,66,2,negative
+Terrible experience,88,1,negative
+Terrible experience,55,2,negative
+Worst flight ever,63,2,negative
+Worst flight ever,35,2,negative
+Worst flight ever,54,2,negative
+Decent service,60,3,neutral
+Nothing special,37,3,neutral
+Best airline ever,6,5,positive
+Best airline ever,66,5,positive
+Average experience,9,3,neutral
+Very rude staff,77,1,negative
+Best airline ever,85,5,positive
+Lost my luggage,93,1,negative
+Lost my luggage,18,2,negative
+Terrible experience,62,2,negative
+It was okay,29,3,neutral
+Very rude staff,36,2,negative
+Average experience,57,3,neutral
+Excellent service,95,5,positive
+Terrible experience,14,2,negative
+Very comfortable,25,4,positive
+Amazing flight,84,5,positive
+Very rude staff,59,1,negative
+Very comfortable,12,4,positive
+Best airline ever,38,4,positive
+Decent service,92,3,neutral
+It was okay,55,3,neutral
+Very rude staff,83,1,negative
+Very rude staff,93,1,negative
+Amazing flight,95,5,positive
+Decent service,29,3,neutral
+Nothing special,60,3,neutral
+Terrible experience,22,2,negative
+Excellent service,24,5,positive
+It was okay,96,3,neutral
+Decent service,18,3,neutral
+Very rude staff,56,1,negative
+Best airline ever,42,5,positive
+Best airline ever,15,4,positive
+Lost my luggage,32,1,negative
+Very comfortable,83,5,positive
+Very rude staff,34,2,negative
+Very comfortable,9,4,positive
+Terrible experience,72,1,negative
+Decent service,75,3,neutral
+Very comfortable,43,5,positive
+Nothing special,44,3,neutral
+Very rude staff,39,1,negative
+Lost my luggage,7,1,negative
+Very rude staff,96,1,negative
+Excellent service,41,5,positive
+Excellent service,72,5,positive
+Nothing special,62,3,neutral
+Worst flight ever,15,1,negative
+Very comfortable,8,5,positive
+Very comfortable,72,4,positive
+Excellent service,48,5,positive
+Best airline ever,94,4,positive
+Terrible experience,94,2,negative
+Best airline ever,54,4,positive
+Terrible experience,77,2,negative
+Lost my luggage,81,1,negative
+Average experience,56,3,neutral
+Very rude staff,83,1,negative
+Very comfortable,31,5,positive
+Lost my luggage,13,2,negative
+Terrible experience,22,2,negative
+Worst flight ever,14,2,negative
+Average experience,42,3,neutral
+Very rude staff,40,2,negative
+Lost my luggage,42,1,negative
+Worst flight ever,45,1,negative
+Terrible experience,14,2,negative
+Nothing special,11,3,neutral
+Very rude staff,83,2,negative
+Very comfortable,15,5,positive
+Terrible experience,68,2,negative
+Decent service,47,3,neutral
+Amazing flight,14,4,positive
+Lost my luggage,9,1,negative
+Excellent service,87,5,positive
+Worst flight ever,36,1,negative
+Decent service,81,3,neutral
+It was okay,45,3,neutral
+Amazing flight,76,5,positive
+Best airline ever,55,4,positive
+Very comfortable,15,4,positive
+Amazing flight,6,5,positive
+Best airline ever,50,4,positive
+Excellent service,80,4,positive
+Nothing special,66,3,neutral
+Terrible experience,21,1,negative
+Lost my luggage,14,2,negative
+Best airline ever,16,4,positive
+Best airline ever,47,4,positive
+Excellent service,54,4,positive
+Very comfortable,41,4,positive
+It was okay,40,3,neutral
+Very rude staff,49,2,negative
+Nothing special,50,3,neutral
+It was okay,85,3,neutral
+Nothing special,40,3,neutral
+Amazing flight,46,4,positive
+Excellent service,25,4,positive
+Worst flight ever,92,2,negative
+Average experience,89,3,neutral
+Lost my luggage,9,2,negative
+Very rude staff,47,2,negative
+Very rude staff,52,2,negative
+Amazing flight,58,4,positive
+Nothing special,19,3,neutral
+Best airline ever,35,4,positive
+It was okay,23,3,neutral
+It was okay,68,3,neutral
+It was okay,78,3,neutral
+Very rude staff,77,1,negative
+Lost my luggage,15,1,negative
+Lost my luggage,28,2,negative
+Very comfortable,72,4,positive
+Amazing flight,66,4,positive
+Terrible experience,52,2,negative
+Terrible experience,54,2,negative
+Worst flight ever,99,2,negative
+Amazing flight,28,4,positive
+Best airline ever,70,5,positive
+Terrible experience,10,2,negative
+Decent service,37,3,neutral
+Terrible experience,60,2,negative
+Best airline ever,55,4,positive
+Decent service,71,3,neutral
+Amazing flight,40,5,positive
+Excellent service,37,5,positive
+Amazing flight,8,4,positive
+Very rude staff,42,2,negative
+Decent service,92,3,neutral
+It was okay,11,3,neutral
+Nothing special,45,3,neutral
+Nothing special,74,3,neutral
+Excellent service,76,4,positive
+Decent service,15,3,neutral
+Very comfortable,9,5,positive
+Lost my luggage,80,1,negative
+Nothing special,35,3,neutral
+Decent service,88,3,neutral
+Worst flight ever,19,2,negative
+Lost my luggage,69,1,negative
+Average experience,57,3,neutral
+Nothing special,38,3,neutral
+Very comfortable,91,5,positive
+Best airline ever,94,4,positive
+Best airline ever,86,4,positive
+Excellent service,10,5,positive
+Nothing special,63,3,neutral
+Amazing flight,43,4,positive
+Best airline ever,91,5,positive
+Terrible experience,92,2,negative
+Terrible experience,74,2,negative
+Terrible experience,48,1,negative
+Very rude staff,22,2,negative
+Very rude staff,88,1,negative
+Amazing flight,54,4,positive
+Average experience,48,3,neutral
+Amazing flight,62,4,positive
+Lost my luggage,21,1,negative
+Best airline ever,59,5,positive
+Lost my luggage,53,1,negative
+Very comfortable,40,4,positive
+Average experience,53,3,neutral
+Worst flight ever,60,2,negative
+Terrible experience,49,2,negative
+Lost my luggage,64,1,negative
+Decent service,7,3,neutral
+Excellent service,50,4,positive
+Lost my luggage,94,2,negative
+Decent service,64,3,neutral
+Nothing special,37,3,neutral
+Very rude staff,85,2,negative
+Very comfortable,30,5,positive
+Very comfortable,17,5,positive
+Excellent service,91,4,positive
+Average experience,34,3,neutral
+Average experience,72,3,neutral
+Decent service,76,3,neutral
+Lost my luggage,99,1,negative
+Amazing flight,64,4,positive
+Amazing flight,12,4,positive
+Decent service,72,3,neutral
+It was okay,93,3,neutral
+Worst flight ever,83,1,negative
+Terrible experience,38,1,negative
+Best airline ever,62,5,positive
+Lost my luggage,37,2,negative
+Average experience,44,3,neutral
+Very rude staff,54,1,negative
+Worst flight ever,54,2,negative
+Amazing flight,95,4,positive
+Lost my luggage,86,1,negative
+Nothing special,57,3,neutral
+Very comfortable,95,5,positive
+Amazing flight,19,5,positive
+Very rude staff,8,2,negative
+Average experience,74,3,neutral
+Very comfortable,32,5,positive
+Nothing special,45,3,neutral
+Nothing special,82,3,neutral
+Very comfortable,9,4,positive
+Best airline ever,74,5,positive
+Average experience,19,3,neutral
+Terrible experience,37,2,negative
+Terrible experience,73,1,negative
+Very rude staff,42,2,negative
+Very comfortable,20,4,positive
+Very comfortable,69,5,positive
+Excellent service,75,5,positive
+Lost my luggage,72,1,negative
+Best airline ever,26,5,positive
+Lost my luggage,52,2,negative
+Very comfortable,98,4,positive
+Best airline ever,81,5,positive
+Lost my luggage,95,1,negative
+Worst flight ever,98,1,negative
+Decent service,57,3,neutral
+Terrible experience,50,1,negative
+Best airline ever,80,4,positive
+Terrible experience,8,2,negative
+Nothing special,15,3,neutral
+Very comfortable,21,5,positive
+Best airline ever,13,5,positive
+Terrible experience,19,2,negative
+Decent service,9,3,neutral
+Best airline ever,75,4,positive
+Amazing flight,78,4,positive
+Best airline ever,59,4,positive
+Very rude staff,35,2,negative
+Very rude staff,72,2,negative
+Very comfortable,81,4,positive
+Excellent service,46,5,positive
+Worst flight ever,36,2,negative
+Amazing flight,6,5,positive
+Nothing special,49,3,neutral
+Excellent service,11,4,positive
+Very comfortable,22,4,positive
+Lost my luggage,6,2,negative
+Lost my luggage,41,2,negative
+Worst flight ever,41,2,negative
+Best airline ever,16,4,positive
+Nothing special,11,3,neutral
+Amazing flight,16,5,positive
+Very comfortable,82,5,positive
+Very rude staff,28,2,negative
+Excellent service,56,4,positive
+Excellent service,78,4,positive
+Decent service,50,3,neutral
+Amazing flight,74,4,positive
+Terrible experience,32,1,negative
+Best airline ever,69,4,positive
+Terrible experience,42,1,negative
+Worst flight ever,44,1,negative
+Excellent service,7,5,positive
+Lost my luggage,97,2,negative
+Very rude staff,54,1,negative
+Amazing flight,40,4,positive
+Average experience,54,3,neutral
+Amazing flight,74,4,positive
+Excellent service,66,5,positive
+Amazing flight,8,5,positive
+Average experience,83,3,neutral
+Best airline ever,60,5,positive
+Worst flight ever,31,1,negative
+Lost my luggage,80,2,negative
+Lost my luggage,30,1,negative
+It was okay,31,3,neutral
+Terrible experience,52,2,negative
+Very rude staff,84,2,negative
+Best airline ever,82,4,positive
+Average experience,60,3,neutral
+Excellent service,36,5,positive
+Average experience,49,3,neutral
+It was okay,24,3,neutral
+Excellent service,59,4,positive
+It was okay,17,3,neutral
+Worst flight ever,39,1,negative
+Lost my luggage,43,1,negative
+Nothing special,55,3,neutral
+Very comfortable,63,4,positive
+Nothing special,79,3,neutral
+Nothing special,9,3,neutral
+Terrible experience,13,1,negative
+Very comfortable,10,4,positive
+Very rude staff,45,2,negative
+Terrible experience,98,2,negative
+Excellent service,97,4,positive
+Amazing flight,27,4,positive
+Worst flight ever,30,2,negative
+Average experience,26,3,neutral
+Lost my luggage,89,1,negative
+Very rude staff,74,1,negative
+Very rude staff,27,2,negative
+Excellent service,90,5,positive
+Excellent service,22,5,positive
+Average experience,67,3,neutral
+Terrible experience,50,2,negative
+Lost my luggage,43,2,negative
+Best airline ever,22,5,positive
+Decent service,98,3,neutral
+Best airline ever,37,5,positive
+Excellent service,74,5,positive
+Very comfortable,87,5,positive
+Terrible experience,80,1,negative
+Very rude staff,41,2,negative
+It was okay,86,3,neutral
+Decent service,48,3,neutral
+Terrible experience,82,2,negative
+Lost my luggage,80,1,negative
+Terrible experience,72,2,negative
+Decent service,41,3,neutral
+Average experience,11,3,neutral
+Worst flight ever,38,1,negative
+Worst flight ever,49,2,negative
+Worst flight ever,78,1,negative
+Excellent service,67,5,positive
+Very rude staff,82,2,negative
+Excellent service,82,4,positive
+Terrible experience,80,1,negative
+Very comfortable,13,4,positive
+Terrible experience,75,1,negative
+Decent service,84,3,neutral
+Excellent service,73,4,positive
+It was okay,43,3,neutral
+Decent service,32,3,neutral
+Average experience,44,3,neutral
+It was okay,62,3,neutral
+Worst flight ever,44,2,negative
+Terrible experience,11,2,negative
+Very comfortable,39,5,positive
+It was okay,36,3,neutral
+Very comfortable,52,5,positive
+Very comfortable,62,5,positive
+Very comfortable,56,4,positive
+Terrible experience,63,1,negative
+Decent service,18,3,neutral
+Lost my luggage,85,2,negative
+Excellent service,25,4,positive
+Very rude staff,60,2,negative
+Best airline ever,5,5,positive
+Worst flight ever,63,1,negative
+Very comfortable,50,5,positive
+Amazing flight,55,5,positive
+Worst flight ever,50,1,negative
+Decent service,6,3,neutral
+Amazing flight,39,5,positive
+It was okay,97,3,neutral
+Very comfortable,95,4,positive
+Nothing special,42,3,neutral
+Best airline ever,32,4,positive
+Terrible experience,30,1,negative
+Very comfortable,75,5,positive
+Excellent service,24,5,positive
+Very comfortable,38,5,positive
+Best airline ever,49,4,positive
+Lost my luggage,56,1,negative
+Very comfortable,21,5,positive
+Lost my luggage,20,1,negative
+Excellent service,51,5,positive
+Very rude staff,6,2,negative
+Lost my luggage,87,1,negative
+Excellent service,35,4,positive
+Amazing flight,44,5,positive
+Very rude staff,28,1,negative
+Very rude staff,95,2,negative
+Very comfortable,93,5,positive
+Terrible experience,72,1,negative
+Very rude staff,36,2,negative
+It was okay,14,3,neutral
+Amazing flight,26,4,positive
+Excellent service,86,4,positive
+Best airline ever,58,5,positive
+Amazing flight,33,5,positive
+Lost my luggage,24,1,negative
+Amazing flight,15,5,positive
+Excellent service,47,5,positive
+Very comfortable,66,5,positive
+Terrible experience,85,2,negative
+Terrible experience,41,1,negative
+Very comfortable,93,4,positive
+Amazing flight,73,5,positive
+Very comfortable,80,4,positive
+Decent service,22,3,neutral
+Excellent service,21,4,positive
+Best airline ever,57,4,positive
+Decent service,96,3,neutral
+Terrible experience,87,2,negative
+Average experience,21,3,neutral
+Very comfortable,18,5,positive
+Decent service,39,3,neutral
+Very comfortable,77,5,positive
+Lost my luggage,92,1,negative
+Excellent service,78,5,positive
+Amazing flight,37,4,positive
+Nothing special,31,3,neutral
+Terrible experience,11,2,negative
+Lost my luggage,86,1,negative
+Lost my luggage,29,1,negative
+Very rude staff,75,1,negative
+Very rude staff,52,1,negative
+Best airline ever,28,4,positive
+Decent service,23,3,neutral
+Lost my luggage,14,2,negative
+Worst flight ever,65,2,negative
+Terrible experience,76,2,negative
+Nothing special,56,3,neutral
+Decent service,59,3,neutral
+Terrible experience,64,2,negative
+Amazing flight,38,5,positive
+Excellent service,74,5,positive
+Excellent service,96,5,positive
+Worst flight ever,36,1,negative
+Very rude staff,68,2,negative
+Terrible experience,90,1,negative
+Very rude staff,51,2,negative
+Excellent service,36,4,positive
+Excellent service,86,4,positive
+Excellent service,58,5,positive
+Excellent service,12,4,positive
+Terrible experience,88,1,negative
+Amazing flight,82,5,positive
+Best airline ever,25,4,positive
+Worst flight ever,68,2,negative
+Very comfortable,76,4,positive
+Very comfortable,81,5,positive
+Excellent service,30,4,positive
+Best airline ever,77,4,positive
+Worst flight ever,90,2,negative
+Terrible experience,86,2,negative
+Very comfortable,35,4,positive
+Lost my luggage,98,1,negative
+Excellent service,47,4,positive
+Lost my luggage,15,1,negative
+Best airline ever,83,4,positive
+Excellent service,64,5,positive
+Excellent service,25,4,positive
+Very rude staff,35,1,negative
+Worst flight ever,85,2,negative
+Very rude staff,8,1,negative
+Best airline ever,69,4,positive
+Lost my luggage,17,2,negative
+Amazing flight,59,4,positive
+Nothing special,19,3,neutral
+Best airline ever,45,4,positive
+It was okay,65,3,neutral
+Lost my luggage,52,1,negative
+Lost my luggage,42,1,negative
+Excellent service,71,4,positive
+Terrible experience,81,2,negative
+Very rude staff,31,1,negative
+Average experience,64,3,neutral
+Lost my luggage,9,2,negative
+Best airline ever,23,4,positive
+Average experience,68,3,neutral
+Very comfortable,25,4,positive
+Terrible experience,40,2,negative
+Very comfortable,55,5,positive
+Lost my luggage,96,2,negative
+Very rude staff,21,2,negative
+Terrible experience,27,1,negative
+Very rude staff,67,1,negative
+Lost my luggage,83,2,negative
+Excellent service,68,4,positive
+Average experience,86,3,neutral
+Decent service,52,3,neutral
+Average experience,93,3,neutral
+Terrible experience,43,1,negative
+Very comfortable,92,4,positive
+Decent service,70,3,neutral
+Worst flight ever,30,1,negative
+Lost my luggage,21,1,negative
+Amazing flight,39,5,positive
+Very rude staff,71,1,negative
+Best airline ever,76,5,positive
+Very comfortable,26,5,positive
+Excellent service,7,4,positive
+Very rude staff,10,1,negative
+Nothing special,55,3,neutral
+Average experience,69,3,neutral
+Amazing flight,71,4,positive
+Very rude staff,18,1,negative
+Average experience,85,3,neutral
+Best airline ever,33,4,positive
+Terrible experience,64,1,negative
+Best airline ever,14,5,positive
+Very comfortable,43,5,positive
+Very comfortable,25,4,positive
+Lost my luggage,37,2,negative
+Very comfortable,53,5,positive
+Very rude staff,17,2,negative
+Lost my luggage,93,1,negative
+Worst flight ever,70,2,negative
+Very rude staff,40,1,negative
+It was okay,17,3,neutral
+Terrible experience,6,1,negative
+Very rude staff,6,1,negative
+Lost my luggage,97,1,negative
+Very comfortable,77,5,positive
+Best airline ever,34,4,positive
+Decent service,38,3,neutral
+Best airline ever,40,4,positive
+Worst flight ever,43,1,negative
+Amazing flight,30,5,positive
+Worst flight ever,60,2,negative
+Average experience,67,3,neutral
+Best airline ever,36,5,positive
+Excellent service,56,4,positive
+Very comfortable,32,5,positive
+Average experience,88,3,neutral
+Decent service,16,3,neutral
+Worst flight ever,20,1,negative
+Excellent service,50,4,positive
+Lost my luggage,70,1,negative
+Lost my luggage,96,1,negative
+Very comfortable,20,5,positive
+Very rude staff,97,2,negative
+Worst flight ever,79,1,negative
+Best airline ever,95,5,positive
+Excellent service,6,5,positive
+Amazing flight,43,5,positive
+Worst flight ever,18,1,negative
+Nothing special,78,3,neutral
+Terrible experience,93,2,negative
+Excellent service,87,4,positive
+It was okay,24,3,neutral
+Average experience,35,3,neutral
+Terrible experience,90,2,negative
+Decent service,18,3,neutral
+Very rude staff,85,1,negative
+Best airline ever,63,4,positive
+Excellent service,45,5,positive
+Very rude staff,54,2,negative
+Worst flight ever,78,2,negative
+Amazing flight,90,5,positive
+Lost my luggage,21,2,negative
+Amazing flight,61,4,positive
+Worst flight ever,32,1,negative
+Lost my luggage,38,1,negative
+Lost my luggage,90,1,negative
+Nothing special,12,3,neutral
+Excellent service,50,4,positive
+It was okay,14,3,neutral
+Terrible experience,86,1,negative
+Worst flight ever,26,2,negative
+Worst flight ever,48,2,negative
+Very comfortable,68,4,positive
+Worst flight ever,30,2,negative
+Decent service,90,3,neutral
+Amazing flight,43,4,positive
+Very rude staff,30,2,negative
+Worst flight ever,89,2,negative
+Amazing flight,28,4,positive
+Lost my luggage,54,1,negative
+Very rude staff,44,2,negative
+Lost my luggage,49,2,negative
+Very rude staff,56,1,negative
+Very comfortable,44,5,positive
+Very rude staff,34,2,negative
+Very rude staff,56,1,negative
+Terrible experience,20,2,negative
+Decent service,60,3,neutral
+Lost my luggage,98,1,negative
+Average experience,45,3,neutral
+Best airline ever,42,4,positive
+Amazing flight,11,4,positive
+It was okay,39,3,neutral
+Best airline ever,93,4,positive
+Best airline ever,74,4,positive
+Lost my luggage,44,2,negative
+It was okay,82,3,neutral
+Best airline ever,15,5,positive
+Very comfortable,35,4,positive
+It was okay,62,3,neutral
+Excellent service,34,4,positive
+It was okay,34,3,neutral
+Decent service,90,3,neutral
+Terrible experience,14,2,negative
+Very rude staff,6,1,negative
+Worst flight ever,21,2,negative
+Worst flight ever,64,1,negative
+Decent service,5,3,neutral
+Lost my luggage,62,2,negative
+Terrible experience,49,2,negative
+Best airline ever,63,4,positive
+Lost my luggage,36,2,negative
+It was okay,42,3,neutral
+Lost my luggage,64,2,negative
+Best airline ever,48,4,positive
+Best airline ever,72,4,positive
+Average experience,86,3,neutral
+Amazing flight,81,4,positive
+It was okay,63,3,neutral
+Best airline ever,7,5,positive
+Very rude staff,41,2,negative
+Lost my luggage,33,2,negative
+Decent service,61,3,neutral
+Very comfortable,76,5,positive
+Amazing flight,51,5,positive
+Decent service,34,3,neutral
+Very comfortable,49,4,positive
+Lost my luggage,90,2,negative
+Very comfortable,45,5,positive
+Best airline ever,72,5,positive
+Lost my luggage,93,2,negative
+Worst flight ever,20,2,negative
+It was okay,28,3,neutral
+Very rude staff,50,1,negative
+It was okay,33,3,neutral
+Nothing special,50,3,neutral
+It was okay,17,3,neutral
+Terrible experience,95,1,negative
+Terrible experience,39,1,negative
+Best airline ever,97,5,positive
+Very rude staff,70,2,negative
+Amazing flight,14,4,positive
+Best airline ever,20,4,positive
+Very rude staff,9,1,negative
+Amazing flight,36,5,positive
+Very rude staff,79,2,negative
+Terrible experience,42,2,negative
+Terrible experience,38,2,negative
+Lost my luggage,88,2,negative
+Average experience,34,3,neutral
+It was okay,90,3,neutral
+Very rude staff,31,2,negative
+Excellent service,83,5,positive
+Terrible experience,85,2,negative
+Very rude staff,65,1,negative
+Excellent service,49,5,positive
+Nothing special,20,3,neutral
+Terrible experience,69,2,negative
+Nothing special,6,3,neutral
+Very rude staff,22,2,negative
+Very comfortable,18,4,positive
+Amazing flight,57,5,positive
+Very comfortable,61,4,positive
+Worst flight ever,94,1,negative
+Very rude staff,53,1,negative
+Lost my luggage,22,1,negative
+It was okay,58,3,neutral
+Excellent service,63,4,positive
+Terrible experience,36,1,negative
+Best airline ever,50,4,positive
+Decent service,73,3,neutral
+Very rude staff,24,2,negative
+Lost my luggage,54,1,negative
+Very rude staff,22,2,negative
+Average experience,26,3,neutral
+Average experience,9,3,neutral
+Lost my luggage,73,2,negative
+Very comfortable,53,5,positive
+Very rude staff,78,2,negative
+Terrible experience,37,2,negative
+Excellent service,45,4,positive
+Best airline ever,12,4,positive
+Excellent service,97,5,positive
+Amazing flight,15,4,positive
+Worst flight ever,78,2,negative
+Best airline ever,81,5,positive
+Amazing flight,78,4,positive
+Very rude staff,35,1,negative
+Lost my luggage,90,2,negative
+Amazing flight,59,5,positive
+Terrible experience,92,1,negative
+Amazing flight,55,4,positive
+Worst flight ever,99,2,negative
+Best airline ever,66,5,positive
+Worst flight ever,25,2,negative
+Worst flight ever,81,1,negative
+Very comfortable,30,5,positive
+Excellent service,96,5,positive
+Very rude staff,84,1,negative
+Amazing flight,17,5,positive
+Lost my luggage,71,2,negative
+Very comfortable,88,5,positive
+Very comfortable,48,5,positive
+Best airline ever,80,4,positive
+Excellent service,82,5,positive
+Lost my luggage,7,1,negative
+Worst flight ever,24,2,negative
+Lost my luggage,10,1,negative
+Very comfortable,8,5,positive
+Average experience,27,3,neutral
+Decent service,9,3,neutral
+It was okay,16,3,neutral
+Lost my luggage,64,2,negative
+Nothing special,94,3,neutral
+Amazing flight,30,5,positive
+Best airline ever,97,4,positive
+Very rude staff,63,2,negative
+Very rude staff,17,1,negative
+Worst flight ever,13,2,negative
+Very rude staff,77,1,negative
+Lost my luggage,47,1,negative
+Lost my luggage,27,1,negative
+Nothing special,93,3,neutral
+Amazing flight,26,5,positive
+Excellent service,86,5,positive
+Very rude staff,46,2,negative
+It was okay,53,3,neutral
+Terrible experience,36,2,negative
+Nothing special,88,3,neutral
+Excellent service,12,5,positive
+Very comfortable,99,5,positive
+Very comfortable,25,5,positive
+Amazing flight,83,5,positive
+Best airline ever,69,5,positive
+Very rude staff,31,1,negative
+Average experience,22,3,neutral
+Excellent service,82,4,positive
+Nothing special,49,3,neutral
+Very rude staff,78,1,negative
+Worst flight ever,53,2,negative
+Worst flight ever,53,2,negative
+Decent service,9,3,neutral
+It was okay,69,3,neutral
+Best airline ever,52,4,positive
+Very rude staff,62,1,negative
+Amazing flight,27,4,positive
+Very comfortable,47,4,positive
+Decent service,52,3,neutral
+Amazing flight,16,5,positive
+Amazing flight,37,4,positive
+Amazing flight,76,5,positive
+Lost my luggage,12,1,negative
+Terrible experience,15,2,negative
+Best airline ever,89,5,positive
+Best airline ever,84,5,positive
+Excellent service,78,4,positive
+It was okay,22,3,neutral
+Amazing flight,63,4,positive
+Worst flight ever,38,1,negative
+Nothing special,19,3,neutral
+Decent service,64,3,neutral
+Decent service,89,3,neutral
+Nothing special,72,3,neutral
+Very comfortable,52,5,positive
+Very rude staff,91,1,negative
+Excellent service,60,5,positive
+Lost my luggage,66,2,negative
+Excellent service,36,5,positive
+Terrible experience,77,2,negative
+Worst flight ever,48,1,negative
+Best airline ever,9,4,positive
+Average experience,63,3,neutral
+Worst flight ever,41,1,negative
+Nothing special,92,3,neutral
+Average experience,30,3,neutral
+Very comfortable,24,4,positive
+Terrible experience,52,1,negative
+Very comfortable,22,5,positive
+Very comfortable,41,5,positive
+Amazing flight,74,5,positive
+Very rude staff,88,1,negative
+Amazing flight,98,5,positive
+Terrible experience,97,1,negative
+Excellent service,18,5,positive
+Worst flight ever,76,2,negative
+Excellent service,96,5,positive
+Decent service,97,3,neutral
+It was okay,18,3,neutral
+Excellent service,30,4,positive
+Very comfortable,26,4,positive
+Excellent service,92,5,positive
+Very rude staff,44,2,negative
+Excellent service,5,4,positive
+Worst flight ever,79,1,negative
+It was okay,19,3,neutral
+Average experience,93,3,neutral
+Terrible experience,85,1,negative
+Very comfortable,22,5,positive
+Lost my luggage,33,1,negative
+Excellent service,92,4,positive
+Excellent service,11,5,positive
+It was okay,99,3,neutral
+Excellent service,7,4,positive
+Terrible experience,19,2,negative
+Terrible experience,6,2,negative
+Decent service,38,3,neutral
+Nothing special,40,3,neutral
+Terrible experience,57,1,negative
+Best airline ever,75,4,positive
+Worst flight ever,49,1,negative
+Very rude staff,52,2,negative
+Very rude staff,77,1,negative
+It was okay,36,3,neutral
+Decent service,61,3,neutral
+Best airline ever,45,4,positive
+Very comfortable,35,4,positive
+Very rude staff,92,1,negative
+Very rude staff,6,1,negative
+Best airline ever,15,5,positive
+Amazing flight,70,5,positive
+Worst flight ever,76,2,negative
+Amazing flight,65,4,positive
+Decent service,66,3,neutral
+Decent service,7,3,neutral
+Excellent service,88,4,positive
+Worst flight ever,77,2,negative
+Very comfortable,79,4,positive
+Very rude staff,32,2,negative
+Very rude staff,30,1,negative
+Very rude staff,65,2,negative
+Terrible experience,62,2,negative
+Very rude staff,92,1,negative
+It was okay,41,3,neutral
+Average experience,47,3,neutral
+Very comfortable,17,5,positive
+Best airline ever,24,5,positive
+Average experience,35,3,neutral
+Amazing flight,86,5,positive
+Worst flight ever,94,1,negative
+Amazing flight,54,5,positive
+Worst flight ever,56,1,negative
+Best airline ever,57,5,positive
+Excellent service,54,5,positive
+Nothing special,70,3,neutral
+Worst flight ever,66,1,negative
+Nothing special,95,3,neutral
+Worst flight ever,87,2,negative
+Very comfortable,86,4,positive
+Excellent service,7,4,positive
+Decent service,94,3,neutral
+Excellent service,52,4,positive
+Very rude staff,54,2,negative
+Excellent service,49,4,positive
+Very rude staff,93,1,negative
+Very rude staff,5,1,negative
+Amazing flight,5,5,positive
+Amazing flight,98,5,positive
+Very rude staff,70,2,negative
+Best airline ever,32,5,positive
+Very rude staff,31,2,negative
+Very rude staff,61,2,negative
+Lost my luggage,76,1,negative
+Terrible experience,29,2,negative
+Terrible experience,87,1,negative
+Excellent service,17,5,positive
+Best airline ever,99,4,positive
+Very rude staff,8,2,negative
+Decent service,74,3,neutral
+Excellent service,65,4,positive
+Nothing special,39,3,neutral
+Terrible experience,17,2,negative
+Best airline ever,76,5,positive
+Terrible experience,91,2,negative
+It was okay,39,3,neutral
+Excellent service,81,4,positive
+Lost my luggage,62,1,negative
+Lost my luggage,90,1,negative
+Amazing flight,66,4,positive
+Worst flight ever,46,2,negative
+Amazing flight,33,5,positive
+Amazing flight,10,5,positive
+Amazing flight,20,4,positive
+Excellent service,63,4,positive
+Decent service,27,3,neutral
+Very rude staff,43,2,negative
+Decent service,44,3,neutral
+Lost my luggage,36,2,negative
+Very rude staff,91,1,negative
+Nothing special,7,3,neutral
+Decent service,77,3,neutral
+Excellent service,10,5,positive
+Lost my luggage,8,2,negative
+Excellent service,24,4,positive
+It was okay,9,3,neutral
+Best airline ever,46,4,positive
+Very comfortable,18,5,positive
+Worst flight ever,7,1,negative
+Worst flight ever,23,1,negative
+Nothing special,95,3,neutral
+Average experience,98,3,neutral
+Very comfortable,70,5,positive
+It was okay,70,3,neutral
+Average experience,19,3,neutral
+Worst flight ever,76,1,negative
+Terrible experience,34,2,negative
+Very rude staff,53,1,negative
+Terrible experience,59,2,negative
+Excellent service,61,5,positive
+Very rude staff,91,2,negative
+Lost my luggage,99,2,negative
+Worst flight ever,37,2,negative
+Very comfortable,72,4,positive
+Terrible experience,14,2,negative
+Very rude staff,5,2,negative
+Lost my luggage,30,1,negative
+Very rude staff,43,2,negative
+Nothing special,55,3,neutral
+Worst flight ever,32,1,negative
+Worst flight ever,63,2,negative
+Excellent service,98,5,positive
+Very comfortable,65,4,positive
+Best airline ever,13,5,positive
+Amazing flight,46,4,positive
+Very rude staff,74,2,negative
+Terrible experience,23,1,negative
+Nothing special,34,3,neutral
+Average experience,87,3,neutral
+Best airline ever,79,4,positive
+Amazing flight,86,5,positive
+Excellent service,67,5,positive
+Average experience,85,3,neutral
+Very rude staff,78,1,negative
+Worst flight ever,84,1,negative
+Lost my luggage,11,2,negative
+Very rude staff,36,1,negative
+Very comfortable,13,4,positive
+Average experience,87,3,neutral
+Very rude staff,58,1,negative
+Average experience,93,3,neutral
+Very comfortable,69,5,positive
+Average experience,7,3,neutral
+Best airline ever,84,5,positive
+Terrible experience,26,2,negative
+Nothing special,73,3,neutral
+It was okay,75,3,neutral
+Best airline ever,38,5,positive
+Terrible experience,83,1,negative
+Terrible experience,50,1,negative
+Very comfortable,52,5,positive
+Lost my luggage,93,2,negative
+Excellent service,25,5,positive
+It was okay,45,3,neutral
+Amazing flight,83,4,positive
+Worst flight ever,98,2,negative
+Average experience,18,3,neutral
+Decent service,34,3,neutral
+Worst flight ever,27,2,negative
+It was okay,8,3,neutral
+Decent service,95,3,neutral
+Amazing flight,28,4,positive
+Amazing flight,98,4,positive
+It was okay,82,3,neutral
+Amazing flight,76,5,positive
+Very comfortable,8,5,positive
+Excellent service,98,4,positive
+Amazing flight,36,4,positive
+Excellent service,45,4,positive
+Excellent service,16,4,positive
+Excellent service,82,4,positive
+Terrible experience,9,2,negative
+Very comfortable,31,5,positive
+Terrible experience,15,1,negative
+Lost my luggage,77,1,negative
+Worst flight ever,68,1,negative
+Very rude staff,21,2,negative
+Excellent service,11,5,positive
+Terrible experience,95,1,negative
+Very rude staff,44,1,negative
+Very rude staff,12,1,negative
+Very comfortable,95,5,positive
+Very rude staff,30,2,negative
+Average experience,71,3,neutral
+Best airline ever,90,5,positive
+Amazing flight,22,4,positive
+Amazing flight,77,4,positive
+Terrible experience,54,2,negative
+Lost my luggage,97,2,negative
+Amazing flight,49,5,positive
+It was okay,11,3,neutral
+Very comfortable,73,5,positive
+Worst flight ever,41,2,negative
+Very comfortable,78,4,positive
+Amazing flight,12,4,positive
+Best airline ever,5,5,positive
+Very rude staff,44,1,negative
+Amazing flight,21,4,positive
+Best airline ever,82,5,positive
+Lost my luggage,34,1,negative
+Amazing flight,25,5,positive
+Very rude staff,58,1,negative
+Excellent service,89,4,positive
+Best airline ever,77,5,positive
+Worst flight ever,88,1,negative
+Best airline ever,16,5,positive
+Nothing special,98,3,neutral
+Terrible experience,70,2,negative
+Very rude staff,72,1,negative
+Best airline ever,7,4,positive
+Worst flight ever,99,1,negative
+Excellent service,33,5,positive
+Worst flight ever,82,2,negative
+Very comfortable,92,5,positive
+Terrible experience,17,1,negative
+Best airline ever,22,4,positive
+Worst flight ever,26,2,negative
+It was okay,67,3,neutral
+Average experience,79,3,neutral
+It was okay,68,3,neutral
+Terrible experience,35,2,negative
+Excellent service,60,4,positive
+Terrible experience,28,1,negative
+Worst flight ever,9,1,negative
+Amazing flight,12,4,positive
+Best airline ever,81,4,positive
+It was okay,48,3,neutral
+Decent service,18,3,neutral
+Worst flight ever,78,2,negative
+Terrible experience,27,1,negative
+Excellent service,17,4,positive
+Lost my luggage,7,1,negative
+Worst flight ever,14,2,negative
+Amazing flight,30,5,positive
+Worst flight ever,63,2,negative
+Best airline ever,32,4,positive
+Very comfortable,50,5,positive
+Lost my luggage,46,1,negative
+Very comfortable,89,4,positive
+Terrible experience,15,1,negative
+Excellent service,24,5,positive
+Excellent service,28,5,positive
+Amazing flight,26,5,positive
+Very comfortable,13,5,positive
+Very comfortable,57,4,positive
+Best airline ever,54,4,positive
+Amazing flight,96,4,positive
+Terrible experience,26,1,negative
+It was okay,35,3,neutral
+Amazing flight,24,4,positive
+Amazing flight,53,4,positive
+Very comfortable,89,5,positive
+It was okay,65,3,neutral
+Worst flight ever,56,1,negative
+Very comfortable,13,4,positive
+Very comfortable,41,5,positive
+Lost my luggage,41,1,negative
+Best airline ever,65,4,positive
+Excellent service,14,4,positive
+Very rude staff,61,1,negative
+Terrible experience,93,1,negative
+Best airline ever,78,4,positive
+Average experience,69,3,neutral
+Best airline ever,80,5,positive
+Terrible experience,68,1,negative
+Decent service,25,3,neutral
+Excellent service,99,4,positive
+Amazing flight,60,5,positive
+Amazing flight,61,5,positive
+It was okay,36,3,neutral
+Lost my luggage,83,2,negative
+Very rude staff,88,2,negative
+Very rude staff,38,1,negative
+Excellent service,11,5,positive
+Very comfortable,96,4,positive
+Average experience,7,3,neutral
+Lost my luggage,78,1,negative
+Nothing special,55,3,neutral
+Very comfortable,90,5,positive
+Very rude staff,24,1,negative
+Very rude staff,22,2,negative
+Terrible experience,72,2,negative
+Best airline ever,37,4,positive
+Amazing flight,70,5,positive
+Amazing flight,20,5,positive
+Excellent service,58,4,positive
+Amazing flight,76,4,positive
+Very rude staff,41,1,negative
+Worst flight ever,57,2,negative
+Best airline ever,11,5,positive
+Best airline ever,21,4,positive
+Worst flight ever,94,1,negative
+Excellent service,47,5,positive
+It was okay,82,3,neutral
+Excellent service,12,5,positive
+It was okay,23,3,neutral
+Very rude staff,32,2,negative
+Terrible experience,17,1,negative
+Worst flight ever,41,2,negative
+Lost my luggage,71,2,negative
+Amazing flight,77,5,positive
+Best airline ever,52,5,positive
+Worst flight ever,46,2,negative
+Very rude staff,18,1,negative
+Amazing flight,15,5,positive
+Decent service,82,3,neutral
+Worst flight ever,90,2,negative
+Very comfortable,30,5,positive
+Lost my luggage,63,1,negative
+Amazing flight,36,5,positive
+Amazing flight,40,5,positive
+Very comfortable,31,4,positive
+Very rude staff,16,1,negative
+Very comfortable,40,5,positive
+Amazing flight,89,4,positive
+Lost my luggage,59,2,negative
+Amazing flight,7,5,positive
+Lost my luggage,99,1,negative
+Decent service,23,3,neutral
+Very rude staff,22,2,negative
+Very comfortable,82,4,positive
+Lost my luggage,55,1,negative
+Best airline ever,40,5,positive
+Very comfortable,62,4,positive
+Worst flight ever,95,1,negative
+Worst flight ever,72,2,negative
+Nothing special,5,3,neutral
+Lost my luggage,50,2,negative
+Decent service,88,3,neutral
+Decent service,72,3,neutral
+Very comfortable,69,5,positive
+Very rude staff,93,1,negative
+Very comfortable,23,5,positive
+Lost my luggage,47,1,negative
+Very comfortable,27,5,positive
+Very rude staff,37,1,negative
+Best airline ever,21,5,positive
+Very rude staff,63,1,negative
+Lost my luggage,37,1,negative
+Excellent service,79,5,positive
+Very rude staff,42,2,negative
+Very comfortable,43,5,positive
+Lost my luggage,75,1,negative
+Worst flight ever,25,1,negative
+Terrible experience,98,2,negative
+Worst flight ever,29,2,negative
+Lost my luggage,12,1,negative
+Terrible experience,34,1,negative
+Lost my luggage,76,1,negative
+Average experience,24,3,neutral
+Terrible experience,39,2,negative
+Very comfortable,71,5,positive
+Very rude staff,85,2,negative
+It was okay,29,3,neutral
+Worst flight ever,49,2,negative
+Terrible experience,51,1,negative
+Amazing flight,72,5,positive
+Very rude staff,80,1,negative
+Very comfortable,8,4,positive
+Very comfortable,66,5,positive
+Amazing flight,19,5,positive
+Best airline ever,95,4,positive
+Lost my luggage,10,2,negative
+Very comfortable,11,4,positive
+Worst flight ever,7,2,negative
+Terrible experience,39,1,negative
+Excellent service,23,4,positive
+Average experience,73,3,neutral
+Very comfortable,56,5,positive
+Amazing flight,18,4,positive
+Terrible experience,9,2,negative
+Terrible experience,66,2,negative
+Best airline ever,47,4,positive
+Very comfortable,11,5,positive
+Average experience,49,3,neutral
+Very comfortable,41,4,positive
+Nothing special,36,3,neutral
+Very comfortable,46,5,positive
+Worst flight ever,9,1,negative
+Very rude staff,14,2,negative
+Lost my luggage,48,1,negative
+It was okay,14,3,neutral
+Amazing flight,22,5,positive
+Very comfortable,88,4,positive
+Average experience,67,3,neutral
+Worst flight ever,79,1,negative
+Excellent service,47,5,positive
+Very comfortable,77,5,positive
+Terrible experience,95,2,negative
+Terrible experience,58,2,negative
+Average experience,64,3,neutral
+Terrible experience,82,2,negative
+Very comfortable,15,5,positive
+It was okay,42,3,neutral
+Lost my luggage,58,1,negative
+Very rude staff,61,2,negative
+Best airline ever,81,5,positive
+Very rude staff,78,2,negative
+Amazing flight,83,4,positive
+Best airline ever,12,4,positive
+Amazing flight,28,5,positive
+Average experience,37,3,neutral
+Very comfortable,83,5,positive
+Decent service,51,3,neutral
+Very comfortable,47,4,positive
+Worst flight ever,45,1,negative
+Nothing special,79,3,neutral
+Excellent service,76,5,positive
+It was okay,86,3,neutral
+Very comfortable,10,5,positive
+Lost my luggage,18,2,negative
+Best airline ever,26,5,positive
+Worst flight ever,69,2,negative
+Lost my luggage,84,2,negative
+Worst flight ever,22,1,negative
+Amazing flight,26,4,positive
+Average experience,86,3,neutral
+Excellent service,28,4,positive
+Amazing flight,52,5,positive
+Very comfortable,44,4,positive
+Excellent service,51,4,positive
+Excellent service,99,4,positive
+It was okay,10,3,neutral
+Very comfortable,21,5,positive
+Worst flight ever,38,1,negative
+Very rude staff,57,2,negative
+Amazing flight,88,5,positive
+Terrible experience,72,1,negative
+Worst flight ever,28,1,negative
+Terrible experience,15,1,negative
+Nothing special,47,3,neutral
+Terrible experience,26,1,negative
+Lost my luggage,53,1,negative
+Very comfortable,95,5,positive
+Terrible experience,60,1,negative
+Lost my luggage,33,2,negative
+Best airline ever,15,5,positive
+Amazing flight,99,4,positive
+Lost my luggage,70,2,negative
+Lost my luggage,68,1,negative
+Worst flight ever,84,1,negative
+Best airline ever,86,5,positive
+Best airline ever,16,4,positive
+Lost my luggage,64,1,negative
+Amazing flight,81,4,positive
+Nothing special,66,3,neutral
+Lost my luggage,98,2,negative
+Lost my luggage,86,2,negative
+Very rude staff,9,2,negative
+Amazing flight,98,5,positive
+Terrible experience,41,2,negative
+Terrible experience,7,1,negative
+Excellent service,69,4,positive
+Nothing special,12,3,neutral
+Lost my luggage,12,1,negative
+Nothing special,40,3,neutral
+Terrible experience,15,1,negative
+Best airline ever,14,5,positive
+Nothing special,21,3,neutral
+Best airline ever,40,4,positive
+Best airline ever,45,5,positive
+Very rude staff,34,2,negative
+Excellent service,81,5,positive
+Very comfortable,78,4,positive
+Decent service,49,3,neutral
+Excellent service,7,5,positive
+Very rude staff,22,2,negative
+Very comfortable,40,4,positive
+Worst flight ever,23,2,negative
+Best airline ever,40,4,positive
+Lost my luggage,8,1,negative
+Lost my luggage,73,1,negative
+Average experience,49,3,neutral
+Worst flight ever,50,1,negative
+Very rude staff,75,2,negative
+Very rude staff,12,1,negative
+Very comfortable,71,4,positive
+Amazing flight,63,5,positive
+Best airline ever,56,5,positive
+Lost my luggage,40,1,negative
+Best airline ever,62,4,positive
+Terrible experience,92,2,negative
+Excellent service,24,4,positive
+Decent service,79,3,neutral
+Worst flight ever,43,2,negative
+Terrible experience,6,2,negative
+Lost my luggage,51,2,negative
+Lost my luggage,69,2,negative
+Lost my luggage,50,2,negative
+Excellent service,75,4,positive
+Best airline ever,18,5,positive
+Nothing special,71,3,neutral
+Very comfortable,84,4,positive
+Excellent service,64,4,positive
+It was okay,60,3,neutral
+Very rude staff,53,2,negative
+Decent service,62,3,neutral
+Lost my luggage,99,1,negative
+Terrible experience,20,2,negative
+Very rude staff,70,1,negative
+Very comfortable,25,5,positive
+Very rude staff,52,2,negative
+It was okay,14,3,neutral
+Very rude staff,77,1,negative
+Best airline ever,82,4,positive
+Terrible experience,20,1,negative
+Amazing flight,33,4,positive
+Very rude staff,68,1,negative
+It was okay,87,3,neutral
+Amazing flight,90,4,positive
+Excellent service,92,5,positive
+Terrible experience,64,2,negative
+Terrible experience,21,1,negative
+Amazing flight,42,5,positive
+Average experience,13,3,neutral
+It was okay,68,3,neutral
+Very rude staff,54,1,negative
+Terrible experience,98,1,negative
+Very rude staff,57,1,negative
+Excellent service,62,4,positive
+Lost my luggage,95,1,negative
+It was okay,50,3,neutral
+Amazing flight,15,4,positive
+Very comfortable,10,4,positive
+Excellent service,26,5,positive
+Very rude staff,30,1,negative
+Worst flight ever,83,1,negative
+Worst flight ever,44,2,negative
+Lost my luggage,83,1,negative
+Amazing flight,48,4,positive
+Best airline ever,14,5,positive
+Excellent service,74,4,positive
+Terrible experience,53,2,negative
+Very comfortable,94,4,positive
+Worst flight ever,57,1,negative
+Lost my luggage,85,1,negative
+Best airline ever,73,5,positive
+Excellent service,70,4,positive
+Lost my luggage,30,2,negative
+Worst flight ever,85,1,negative
+Amazing flight,19,4,positive
+Nothing special,57,3,neutral
+Excellent service,30,5,positive
+Very rude staff,45,1,negative
+Very comfortable,28,5,positive
+Average experience,43,3,neutral
+Amazing flight,68,5,positive
+Lost my luggage,55,2,negative
+Best airline ever,31,4,positive
+Excellent service,42,4,positive
+Lost my luggage,17,2,negative
+Terrible experience,76,2,negative
+Decent service,80,3,neutral
+Very comfortable,97,5,positive
+Very comfortable,87,4,positive
+Nothing special,73,3,neutral
+Average experience,90,3,neutral
+Lost my luggage,62,2,negative
+Terrible experience,37,1,negative
+Lost my luggage,77,2,negative
+It was okay,34,3,neutral
+Very comfortable,64,4,positive
+Very rude staff,78,1,negative
+Very rude staff,64,1,negative
+Very comfortable,29,5,positive
+Nothing special,89,3,neutral
+Lost my luggage,27,2,negative
+Amazing flight,23,5,positive
+Best airline ever,78,4,positive
+Excellent service,10,4,positive
+It was okay,89,3,neutral
+Terrible experience,35,1,negative
+Very comfortable,95,5,positive
+Best airline ever,26,4,positive
+Terrible experience,85,2,negative
+Nothing special,65,3,neutral
+Very rude staff,64,2,negative
+Worst flight ever,73,1,negative
+Worst flight ever,23,2,negative
+Best airline ever,25,5,positive
+Average experience,69,3,neutral
+Excellent service,83,4,positive
+Very comfortable,15,5,positive
+Average experience,91,3,neutral
+Very comfortable,50,4,positive
+Very rude staff,56,2,negative
+Best airline ever,95,4,positive
+Worst flight ever,85,1,negative
+Amazing flight,24,4,positive
+Amazing flight,84,4,positive
+Average experience,81,3,neutral
+It was okay,16,3,neutral
+Best airline ever,81,5,positive
+Amazing flight,87,5,positive
+Decent service,64,3,neutral
+Amazing flight,51,5,positive
+Decent service,52,3,neutral
+Best airline ever,47,4,positive
+Terrible experience,35,1,negative
+Worst flight ever,47,2,negative
+Excellent service,33,5,positive
+Terrible experience,67,1,negative
+Excellent service,73,4,positive
+Amazing flight,68,4,positive
+Excellent service,95,5,positive
+Very rude staff,45,2,negative
+Lost my luggage,14,1,negative
+Nothing special,34,3,neutral
+Very comfortable,27,5,positive
+Excellent service,43,5,positive
+Lost my luggage,46,2,negative
+Excellent service,99,4,positive
+Lost my luggage,30,1,negative
+Best airline ever,14,5,positive
+Terrible experience,7,1,negative
+Amazing flight,76,5,positive
+Excellent service,5,5,positive
+Lost my luggage,12,1,negative
+Worst flight ever,55,1,negative
+It was okay,66,3,neutral
+Average experience,91,3,neutral
+Terrible experience,74,1,negative
+Lost my luggage,85,1,negative
+Excellent service,83,4,positive
+Excellent service,74,4,positive
+Lost my luggage,21,1,negative
+Excellent service,32,4,positive
+Best airline ever,43,5,positive
+It was okay,7,3,neutral
+Lost my luggage,30,2,negative
+Excellent service,25,5,positive
+Worst flight ever,92,2,negative
+It was okay,98,3,neutral
+Amazing flight,51,5,positive
+Worst flight ever,57,1,negative
+It was okay,31,3,neutral
+Very comfortable,8,5,positive
+Lost my luggage,48,1,negative
+Decent service,22,3,neutral
+Average experience,65,3,neutral
+Worst flight ever,31,1,negative
+Excellent service,75,5,positive
+Very rude staff,92,1,negative
+Lost my luggage,62,1,negative
+Terrible experience,18,1,negative
+Very comfortable,47,4,positive
+Very rude staff,45,2,negative
+Excellent service,96,5,positive
+Terrible experience,92,2,negative
+Best airline ever,49,4,positive
+It was okay,75,3,neutral
+Very comfortable,43,4,positive
+Amazing flight,78,4,positive
+Very rude staff,51,1,negative
+Lost my luggage,59,2,negative
+Worst flight ever,81,1,negative
+Very comfortable,90,5,positive
+Worst flight ever,42,2,negative
+Excellent service,41,5,positive
+It was okay,28,3,neutral
+Terrible experience,18,2,negative
+Terrible experience,7,2,negative
+Amazing flight,6,4,positive
+Very comfortable,50,5,positive
+Terrible experience,35,2,negative
+Amazing flight,50,4,positive
+Very rude staff,77,1,negative
+Very rude staff,76,2,negative
+Very comfortable,40,4,positive
+Terrible experience,82,1,negative
+It was okay,55,3,neutral
+Amazing flight,44,4,positive
+Very comfortable,46,5,positive
+Lost my luggage,83,1,negative
+Terrible experience,75,1,negative
+Best airline ever,69,4,positive
+Very comfortable,8,4,positive
+Amazing flight,67,5,positive
+Terrible experience,12,1,negative
+Nothing special,23,3,neutral
+Very rude staff,88,2,negative
+Amazing flight,61,5,positive
+Worst flight ever,17,1,negative
+Best airline ever,43,5,positive
+Best airline ever,18,4,positive
+Terrible experience,55,2,negative
+Very rude staff,72,2,negative
+Excellent service,62,5,positive
+Nothing special,52,3,neutral
+It was okay,8,3,neutral
+Excellent service,94,5,positive
+Terrible experience,32,2,negative
+Very comfortable,49,4,positive
+Best airline ever,85,4,positive
+Very comfortable,77,4,positive
+Excellent service,23,4,positive
+Terrible experience,85,1,negative
+Worst flight ever,12,1,negative
+Very rude staff,58,2,negative
+Lost my luggage,68,1,negative
+Excellent service,14,4,positive
+Terrible experience,69,1,negative
+Very rude staff,36,2,negative
+Lost my luggage,45,2,negative
+Worst flight ever,67,2,negative
+Very rude staff,16,1,negative
+Nothing special,30,3,neutral
+Very comfortable,92,5,positive
+Lost my luggage,55,2,negative
+Decent service,36,3,neutral
+Amazing flight,88,5,positive
+Very comfortable,95,5,positive
+Terrible experience,72,1,negative
+Worst flight ever,41,2,negative
+Decent service,98,3,neutral
+Amazing flight,82,5,positive
+Very rude staff,78,2,negative
+Lost my luggage,12,1,negative
+It was okay,14,3,neutral
+Lost my luggage,54,1,negative
+Amazing flight,37,4,positive
+Lost my luggage,92,1,negative
+It was okay,10,3,neutral
+Very comfortable,12,4,positive
+Excellent service,45,4,positive
+Best airline ever,25,5,positive
+Decent service,30,3,neutral
+Very rude staff,76,1,negative
+Average experience,84,3,neutral
+Very rude staff,12,2,negative
+Worst flight ever,70,1,negative
+Decent service,70,3,neutral
+Best airline ever,16,4,positive
+Terrible experience,42,1,negative
+Very rude staff,92,2,negative
+Excellent service,12,4,positive
+Excellent service,29,5,positive
+Lost my luggage,44,1,negative
+Worst flight ever,63,2,negative
+Very rude staff,44,2,negative
+Very rude staff,8,2,negative
+Nothing special,90,3,neutral
+Lost my luggage,54,2,negative
+Terrible experience,57,2,negative
+Very rude staff,99,1,negative
+Best airline ever,46,4,positive
+Lost my luggage,50,1,negative
+Excellent service,34,5,positive
+It was okay,58,3,neutral
+Best airline ever,86,4,positive
+Excellent service,99,5,positive
+Best airline ever,45,4,positive
+Terrible experience,57,2,negative
+Nothing special,89,3,neutral
+Worst flight ever,52,1,negative
+Amazing flight,25,5,positive
+Lost my luggage,80,1,negative
+Very rude staff,67,2,negative
+Terrible experience,7,2,negative
+Excellent service,14,4,positive
+Nothing special,12,3,neutral
+Very comfortable,85,4,positive
+It was okay,34,3,neutral
+Lost my luggage,68,2,negative
+Terrible experience,7,1,negative
+Lost my luggage,63,1,negative
+Worst flight ever,18,1,negative
+Amazing flight,20,5,positive
+Amazing flight,86,4,positive
+Very rude staff,9,2,negative
+Terrible experience,63,1,negative
+Very rude staff,80,2,negative
+Excellent service,19,4,positive
+Excellent service,16,5,positive
+Lost my luggage,83,2,negative
+Lost my luggage,42,2,negative
+Decent service,59,3,neutral
+Amazing flight,7,4,positive
+Excellent service,64,5,positive
+Excellent service,98,5,positive
+Best airline ever,65,5,positive
+Worst flight ever,81,2,negative
+Excellent service,47,5,positive
+Excellent service,72,5,positive
+Very comfortable,26,4,positive
+Average experience,47,3,neutral
+Best airline ever,70,4,positive
+Best airline ever,61,4,positive
+Very comfortable,77,4,positive
+Amazing flight,62,5,positive
+Very rude staff,40,1,negative
+Worst flight ever,55,2,negative
+Excellent service,36,4,positive
+Terrible experience,42,1,negative
+Very rude staff,27,1,negative
+Terrible experience,22,1,negative
+Worst flight ever,7,1,negative
+Very rude staff,32,2,negative
+Amazing flight,86,5,positive
+Best airline ever,33,5,positive
+Decent service,15,3,neutral
+Very rude staff,35,1,negative
+Worst flight ever,54,1,negative
+Excellent service,46,5,positive
+Amazing flight,23,5,positive
+Amazing flight,55,4,positive
+Amazing flight,81,4,positive
+Excellent service,97,5,positive
+Lost my luggage,47,1,negative
+It was okay,99,3,neutral
+Amazing flight,30,5,positive
+Worst flight ever,7,1,negative
+Lost my luggage,31,2,negative
+Worst flight ever,60,2,negative
+Amazing flight,85,5,positive
+Terrible experience,38,1,negative
+Very comfortable,78,5,positive
+Very comfortable,94,5,positive
+Lost my luggage,62,2,negative
+Excellent service,36,4,positive
+Nothing special,10,3,neutral
+Very comfortable,30,4,positive
+Very rude staff,45,1,negative
+Terrible experience,21,1,negative
+Amazing flight,91,5,positive
+Amazing flight,44,4,positive
+Terrible experience,49,1,negative
+Terrible experience,36,2,negative
+Decent service,36,3,neutral
+Average experience,33,3,neutral
+Very comfortable,65,4,positive
+Very rude staff,8,2,negative
+It was okay,79,3,neutral
+Worst flight ever,55,1,negative
+Terrible experience,28,1,negative
+Amazing flight,29,4,positive
+Terrible experience,13,2,negative
+Amazing flight,99,5,positive
+Average experience,65,3,neutral
+Worst flight ever,34,2,negative
+Decent service,21,3,neutral
+Amazing flight,64,5,positive
+Nothing special,14,3,neutral
+Average experience,23,3,neutral
+Terrible experience,42,1,negative
+Excellent service,32,5,positive
+Average experience,12,3,neutral
+Very comfortable,90,4,positive
+Terrible experience,72,1,negative
+Amazing flight,97,4,positive
+Very rude staff,59,2,negative
+Best airline ever,87,4,positive
+Lost my luggage,88,1,negative
+Best airline ever,66,5,positive
+Best airline ever,45,4,positive
+Very rude staff,36,1,negative
+Worst flight ever,60,2,negative
+Amazing flight,48,4,positive
+Nothing special,69,3,neutral
+Very comfortable,13,4,positive
+Very comfortable,36,5,positive
+Worst flight ever,84,1,negative
+Best airline ever,24,4,positive
+It was okay,85,3,neutral
+Excellent service,63,5,positive
+Decent service,71,3,neutral
+Worst flight ever,66,2,negative
+Decent service,57,3,neutral
+Very rude staff,10,1,negative
+Excellent service,95,5,positive
+Terrible experience,25,2,negative
+Very rude staff,39,1,negative
+Very rude staff,6,1,negative
+Very rude staff,5,1,negative
+Lost my luggage,40,2,negative
+Best airline ever,96,5,positive
+Worst flight ever,59,2,negative
+Amazing flight,70,4,positive
+Very rude staff,80,1,negative
+Very rude staff,42,1,negative
+Worst flight ever,12,1,negative
+Lost my luggage,90,1,negative
+Excellent service,21,4,positive
+Amazing flight,72,5,positive
+Best airline ever,19,5,positive
+Very rude staff,84,1,negative
+Amazing flight,61,4,positive
+Lost my luggage,98,2,negative
+Worst flight ever,36,1,negative
+Worst flight ever,91,1,negative
+Best airline ever,20,4,positive
+Decent service,98,3,neutral
+Excellent service,17,4,positive
+Best airline ever,38,5,positive
+Excellent service,67,5,positive
+Terrible experience,62,1,negative
+Excellent service,49,4,positive
+Terrible experience,29,2,negative
+Very comfortable,24,4,positive
+Worst flight ever,74,2,negative
+Best airline ever,93,5,positive
+Amazing flight,42,4,positive
+Average experience,99,3,neutral
+Very rude staff,36,2,negative
+Amazing flight,75,4,positive
+Very comfortable,64,4,positive
+Amazing flight,85,4,positive
+Terrible experience,39,2,negative
+Excellent service,40,5,positive
+Very rude staff,63,1,negative
+Terrible experience,65,2,negative
+Best airline ever,16,4,positive
+Best airline ever,44,4,positive
+Excellent service,27,5,positive
+Amazing flight,20,5,positive
+Excellent service,51,4,positive
+Best airline ever,99,5,positive
+Very comfortable,39,5,positive
+It was okay,85,3,neutral
+It was okay,9,3,neutral
+Lost my luggage,63,2,negative
+Average experience,39,3,neutral
+Average experience,8,3,neutral
+Worst flight ever,72,2,negative
+Very comfortable,94,5,positive
+Worst flight ever,85,1,negative
+Worst flight ever,92,2,negative
+Amazing flight,37,4,positive
+Decent service,71,3,neutral
+It was okay,16,3,neutral
+Lost my luggage,47,2,negative
+Very comfortable,20,5,positive
+Excellent service,24,5,positive
+Decent service,67,3,neutral
+Very comfortable,84,5,positive
+Lost my luggage,67,1,negative
+Terrible experience,9,1,negative
+Terrible experience,12,2,negative
+Terrible experience,22,1,negative
+Average experience,26,3,neutral
+Terrible experience,35,2,negative
+Excellent service,31,4,positive
+Very comfortable,19,5,positive
+Best airline ever,45,4,positive
+Terrible experience,44,2,negative
+Terrible experience,64,2,negative
+Very comfortable,87,4,positive
+Terrible experience,9,1,negative
+Best airline ever,66,5,positive
+Terrible experience,82,1,negative
+Worst flight ever,34,2,negative
+Worst flight ever,8,1,negative
+Decent service,88,3,neutral
+Very rude staff,36,2,negative
+Decent service,65,3,neutral
+Very rude staff,87,1,negative
+Very comfortable,76,4,positive
+Very comfortable,92,5,positive
+Very comfortable,83,4,positive
+Terrible experience,92,2,negative
+Worst flight ever,36,2,negative
+Very rude staff,57,2,negative
+Terrible experience,59,1,negative
+Amazing flight,76,5,positive
+Lost my luggage,61,1,negative
+Very comfortable,64,4,positive
+Very comfortable,90,5,positive
+Very rude staff,57,2,negative
+Decent service,76,3,neutral
+Terrible experience,51,1,negative
+Decent service,48,3,neutral
+Amazing flight,94,4,positive
+Average experience,84,3,neutral
+Best airline ever,69,4,positive
+Excellent service,64,4,positive
+Excellent service,73,4,positive
+Terrible experience,5,1,negative
+Lost my luggage,95,2,negative
+Excellent service,14,4,positive
+Worst flight ever,69,1,negative
+Average experience,90,3,neutral
+Terrible experience,25,1,negative
+Best airline ever,38,4,positive
+Terrible experience,21,2,negative
+Decent service,15,3,neutral
+Best airline ever,29,5,positive
+Lost my luggage,5,1,negative
+Very comfortable,27,5,positive
+Nothing special,61,3,neutral
+Terrible experience,71,1,negative
+Worst flight ever,29,1,negative
+Lost my luggage,85,1,negative
+Decent service,33,3,neutral
+Amazing flight,70,5,positive
+Very rude staff,74,2,negative
+Decent service,57,3,neutral
+Amazing flight,19,5,positive
+Lost my luggage,58,1,negative
+Very comfortable,95,4,positive
+Best airline ever,67,5,positive
+Excellent service,12,5,positive
+Very comfortable,51,4,positive
+Worst flight ever,70,1,negative
+Best airline ever,83,5,positive
+Excellent service,59,4,positive
+Excellent service,87,5,positive
+Terrible experience,69,2,negative
+Excellent service,18,5,positive
+Very rude staff,39,2,negative
+Best airline ever,92,4,positive
+Very comfortable,52,5,positive
+Very rude staff,61,2,negative
+Worst flight ever,33,1,negative
+Very comfortable,59,5,positive
+Very rude staff,43,2,negative
+Very comfortable,52,5,positive
+Very comfortable,41,4,positive
+Best airline ever,82,5,positive
+Worst flight ever,45,1,negative
+Excellent service,24,5,positive
+Very rude staff,50,1,negative
+Average experience,68,3,neutral
+It was okay,63,3,neutral
+It was okay,64,3,neutral
+Terrible experience,80,1,negative
+Lost my luggage,52,2,negative
+Very rude staff,38,2,negative
+Excellent service,68,5,positive
+Amazing flight,34,5,positive
+Nothing special,38,3,neutral
+Amazing flight,59,4,positive
+Worst flight ever,91,2,negative
+Nothing special,21,3,neutral
+Excellent service,90,4,positive
+Excellent service,77,5,positive
+Terrible experience,87,2,negative
+Lost my luggage,25,1,negative
+Terrible experience,53,1,negative
+Nothing special,47,3,neutral
+Lost my luggage,57,2,negative
+Nothing special,27,3,neutral
+Very rude staff,66,2,negative
+Excellent service,66,5,positive
+Lost my luggage,6,2,negative
+Average experience,66,3,neutral
+Lost my luggage,23,1,negative
+Nothing special,74,3,neutral
+Average experience,48,3,neutral
+Amazing flight,91,5,positive
+Lost my luggage,75,2,negative
+Best airline ever,80,4,positive
+Very rude staff,57,1,negative
+Best airline ever,99,4,positive
+Amazing flight,44,5,positive
+Terrible experience,36,2,negative
+Very comfortable,79,5,positive
+Terrible experience,59,2,negative
+Worst flight ever,48,2,negative
+Worst flight ever,96,2,negative
+Decent service,6,3,neutral
+Average experience,33,3,neutral
+Worst flight ever,75,2,negative
+Best airline ever,33,5,positive
+Decent service,59,3,neutral
+Very rude staff,9,1,negative
+Worst flight ever,97,2,negative
+Decent service,6,3,neutral
+Amazing flight,97,4,positive
+Very rude staff,46,2,negative
+Best airline ever,25,5,positive
+Excellent service,16,5,positive
+Best airline ever,30,5,positive
+Amazing flight,24,5,positive
+Very rude staff,9,1,negative
+Nothing special,72,3,neutral
+It was okay,45,3,neutral
+It was okay,78,3,neutral
+Terrible experience,16,1,negative
+It was okay,68,3,neutral
+Terrible experience,55,1,negative
+Lost my luggage,50,2,negative
+Amazing flight,73,4,positive
+Amazing flight,79,5,positive
+It was okay,34,3,neutral
+Best airline ever,31,4,positive
+It was okay,98,3,neutral
+Lost my luggage,50,2,negative
+Worst flight ever,81,2,negative
+Terrible experience,29,2,negative
+Worst flight ever,83,2,negative
+Very rude staff,70,1,negative
+Very rude staff,79,1,negative
+Worst flight ever,5,2,negative
+Lost my luggage,26,2,negative
+Decent service,69,3,neutral
+Lost my luggage,48,2,negative
+It was okay,61,3,neutral
+Amazing flight,58,5,positive
+Lost my luggage,14,2,negative
+Decent service,36,3,neutral
+Very rude staff,62,2,negative
+Worst flight ever,81,1,negative
+Worst flight ever,10,1,negative
+Decent service,13,3,neutral
+Nothing special,88,3,neutral
+Terrible experience,13,1,negative
+Decent service,35,3,neutral
+Best airline ever,88,5,positive
+Decent service,47,3,neutral
+It was okay,72,3,neutral
+Worst flight ever,42,2,negative
+Amazing flight,43,5,positive
+Worst flight ever,97,1,negative
+Very rude staff,42,1,negative
+Lost my luggage,85,1,negative
+Excellent service,44,4,positive
+Worst flight ever,85,2,negative
+Very comfortable,38,4,positive
+Very rude staff,48,1,negative
+Worst flight ever,47,1,negative
+Lost my luggage,40,2,negative
+Average experience,26,3,neutral
+Amazing flight,25,5,positive
+Terrible experience,22,1,negative
+Excellent service,51,5,positive
+Nothing special,18,3,neutral
+Average experience,32,3,neutral
+Terrible experience,66,2,negative
+It was okay,22,3,neutral
+Excellent service,32,5,positive
+Lost my luggage,87,2,negative
+Excellent service,38,4,positive
+Worst flight ever,83,1,negative
+Best airline ever,83,4,positive
+It was okay,24,3,neutral
+Very rude staff,41,2,negative
+Very comfortable,96,4,positive
+Amazing flight,40,4,positive
+Very rude staff,54,2,negative
+Terrible experience,81,2,negative
+Worst flight ever,55,2,negative
+Decent service,75,3,neutral
+Excellent service,89,4,positive
+Very rude staff,22,2,negative
+Excellent service,68,4,positive
+Best airline ever,78,4,positive
+Lost my luggage,66,2,negative
+Amazing flight,71,4,positive
+Terrible experience,91,2,negative
+Terrible experience,74,1,negative
+Excellent service,63,4,positive
+Amazing flight,95,5,positive
+Best airline ever,98,5,positive
+Worst flight ever,34,2,negative
+Terrible experience,19,1,negative
+Best airline ever,6,5,positive
+Best airline ever,7,5,positive
+Worst flight ever,14,2,negative
+It was okay,63,3,neutral
+Very comfortable,98,4,positive
+Amazing flight,24,4,positive
+Worst flight ever,78,1,negative
+Very comfortable,20,4,positive
+Very rude staff,8,1,negative
+Amazing flight,28,4,positive
+Very comfortable,60,4,positive
+Average experience,92,3,neutral
+Amazing flight,53,5,positive
+Very comfortable,10,4,positive
+Best airline ever,13,5,positive
+Lost my luggage,6,2,negative
+Terrible experience,80,1,negative
+Average experience,87,3,neutral
+Average experience,20,3,neutral
+Very rude staff,14,1,negative
+Best airline ever,52,5,positive
+Very comfortable,7,4,positive
+Average experience,25,3,neutral
+Best airline ever,48,4,positive
+Best airline ever,79,4,positive
+Very comfortable,79,4,positive
+Terrible experience,72,1,negative
+Amazing flight,57,5,positive
+Lost my luggage,81,2,negative
+Nothing special,15,3,neutral
+Very rude staff,38,2,negative
+Very rude staff,5,1,negative
+Very comfortable,39,4,positive
+Excellent service,10,4,positive
+Amazing flight,22,4,positive
+Worst flight ever,77,2,negative
+Very comfortable,27,4,positive
+Lost my luggage,29,1,negative
+Average experience,46,3,neutral
+It was okay,90,3,neutral
+It was okay,21,3,neutral
+Excellent service,13,4,positive
+Worst flight ever,54,1,negative
+Lost my luggage,42,1,negative
+Amazing flight,45,4,positive
+Very comfortable,17,5,positive
+Nothing special,61,3,neutral
+Terrible experience,22,2,negative
+Nothing special,14,3,neutral
+Best airline ever,83,4,positive
+Terrible experience,86,1,negative
+Lost my luggage,73,2,negative
+Very rude staff,40,2,negative
+Worst flight ever,9,1,negative
+Nothing special,41,3,neutral
+Excellent service,12,4,positive
+Terrible experience,24,1,negative
+Best airline ever,38,4,positive
+Lost my luggage,55,2,negative
+Average experience,94,3,neutral
+Excellent service,51,4,positive
+Worst flight ever,46,2,negative
+Very comfortable,83,4,positive
+Very rude staff,29,1,negative
+Very comfortable,99,4,positive
+Amazing flight,13,5,positive
+Very rude staff,41,1,negative
+Worst flight ever,39,2,negative
+Worst flight ever,94,2,negative
+Amazing flight,56,4,positive
+Amazing flight,8,4,positive
+Worst flight ever,94,2,negative
+Very rude staff,15,2,negative
+Nothing special,43,3,neutral
+Very rude staff,9,2,negative
+Very comfortable,24,4,positive
+Very comfortable,62,4,positive
+Worst flight ever,63,2,negative
+Very rude staff,27,2,negative
+Very comfortable,41,5,positive
+Average experience,71,3,neutral
+Average experience,55,3,neutral
+Average experience,17,3,neutral
+Worst flight ever,37,1,negative
+Terrible experience,89,1,negative
+Very rude staff,24,1,negative
+Worst flight ever,62,2,negative
+Worst flight ever,86,2,negative
+Amazing flight,96,5,positive
+Very comfortable,64,5,positive
+Average experience,95,3,neutral
+It was okay,92,3,neutral
+Terrible experience,37,1,negative
+Lost my luggage,10,1,negative
+Lost my luggage,52,2,negative
+Lost my luggage,59,2,negative
+Terrible experience,78,2,negative
+Very comfortable,95,4,positive
+Lost my luggage,83,1,negative
+Terrible experience,39,1,negative
+Decent service,36,3,neutral
+Terrible experience,97,1,negative
+Very rude staff,7,1,negative
+Excellent service,20,4,positive
+Best airline ever,40,5,positive
+Lost my luggage,80,1,negative
+Best airline ever,35,4,positive
+Excellent service,38,4,positive
+Amazing flight,95,4,positive
+It was okay,9,3,neutral
+Very rude staff,79,2,negative
+Lost my luggage,23,1,negative
+Very comfortable,18,4,positive
+Average experience,66,3,neutral
+Very rude staff,38,1,negative
+Excellent service,82,4,positive
+Very rude staff,18,1,negative
+Very comfortable,89,4,positive
+Worst flight ever,82,1,negative
+Worst flight ever,72,1,negative
+Worst flight ever,87,2,negative
+Very rude staff,40,1,negative
+Very comfortable,86,5,positive
+Very rude staff,91,1,negative
+Worst flight ever,87,2,negative
+Worst flight ever,32,2,negative
+Excellent service,16,5,positive
+Very rude staff,69,2,negative
+Worst flight ever,23,1,negative
+Terrible experience,98,2,negative
+It was okay,57,3,neutral
+Very comfortable,39,4,positive
+Excellent service,68,4,positive
+Best airline ever,75,5,positive
+Amazing flight,11,5,positive
+Worst flight ever,9,1,negative
+Decent service,75,3,neutral
+Worst flight ever,57,1,negative
+It was okay,58,3,neutral
+Worst flight ever,49,1,negative
+Excellent service,38,4,positive
+Very comfortable,60,4,positive
+Lost my luggage,25,2,negative
+Decent service,76,3,neutral
+Lost my luggage,27,2,negative
+Very rude staff,58,1,negative
+Worst flight ever,91,1,negative
+Decent service,40,3,neutral
+Nothing special,15,3,neutral
+Amazing flight,14,4,positive
+Very rude staff,42,1,negative
+Very comfortable,56,5,positive
+It was okay,58,3,neutral
+Very comfortable,6,4,positive
+Amazing flight,67,5,positive
+Worst flight ever,71,1,negative
+Very comfortable,79,4,positive
+Very comfortable,48,4,positive
+Terrible experience,30,1,negative
+Excellent service,28,5,positive
+Amazing flight,55,5,positive
+It was okay,48,3,neutral
+Decent service,41,3,neutral
+Very rude staff,18,2,negative
+Excellent service,31,5,positive
+Terrible experience,11,2,negative
+Terrible experience,6,2,negative
+Very comfortable,83,5,positive
+Nothing special,98,3,neutral
+Terrible experience,74,2,negative
+Very comfortable,95,4,positive
+Amazing flight,90,4,positive
+Best airline ever,73,5,positive
+Very rude staff,58,1,negative
+Excellent service,33,4,positive
+Very comfortable,55,5,positive
+Lost my luggage,38,1,negative
+Very comfortable,85,5,positive
+Lost my luggage,76,1,negative
+Nothing special,19,3,neutral
+Nothing special,20,3,neutral
+Best airline ever,30,4,positive
+Amazing flight,22,5,positive
+Terrible experience,40,1,negative
+Very comfortable,11,4,positive
+Best airline ever,33,4,positive
+Best airline ever,71,5,positive
+Very comfortable,12,5,positive
+Nothing special,25,3,neutral
+Best airline ever,11,4,positive
+Worst flight ever,96,2,negative
+Amazing flight,36,4,positive
+Amazing flight,52,5,positive
+Amazing flight,38,5,positive
+Worst flight ever,97,2,negative
+Very comfortable,23,4,positive
+It was okay,91,3,neutral
+Amazing flight,88,4,positive
+Decent service,28,3,neutral
+Best airline ever,68,5,positive
+Amazing flight,71,4,positive
+Very rude staff,82,2,negative
+Nothing special,30,3,neutral
+Average experience,5,3,neutral
+Excellent service,28,4,positive
+Very comfortable,10,5,positive
+Very comfortable,8,5,positive
+Best airline ever,62,4,positive
+Lost my luggage,33,2,negative
+Average experience,77,3,neutral
+Lost my luggage,72,1,negative
+Lost my luggage,8,2,negative
+Very rude staff,83,1,negative
+Amazing flight,99,5,positive
+Very rude staff,51,2,negative
+Terrible experience,92,1,negative
+Worst flight ever,26,2,negative
+Best airline ever,34,5,positive
+Very comfortable,94,5,positive
+Nothing special,70,3,neutral
+Terrible experience,83,1,negative
+Nothing special,54,3,neutral
+Excellent service,32,5,positive
+Very rude staff,97,2,negative
+Excellent service,32,4,positive
+Worst flight ever,82,2,negative
+Terrible experience,8,1,negative
+Terrible experience,90,2,negative
+Worst flight ever,93,2,negative
+Excellent service,5,5,positive
+Lost my luggage,84,1,negative
+Excellent service,81,4,positive
+Best airline ever,93,5,positive
+Amazing flight,63,5,positive
+Very rude staff,91,2,negative
+Lost my luggage,52,2,negative
+Best airline ever,50,5,positive
+Nothing special,91,3,neutral
+Worst flight ever,22,1,negative
+Amazing flight,41,4,positive
+Very comfortable,65,5,positive
+Amazing flight,63,4,positive
+Average experience,10,3,neutral
+Decent service,6,3,neutral
+Worst flight ever,15,2,negative
+Excellent service,13,4,positive
+Very comfortable,83,5,positive
+Average experience,79,3,neutral
+Excellent service,75,4,positive
+Very comfortable,26,5,positive
+Best airline ever,45,5,positive
+Amazing flight,59,5,positive
+Excellent service,53,4,positive
+Very comfortable,8,5,positive
+Excellent service,74,4,positive
+Amazing flight,11,5,positive
+Excellent service,19,4,positive
+Decent service,72,3,neutral
+Best airline ever,30,4,positive
+Average experience,36,3,neutral
+Excellent service,35,5,positive
+It was okay,99,3,neutral
+Excellent service,32,5,positive
+Decent service,65,3,neutral
+Worst flight ever,89,2,negative
+Lost my luggage,95,1,negative
+Excellent service,13,5,positive
+Best airline ever,52,4,positive
+Worst flight ever,32,1,negative
+It was okay,64,3,neutral
+Excellent service,14,5,positive
+Terrible experience,36,1,negative
+Excellent service,41,4,positive
+Nothing special,63,3,neutral
+Terrible experience,25,1,negative
+Lost my luggage,30,1,negative
+It was okay,61,3,neutral
+Very comfortable,96,5,positive
+Very rude staff,29,1,negative
+Excellent service,81,4,positive
+Average experience,32,3,neutral
+Worst flight ever,11,2,negative
+Decent service,35,3,neutral
+Worst flight ever,50,2,negative
+Excellent service,58,5,positive
+Decent service,21,3,neutral
+Lost my luggage,80,1,negative
+Worst flight ever,22,1,negative
+Terrible experience,23,1,negative
+Nothing special,86,3,neutral
+Terrible experience,88,1,negative
+Lost my luggage,60,2,negative
+Best airline ever,9,4,positive
+Very rude staff,82,1,negative
+Best airline ever,18,5,positive
+Excellent service,11,4,positive
+Lost my luggage,37,2,negative
+Worst flight ever,23,1,negative
+Amazing flight,90,4,positive
+Worst flight ever,73,1,negative
+Excellent service,14,5,positive
+Nothing special,99,3,neutral
+Very rude staff,91,1,negative
+Worst flight ever,60,2,negative
+Lost my luggage,19,1,negative
+Very rude staff,7,2,negative
+Lost my luggage,89,1,negative
+It was okay,77,3,neutral
+Excellent service,35,5,positive
+Amazing flight,75,5,positive
+Decent service,27,3,neutral
+Nothing special,52,3,neutral
+Nothing special,92,3,neutral
+Amazing flight,63,4,positive
+Very comfortable,79,4,positive
+Nothing special,59,3,neutral
+Very rude staff,70,1,negative
+Worst flight ever,84,1,negative
+Terrible experience,91,2,negative
+Excellent service,56,5,positive
+Terrible experience,74,2,negative
+Amazing flight,6,5,positive
+Terrible experience,26,1,negative
+Worst flight ever,73,1,negative
+Excellent service,95,4,positive
+Average experience,92,3,neutral
+Decent service,23,3,neutral
+Very rude staff,8,2,negative
+Amazing flight,71,4,positive
+Decent service,38,3,neutral
+Best airline ever,11,4,positive
+Very comfortable,77,4,positive
+Very comfortable,5,5,positive
+Lost my luggage,53,2,negative
+Nothing special,32,3,neutral
+Very rude staff,76,1,negative
+Terrible experience,50,1,negative
+Lost my luggage,14,1,negative
+Amazing flight,51,5,positive
+Worst flight ever,93,1,negative
+Very comfortable,31,4,positive
+Very rude staff,7,2,negative
+Amazing flight,40,5,positive
+Lost my luggage,93,1,negative
+Nothing special,98,3,neutral
+Best airline ever,20,5,positive
+It was okay,39,3,neutral
+Decent service,25,3,neutral
+Best airline ever,49,4,positive
+Amazing flight,44,4,positive
+Worst flight ever,90,2,negative
+Very comfortable,8,5,positive
+Very rude staff,35,1,negative
+Excellent service,44,5,positive
+Worst flight ever,24,2,negative
+Decent service,80,3,neutral
+Amazing flight,34,4,positive
+Terrible experience,62,2,negative
+Terrible experience,60,2,negative
+Lost my luggage,31,2,negative
+Best airline ever,24,5,positive
+Very comfortable,89,5,positive
+Amazing flight,58,4,positive
+Lost my luggage,8,1,negative
+Excellent service,97,5,positive
+Amazing flight,72,4,positive
+Excellent service,60,5,positive
+Best airline ever,15,5,positive
+Worst flight ever,39,2,negative
+Very rude staff,56,1,negative
+Nothing special,40,3,neutral
+Best airline ever,29,5,positive
+Decent service,66,3,neutral
+Nothing special,47,3,neutral
+Lost my luggage,38,2,negative
+Amazing flight,65,4,positive
+Very rude staff,74,1,negative
+Best airline ever,49,4,positive
+Terrible experience,15,1,negative
+Amazing flight,33,5,positive
+Lost my luggage,46,2,negative
+Amazing flight,32,5,positive
+Very comfortable,70,5,positive
+Nothing special,39,3,neutral
+Worst flight ever,46,2,negative
+Best airline ever,71,4,positive
+Terrible experience,96,1,negative
+Excellent service,70,5,positive
+Very rude staff,80,1,negative
+Very rude staff,10,1,negative
+Terrible experience,45,2,negative
+Worst flight ever,32,1,negative
+Lost my luggage,50,1,negative
+Nothing special,18,3,neutral
+It was okay,27,3,neutral
+Best airline ever,80,5,positive
+Best airline ever,32,4,positive
+Terrible experience,78,1,negative
+Amazing flight,75,4,positive
+It was okay,12,3,neutral
+Terrible experience,85,1,negative
+Amazing flight,59,4,positive
+Worst flight ever,45,1,negative
+Lost my luggage,98,2,negative
+Very rude staff,33,2,negative
+Terrible experience,23,2,negative
+Average experience,46,3,neutral
+Best airline ever,68,5,positive
+Best airline ever,45,4,positive
+Very rude staff,71,1,negative
+Lost my luggage,10,2,negative
+Lost my luggage,50,1,negative
+Excellent service,76,4,positive
+Terrible experience,19,2,negative
+Worst flight ever,11,2,negative
+Decent service,16,3,neutral
+Very comfortable,69,4,positive
+Lost my luggage,55,1,negative
+Terrible experience,20,1,negative
+Very rude staff,32,2,negative
+Very rude staff,80,1,negative
+Amazing flight,54,4,positive
+Average experience,88,3,neutral
+Best airline ever,24,5,positive
+Worst flight ever,47,2,negative
+Decent service,57,3,neutral
+Nothing special,75,3,neutral
+Best airline ever,29,4,positive
+Terrible experience,59,2,negative
+Nothing special,17,3,neutral
+Very comfortable,51,4,positive
+Decent service,22,3,neutral
+Amazing flight,20,4,positive
+Lost my luggage,57,1,negative
+Worst flight ever,96,2,negative
+Nothing special,50,3,neutral
+Lost my luggage,40,2,negative
+Excellent service,87,4,positive
+Very comfortable,24,5,positive
+Lost my luggage,36,2,negative
+Terrible experience,79,2,negative
+Very comfortable,34,4,positive
+Very comfortable,87,5,positive
+Amazing flight,37,4,positive
+Terrible experience,17,2,negative
+Lost my luggage,85,1,negative
+Nothing special,45,3,neutral
+Very comfortable,7,5,positive
+Best airline ever,9,4,positive
+Amazing flight,30,4,positive
+It was okay,11,3,neutral
+Worst flight ever,22,2,negative
+Decent service,43,3,neutral
+Very rude staff,49,2,negative
+Very rude staff,81,2,negative
+Very rude staff,60,1,negative
+Lost my luggage,69,1,negative
+Excellent service,39,4,positive
+Decent service,27,3,neutral
+Best airline ever,24,4,positive
+Average experience,50,3,neutral
+Very comfortable,97,4,positive
+Excellent service,49,5,positive
+Best airline ever,10,5,positive
+Worst flight ever,17,1,negative
+Excellent service,27,5,positive
+Excellent service,62,4,positive
+It was okay,8,3,neutral
+Lost my luggage,40,2,negative
+Excellent service,66,4,positive
+Very rude staff,19,2,negative
+Very rude staff,15,2,negative
+Nothing special,57,3,neutral
+Worst flight ever,26,2,negative
+Excellent service,34,4,positive
+Amazing flight,22,5,positive
+Very rude staff,54,2,negative
+Amazing flight,78,5,positive
+Amazing flight,73,5,positive
+Worst flight ever,99,1,negative
+Average experience,37,3,neutral
+Best airline ever,60,4,positive
+Average experience,22,3,neutral
+Terrible experience,62,2,negative
+Amazing flight,58,4,positive
+Excellent service,75,4,positive
+Decent service,93,3,neutral
+Amazing flight,25,5,positive
+Worst flight ever,91,2,negative
+Nothing special,20,3,neutral
+Terrible experience,95,2,negative
+Amazing flight,17,4,positive
+Nothing special,17,3,neutral
+Nothing special,93,3,neutral
+Worst flight ever,46,1,negative
+Lost my luggage,85,1,negative
+Terrible experience,29,2,negative
+It was okay,22,3,neutral
+Decent service,86,3,neutral
+Best airline ever,57,5,positive
+Worst flight ever,53,1,negative
+Excellent service,84,5,positive
+Very rude staff,31,1,negative
+Best airline ever,78,4,positive
+It was okay,28,3,neutral
+Very comfortable,28,4,positive
+Very rude staff,69,2,negative
+Worst flight ever,36,1,negative
+Terrible experience,87,2,negative
+Excellent service,77,4,positive
+Worst flight ever,9,2,negative
+Best airline ever,26,4,positive
+Excellent service,58,5,positive
+Average experience,60,3,neutral
+Amazing flight,28,5,positive
+Best airline ever,34,4,positive
+Excellent service,16,4,positive
+Lost my luggage,84,2,negative
+Very rude staff,16,2,negative
+Very rude staff,25,1,negative
+It was okay,15,3,neutral
+Average experience,89,3,neutral
+Excellent service,6,5,positive
+Lost my luggage,95,2,negative
+Nothing special,46,3,neutral
+Amazing flight,29,5,positive
+Lost my luggage,79,2,negative
+Very comfortable,21,4,positive
+Worst flight ever,88,2,negative
+Very comfortable,94,5,positive
+Best airline ever,60,4,positive
+Best airline ever,68,5,positive
+Worst flight ever,57,1,negative
+Very comfortable,19,4,positive
+Average experience,87,3,neutral
+Very rude staff,5,1,negative
+Average experience,93,3,neutral
+Best airline ever,45,5,positive
+Worst flight ever,60,2,negative
+Worst flight ever,36,2,negative
+Lost my luggage,81,2,negative
+Best airline ever,23,4,positive
+Nothing special,44,3,neutral
+Amazing flight,54,4,positive
+Terrible experience,25,2,negative
+Decent service,86,3,neutral
+Worst flight ever,12,2,negative
+Excellent service,23,5,positive
+Nothing special,62,3,neutral
+Nothing special,25,3,neutral
+Excellent service,59,5,positive
+It was okay,39,3,neutral
+Very comfortable,55,5,positive
+It was okay,89,3,neutral
+Lost my luggage,71,2,negative
+Best airline ever,34,4,positive
+Lost my luggage,99,1,negative
+Terrible experience,7,2,negative
+Lost my luggage,34,1,negative
+Lost my luggage,50,1,negative
+Decent service,46,3,neutral
+Nothing special,65,3,neutral
+Very rude staff,8,2,negative
+Excellent service,67,5,positive
+Amazing flight,52,4,positive
+Very comfortable,98,4,positive
+Worst flight ever,31,1,negative
+Terrible experience,9,1,negative
+Nothing special,97,3,neutral
+Worst flight ever,57,2,negative
+Best airline ever,99,5,positive
+Worst flight ever,54,2,negative
+Best airline ever,77,5,positive
+Lost my luggage,51,1,negative
+Very rude staff,28,2,negative
+Terrible experience,16,1,negative
+Very rude staff,86,2,negative
+Very rude staff,6,2,negative
+Best airline ever,46,5,positive
+Terrible experience,77,2,negative
+Worst flight ever,28,1,negative
+Amazing flight,63,5,positive
+Terrible experience,10,1,negative
+Amazing flight,73,4,positive
+Amazing flight,68,4,positive
+It was okay,37,3,neutral
+Very rude staff,45,2,negative
+Very rude staff,28,1,negative
+Excellent service,75,4,positive
+Best airline ever,69,5,positive
+Very rude staff,44,2,negative
+Amazing flight,12,5,positive
+Average experience,37,3,neutral
+Very rude staff,39,2,negative
+Amazing flight,28,5,positive
+Average experience,67,3,neutral
+Excellent service,7,4,positive
+Amazing flight,72,5,positive
+Nothing special,96,3,neutral
+It was okay,12,3,neutral
+Best airline ever,92,4,positive
+Average experience,14,3,neutral
+Terrible experience,63,1,negative
+Excellent service,90,5,positive
+Excellent service,11,5,positive
+Average experience,93,3,neutral
+Lost my luggage,63,1,negative
+Best airline ever,55,5,positive
+Excellent service,32,5,positive
+Very comfortable,44,5,positive
+Amazing flight,97,4,positive
+Best airline ever,75,5,positive
+Nothing special,80,3,neutral
+Excellent service,42,5,positive
+Decent service,88,3,neutral
+Very comfortable,42,5,positive
+Lost my luggage,8,2,negative
+Very rude staff,24,2,negative
+Best airline ever,39,5,positive
+Very rude staff,6,2,negative
+Worst flight ever,87,2,negative
+Average experience,44,3,neutral
+Lost my luggage,84,2,negative
+It was okay,84,3,neutral
+Nothing special,70,3,neutral
+Decent service,25,3,neutral
+Lost my luggage,21,1,negative
+Very comfortable,25,4,positive
+It was okay,44,3,neutral
+Best airline ever,36,4,positive
+Very comfortable,76,5,positive
+Lost my luggage,80,1,negative
+Worst flight ever,62,1,negative
+Decent service,27,3,neutral
+Terrible experience,52,1,negative
+Nothing special,84,3,neutral
+Decent service,95,3,neutral
+Decent service,75,3,neutral
+Very rude staff,83,2,negative
+Amazing flight,12,5,positive
+Worst flight ever,91,2,negative
+Amazing flight,54,5,positive
+Worst flight ever,37,1,negative
+Terrible experience,98,2,negative
+Best airline ever,59,5,positive
+Excellent service,27,5,positive
+Worst flight ever,58,2,negative
+Terrible experience,58,2,negative
+Average experience,56,3,neutral
+Very comfortable,47,4,positive
+Best airline ever,92,4,positive
+Average experience,67,3,neutral
+Terrible experience,71,1,negative
+Worst flight ever,18,2,negative
+Best airline ever,6,5,positive
+Worst flight ever,74,1,negative
+Best airline ever,61,4,positive
+Amazing flight,87,5,positive
+Amazing flight,78,4,positive
+Terrible experience,38,2,negative
+Lost my luggage,30,2,negative
+Very comfortable,29,5,positive
+Very comfortable,65,4,positive
+Very comfortable,72,4,positive
+Very comfortable,63,5,positive
+Amazing flight,23,5,positive
+Excellent service,6,5,positive
+Very rude staff,51,2,negative
+Very comfortable,54,4,positive
+Worst flight ever,34,2,negative
+Decent service,58,3,neutral
+Terrible experience,20,1,negative
+It was okay,43,3,neutral
+Very rude staff,77,1,negative
+Excellent service,83,4,positive
+Worst flight ever,82,2,negative
+Lost my luggage,43,2,negative
+Nothing special,55,3,neutral
+Lost my luggage,36,1,negative
+Amazing flight,28,4,positive
+Amazing flight,45,5,positive
+Average experience,13,3,neutral
+Lost my luggage,92,2,negative
+Best airline ever,97,4,positive
+Worst flight ever,61,1,negative
+Lost my luggage,39,2,negative
+Excellent service,95,5,positive
+Best airline ever,44,5,positive
+It was okay,71,3,neutral
+Decent service,44,3,neutral
+Average experience,20,3,neutral
+Decent service,71,3,neutral
+Amazing flight,31,5,positive
+Amazing flight,20,4,positive
+Amazing flight,12,4,positive
+Very comfortable,72,5,positive
+Very rude staff,80,1,negative
+Decent service,86,3,neutral
+Average experience,25,3,neutral
+Terrible experience,74,2,negative
+Amazing flight,11,5,positive
+Terrible experience,17,2,negative
+Lost my luggage,77,2,negative
+It was okay,44,3,neutral
+Terrible experience,50,2,negative
+Best airline ever,38,4,positive
+Amazing flight,81,4,positive
+Very comfortable,91,4,positive
+Excellent service,16,4,positive
+Best airline ever,40,4,positive
+Amazing flight,24,4,positive
+Lost my luggage,69,2,negative
+Excellent service,22,4,positive
+Average experience,55,3,neutral
+Lost my luggage,49,1,negative
+Best airline ever,51,4,positive
+Amazing flight,68,5,positive
+Worst flight ever,86,2,negative
+Amazing flight,7,4,positive
+Terrible experience,94,1,negative
+Lost my luggage,45,1,negative
+Very comfortable,33,4,positive
+Average experience,39,3,neutral
+Decent service,57,3,neutral
+Amazing flight,78,4,positive
+Very comfortable,98,5,positive
+Very rude staff,75,2,negative
+Amazing flight,18,4,positive
+Decent service,97,3,neutral
+Average experience,37,3,neutral
+Amazing flight,52,5,positive
+Decent service,32,3,neutral
+Terrible experience,57,2,negative
+Very comfortable,82,5,positive
+Very rude staff,96,1,negative
+Excellent service,54,5,positive
+Decent service,28,3,neutral
+Very rude staff,57,1,negative
+Average experience,82,3,neutral
+Excellent service,37,4,positive
+It was okay,47,3,neutral
+Excellent service,47,5,positive
+Lost my luggage,42,2,negative
+It was okay,72,3,neutral
+Excellent service,9,5,positive
+Very comfortable,10,4,positive
+Excellent service,82,4,positive
+Lost my luggage,41,2,negative
+Very rude staff,82,2,negative
+Lost my luggage,42,2,negative
+Average experience,12,3,neutral
+Amazing flight,5,4,positive
+Amazing flight,90,5,positive
+Worst flight ever,34,2,negative
+Lost my luggage,26,1,negative
+Excellent service,47,5,positive
+Terrible experience,32,1,negative
+Best airline ever,74,4,positive
+Worst flight ever,93,2,negative
+Worst flight ever,81,1,negative
+Best airline ever,65,5,positive
+Best airline ever,49,4,positive
+Best airline ever,78,4,positive
+Amazing flight,21,4,positive
+Amazing flight,82,5,positive
+Amazing flight,20,4,positive
+Amazing flight,32,4,positive
+Lost my luggage,17,1,negative
+Excellent service,31,4,positive
+Lost my luggage,21,2,negative
+Lost my luggage,14,1,negative
+Lost my luggage,50,2,negative
+Excellent service,39,4,positive
+Terrible experience,56,1,negative
+Worst flight ever,42,2,negative
+Very comfortable,78,5,positive
+Excellent service,50,5,positive
+Worst flight ever,46,1,negative
+Worst flight ever,41,2,negative
+Lost my luggage,30,1,negative
+Very rude staff,53,1,negative
+Excellent service,67,4,positive
+Very rude staff,50,1,negative
+Very comfortable,57,4,positive
+Very comfortable,30,4,positive
+Decent service,36,3,neutral
+Very rude staff,90,1,negative
+Very comfortable,98,5,positive
+Nothing special,44,3,neutral
+Best airline ever,65,5,positive
+Decent service,74,3,neutral

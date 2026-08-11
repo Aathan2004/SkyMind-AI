@@ -1,0 +1,17 @@
+{
+  "accuracy": 68.0,
+  "feature_importance": {
+    "booking_lead_days": 0.0625,
+    "seat_class": 0.0537,
+    "is_business_traveler": 0.0433,
+    "prior_no_shows": 0.3331,
+    "checked_in_online": 0.3204,
+    "has_baggage": 0.049,
+    "route_distance_km": 0.0451,
+    "is_connecting": 0.0438,
+    "fare_paid_usd": 0.0491
+  },
+  "algorithm": "XGBClassifier",
+  "target": "no_show",
+  "n_features": 9
+}
