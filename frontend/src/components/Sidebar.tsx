@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import {
   LayoutDashboard, Plane, BarChart3, Brain, Radio, Wrench,
   Building2, Users, UserCircle, Settings, Bell, HelpCircle,
-  ChevronLeft, ChevronRight, Zap
+  ChevronLeft, ChevronRight, Zap, Clock, DollarSign
 } from 'lucide-react'
 import clsx from 'clsx'
 import { useApp } from '../context/AppContext'
@@ -32,6 +32,8 @@ const navGroups = [
     links: [
       { to: '/dashboard/ai', icon: Brain, label: 'AI Dashboard' },
       { to: '/dashboard/analytics', icon: BarChart3, label: 'Analytics' },
+      { to: '/dashboard/delay', icon: Clock, label: 'Delay Predictor' },
+      { to: '/dashboard/price', icon: DollarSign, label: 'Price Predictor' },
     ],
   },
   {

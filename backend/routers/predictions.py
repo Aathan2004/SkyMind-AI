@@ -1,5 +1,5 @@
 import json
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
 from typing import Optional
 from sqlalchemy.orm import Session
@@ -19,18 +19,20 @@ def _encode(val, feat, encoders):
         except: return 0
     return float(val) if val is not None else 0.0
 
-def _infer_reg(key: str, data: dict) -> dict:
+def _require_model(key: str) -> dict:
     obj = get_model(key)
     if obj is None:
-        return {'error': f'Model {key} not loaded'}
+        raise HTTPException(status_code=503, detail=f'Model {key} not loaded')
+    return obj
+
+def _infer_reg(key: str, data: dict) -> float:
+    obj = _require_model(key)
     model, encoders, features = obj['model'], obj['encoders'], obj['features']
     row = [_encode(data.get(f, 0), f, encoders) for f in features]
     return float(model.predict(np.array([row]))[0])
 
 def _infer_clf(key: str, data: dict) -> tuple:
-    obj = get_model(key)
-    if obj is None:
-        return None, None, None
+    obj = _require_model(key)
     model, encoders, features = obj['model'], obj['encoders'], obj['features']
     row = [_encode(data.get(f, 0), f, encoders) for f in features]
     X = np.array([row])
@@ -127,8 +129,6 @@ class NoShowInput(BaseModel):
 @router.post("/no-show")
 def predict_no_show(data: NoShowInput, db: Session = Depends(get_db), user=Depends(get_current_user)):
     pred, proba, model = _infer_clf('no_show', data.dict())
-    if pred is None:
-        return {'error': 'Model not loaded'}
     result = {'prediction': 'No-Show' if pred == 1 else 'Will Board',
               'probability': round(float(proba[1]) * 100, 1)}
     confidence = round(float(max(proba)) * 100, 1)
@@ -151,8 +151,6 @@ class CancellationInput(BaseModel):
 @router.post("/cancellation")
 def predict_cancellation(data: CancellationInput, db: Session = Depends(get_db), user=Depends(get_current_user)):
     pred, proba, _ = _infer_clf('cancellation', data.dict())
-    if pred is None:
-        return {'error': 'Model not loaded'}
     result = {'prediction': 'Cancelled' if pred == 1 else 'Will Operate',
               'probability': round(float(proba[1]) * 100, 1)}
     confidence = round(float(max(proba)) * 100, 1)
@@ -175,9 +173,7 @@ class SatisfactionInput(BaseModel):
 
 @router.post("/satisfaction")
 def predict_satisfaction(data: SatisfactionInput, db: Session = Depends(get_db), user=Depends(get_current_user)):
-    obj = get_model('satisfaction')
-    if obj is None:
-        return {'error': 'Model not loaded'}
+    obj = _require_model('satisfaction')
     model, encoders, features = obj['model'], obj['encoders'], obj['features']
     classes = obj['classes']
     row = [_encode(data.dict().get(f, 0), f, encoders) for f in features]
@@ -203,9 +199,7 @@ class AirlineRecInput(BaseModel):
 
 @router.post("/airline-recommendation")
 def predict_airline_rec(data: AirlineRecInput, db: Session = Depends(get_db), user=Depends(get_current_user)):
-    obj = get_model('airline_rec')
-    if obj is None:
-        return {'error': 'Model not loaded'}
+    obj = _require_model('airline_rec')
     model, encoders, features = obj['model'], obj['encoders'], obj['features']
     classes = obj['classes']
     row = [_encode(data.dict().get(f, 0), f, encoders) for f in features]
@@ -231,9 +225,7 @@ class TravelRecInput(BaseModel):
 
 @router.post("/travel-recommendation")
 def predict_travel_rec(data: TravelRecInput, db: Session = Depends(get_db), user=Depends(get_current_user)):
-    obj = get_model('travel_rec')
-    if obj is None:
-        return {'error': 'Model not loaded'}
+    obj = _require_model('travel_rec')
     model, encoders, features = obj['model'], obj['encoders'], obj['features']
     classes = obj['classes']
     row = [_encode(data.dict().get(f, 0), f, encoders) for f in features]
@@ -254,9 +246,7 @@ class SentimentInput(BaseModel):
 
 @router.post("/sentiment")
 def predict_sentiment(data: SentimentInput, db: Session = Depends(get_db), user=Depends(get_current_user)):
-    obj = get_model('sentiment')
-    if obj is None:
-        return {'error': 'Model not loaded'}
+    obj = _require_model('sentiment')
     pipeline, encoder, classes = obj['pipeline'], obj['encoder'], obj['classes']
     pred_idx = int(pipeline.predict([data.review_text])[0])
     proba = pipeline.predict_proba([data.review_text])[0]
@@ -273,9 +263,7 @@ class ChatbotInput(BaseModel):
 
 @router.post("/chatbot")
 def predict_chatbot(data: ChatbotInput, db: Session = Depends(get_db), user=Depends(get_current_user)):
-    obj = get_model('chatbot')
-    if obj is None:
-        return {'error': 'Model not loaded'}
+    obj = _require_model('chatbot')
     pipeline, encoder = obj['pipeline'], obj['encoder']
     classes, responses = obj['classes'], obj['responses']
     pred_idx = int(pipeline.predict([data.query])[0])
@@ -302,8 +290,6 @@ class MaintenanceInput(BaseModel):
 @router.post("/maintenance")
 def predict_maintenance(data: MaintenanceInput, db: Session = Depends(get_db), user=Depends(get_current_user)):
     pred, proba, _ = _infer_clf('maintenance', data.dict())
-    if pred is None:
-        return {'error': 'Model not loaded'}
     result = {'prediction': 'Maintenance Required' if pred == 1 else 'No Maintenance Needed',
               'probability': round(float(proba[1]) * 100, 1)}
     confidence = round(float(max(proba)) * 100, 1)
@@ -325,9 +311,7 @@ class WeatherInput(BaseModel):
 
 @router.post("/weather")
 def predict_weather(data: WeatherInput, db: Session = Depends(get_db), user=Depends(get_current_user)):
-    obj = get_model('weather')
-    if obj is None:
-        return {'error': 'Model not loaded'}
+    obj = _require_model('weather')
     model, encoders, features = obj['model'], obj['encoders'], obj['features']
     classes = obj['classes']
     row = [_encode(data.dict().get(f, 0), f, encoders) for f in features]
@@ -415,9 +399,7 @@ class CongestionInput(BaseModel):
 
 @router.post("/congestion")
 def predict_congestion(data: CongestionInput, db: Session = Depends(get_db), user=Depends(get_current_user)):
-    obj = get_model('congestion')
-    if obj is None:
-        return {'error': 'Model not loaded'}
+    obj = _require_model('congestion')
     model, encoders, features = obj['model'], obj['encoders'], obj['features']
     classes = obj['classes']
     row = [_encode(data.dict().get(f, 0), f, encoders) for f in features]

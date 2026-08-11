@@ -1,5 +1,6 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
 from app.config import settings
 from database.base import Base, engine
 from ai.model_loader import load_all_models
@@ -31,6 +32,10 @@ app.include_router(auth.router)
 app.include_router(flights.router)
 app.include_router(predictions.router)
 app.include_router(passenger.router)
+
+@app.exception_handler(Exception)
+async def unhandled_exception_handler(_request: Request, _exc: Exception):
+    return JSONResponse(status_code=500, content={"detail": "Internal server error"})
 
 @app.get("/")
 def root():

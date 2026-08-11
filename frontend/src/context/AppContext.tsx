@@ -34,6 +34,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     document.documentElement.classList.toggle('dark', dark)
+    document.documentElement.classList.toggle('light', !dark)
   }, [dark])
 
   useEffect(() => {
