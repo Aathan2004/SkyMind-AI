@@ -1,10 +1,12 @@
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { MapContainer, TileLayer, Marker, Popup, Polyline, useMap } from 'react-leaflet'
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import L from 'leaflet'
-import { Plane, Search, Filter, RefreshCw, Wind, Eye, Thermometer } from 'lucide-react'
+import { Plane, Search, RefreshCw, Wind, Gauge, Navigation, Hash, AlertTriangle } from 'lucide-react'
 import PageHeader from '../../components/ui/PageHeader'
 import StatusBadge from '../../components/ui/StatusBadge'
+import { liveFlightService, LiveFlightState, DelayEstimate } from '../../services/liveFlightService'
+import { getErrorMessage } from '../../services/authService'
 
 // Fix leaflet default icon
 delete (L.Icon.Default.prototype as any)._getIconUrl
@@ -14,80 +16,116 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 })
 
-const planeIcon = (color = '#3b82f6') => L.divIcon({
-  html: `<div style="color:${color};transform:rotate(45deg);font-size:18px;filter:drop-shadow(0 0 4px ${color})">✈</div>`,
+const planeIcon = (heading: number | null, onGround: boolean) => L.divIcon({
+  html: `<div style="color:${onGround ? '#64748b' : '#3b82f6'};transform:rotate(${(heading ?? 0) - 45}deg);font-size:16px;filter:drop-shadow(0 0 4px ${onGround ? '#64748b' : '#3b82f6'})">✈</div>`,
   className: '',
-  iconSize: [20, 20],
-  iconAnchor: [10, 10],
+  iconSize: [18, 18],
+  iconAnchor: [9, 9],
 })
 
-const FLIGHTS = [
-  { id: 'SK001', from: 'DXB', to: 'LHR', dep: '06:30', arr: '11:45', status: 'On Time',   aircraft: 'B777', alt: 38000, speed: 890, fromCoord: [25.2, 55.4] as [number,number], toCoord: [51.5, -0.1] as [number,number], progress: 0.45, color: '#10b981' },
-  { id: 'SK002', from: 'JFK', to: 'CDG', dep: '08:15', arr: '21:30', status: 'Delayed',   aircraft: 'A380', alt: 36000, speed: 850, fromCoord: [40.6, -73.8] as [number,number], toCoord: [49.0, 2.5]  as [number,number], progress: 0.30, color: '#f59e0b' },
-  { id: 'SK003', from: 'SIN', to: 'SYD', dep: '09:00', arr: '18:20', status: 'On Time',   aircraft: 'B787', alt: 40000, speed: 910, fromCoord: [1.4,  103.9] as [number,number], toCoord: [-33.9, 151.2] as [number,number], progress: 0.60, color: '#10b981' },
-  { id: 'SK004', from: 'LHR', to: 'DXB', dep: '11:30', arr: '21:00', status: 'Boarding',  aircraft: 'A350', alt: 0,     speed: 0,   fromCoord: [51.5, -0.1] as [number,number], toCoord: [25.2, 55.4]  as [number,number], progress: 0.02, color: '#3b82f6' },
-  { id: 'SK005', from: 'HKG', to: 'NRT', dep: '13:45', arr: '18:30', status: 'On Time',   aircraft: 'B737', alt: 35000, speed: 820, fromCoord: [22.3, 113.9] as [number,number], toCoord: [35.7, 140.4] as [number,number], progress: 0.70, color: '#10b981' },
-  { id: 'SK006', from: 'LAX', to: 'SIN', dep: '23:55', arr: '07:40', status: 'Scheduled', aircraft: 'A380', alt: 0,     speed: 0,   fromCoord: [33.9, -118.4] as [number,number], toCoord: [1.4, 103.9] as [number,number], progress: 0.00, color: '#64748b' },
-]
+// Default live-map region: Europe / Middle East / South Asia — SkyMind's DXB-centric operating area
+const HOME_BBOX = { lamin: 0, lomin: -20, lamax: 65, lomax: 90 }
+const POLL_MS = 30000
 
-function lerp(a: [number,number], b: [number,number], t: number): [number,number] {
-  return [a[0] + (b[0] - a[0]) * t, a[1] + (b[1] - a[1]) * t]
-}
+const flightStatus = (f: LiveFlightState) =>
+  f.on_ground ? 'On Ground' : (f.vertical_rate_ms ?? 0) < -1 ? 'Descending' : (f.vertical_rate_ms ?? 0) > 1 ? 'Climbing' : 'Cruising'
 
 export default function FlightTracker() {
-  const [flights, setFlights] = useState(FLIGHTS)
-  const [selected, setSelected] = useState<typeof FLIGHTS[0] | null>(null)
+  const [flights, setFlights] = useState<LiveFlightState[]>([])
+  const [selected, setSelected] = useState<LiveFlightState | null>(null)
   const [search, setSearch] = useState('')
-  const [tick, setTick] = useState(0)
+  const [searchResults, setSearchResults] = useState<LiveFlightState[] | null>(null)
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
+  const [delay, setDelay] = useState<DelayEstimate | null>(null)
+  const [delayLoading, setDelayLoading] = useState(false)
+  const [delayError, setDelayError] = useState<string | null>(null)
 
-  // Animate flight positions
-  useEffect(() => {
-    const id = setInterval(() => {
-      setFlights(prev => prev.map(f =>
-        f.progress > 0 && f.progress < 1
-          ? { ...f, progress: Math.min(1, f.progress + 0.001) }
-          : f
-      ))
-      setTick(t => t + 1)
-    }, 500)
-    return () => clearInterval(id)
+  const loadFlights = useCallback(async () => {
+    try {
+      const res = await liveFlightService.list(HOME_BBOX)
+      setFlights(res.data.flights)
+      setError(null)
+    } catch (err) {
+      setError(getErrorMessage(err))
+    } finally {
+      setLoading(false)
+    }
   }, [])
 
-  const filtered = flights.filter(f =>
-    f.id.toLowerCase().includes(search.toLowerCase()) ||
-    f.from.toLowerCase().includes(search.toLowerCase()) ||
-    f.to.toLowerCase().includes(search.toLowerCase())
-  )
+  useEffect(() => {
+    loadFlights()
+    const id = setInterval(loadFlights, POLL_MS)
+    return () => clearInterval(id)
+  }, [loadFlights])
+
+  useEffect(() => {
+    if (!search.trim()) { setSearchResults(null); return }
+    const id = setTimeout(async () => {
+      try {
+        const res = await liveFlightService.search(search.trim())
+        setSearchResults(res.data.flights)
+      } catch {
+        setSearchResults([])
+      }
+    }, 400)
+    return () => clearTimeout(id)
+  }, [search])
+
+  const select = async (f: LiveFlightState) => {
+    setSelected(f)
+    setDelay(null)
+    setDelayError(null)
+  }
+
+  const predictDelay = async () => {
+    if (!selected) return
+    setDelayLoading(true)
+    setDelayError(null)
+    try {
+      const res = await liveFlightService.delayEstimate(selected.icao24)
+      setDelay(res.data)
+    } catch (err) {
+      setDelayError(getErrorMessage(err))
+    } finally {
+      setDelayLoading(false)
+    }
+  }
+
+  const listed = searchResults ?? flights
 
   return (
     <div className="space-y-5">
-      <PageHeader title="Live Flight Tracker" subtitle="Real-time global flight monitoring" icon={Plane}>
+      <PageHeader title="Live Flight Tracker" subtitle="Real-time global flight monitoring via OpenSky Network" icon={Plane}>
+        <button onClick={loadFlights} className="btn-ghost text-xs flex items-center gap-1.5">
+          <RefreshCw size={12} className={loading ? 'animate-spin' : ''} /> Refresh
+        </button>
         <div className="flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20">
           <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-          <span className="text-emerald-400 text-xs font-medium">{flights.filter(f => f.progress > 0 && f.progress < 1).length} Airborne</span>
+          <span className="text-emerald-400 text-xs font-medium">{flights.filter(f => !f.on_ground).length} Airborne</span>
         </div>
       </PageHeader>
+
+      {error && (
+        <div className="card flex items-center gap-3 border border-rose-500/20 bg-rose-500/5">
+          <AlertTriangle size={16} className="text-rose-400 flex-shrink-0" />
+          <p className="text-rose-300 text-sm">{error}</p>
+        </div>
+      )}
 
       <div className="grid lg:grid-cols-3 gap-4">
         {/* Map */}
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="lg:col-span-2 card p-0 overflow-hidden" style={{ height: 480 }}>
-          <MapContainer center={[20, 20]} zoom={2} style={{ height: '100%', width: '100%' }} zoomControl={false}>
+          <MapContainer center={[25, 40]} zoom={3} style={{ height: '100%', width: '100%' }} zoomControl={false}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            {flights.map(f => {
-              const pos = lerp(f.fromCoord, f.toCoord, f.progress)
-              return (
-                <Marker key={f.id} position={pos} icon={planeIcon(f.color)}
-                  eventHandlers={{ click: () => setSelected(f) }}>
-                  <Popup>
-                    <div className="text-xs font-bold">{f.id}: {f.from} → {f.to}</div>
-                    <div className="text-xs">{f.status} · {f.aircraft}</div>
-                  </Popup>
-                </Marker>
-              )
-            })}
             {flights.map(f => (
-              <Polyline key={f.id + '-line'} positions={[f.fromCoord, f.toCoord]}
-                pathOptions={{ color: f.color, weight: 1, opacity: 0.3, dashArray: '6 6' }} />
+              <Marker key={f.icao24} position={[f.lat, f.lon]} icon={planeIcon(f.heading, f.on_ground)}
+                eventHandlers={{ click: () => select(f) }}>
+                <Popup>
+                  <div className="text-xs font-bold">{f.callsign || f.icao24}</div>
+                  <div className="text-xs">{flightStatus(f)} · {f.origin_country}</div>
+                </Popup>
+              </Marker>
             ))}
           </MapContainer>
         </motion.div>
@@ -97,34 +135,23 @@ export default function FlightTracker() {
           <div className="relative">
             <Search size={13} className="absolute left-3 top-1/2 -translate-y-1/2 text-sky-500" />
             <input value={search} onChange={e => setSearch(e.target.value)}
-              placeholder="Search flight, airport..." className="input pl-8 text-xs h-8" />
+              placeholder="Search flight number / callsign..." className="input pl-8 text-xs h-8" />
           </div>
           <div className="space-y-2 overflow-y-auto flex-1" style={{ maxHeight: 380 }}>
-            {filtered.map(f => (
-              <motion.div key={f.id} whileHover={{ x: 2 }}
-                onClick={() => setSelected(f)}
-                className={`p-3 rounded-xl border cursor-pointer transition-all ${selected?.id === f.id ? 'bg-accent/10 border-accent/30' : 'bg-white/3 border-white/5 hover:bg-white/8'}`}>
+            {loading && listed.length === 0 && <p className="text-sky-400 text-xs text-center py-8">Loading live flights…</p>}
+            {!loading && listed.length === 0 && <p className="text-sky-400 text-xs text-center py-8">No flights found.</p>}
+            {listed.map(f => (
+              <motion.div key={f.icao24} whileHover={{ x: 2 }}
+                onClick={() => select(f)}
+                className={`p-3 rounded-xl border cursor-pointer transition-all ${selected?.icao24 === f.icao24 ? 'bg-accent/10 border-accent/30' : 'bg-white/3 border-white/5 hover:bg-white/8'}`}>
                 <div className="flex items-center justify-between mb-1">
-                  <span className="text-white font-bold text-sm">{f.id}</span>
-                  <StatusBadge status={f.status} />
+                  <span className="text-white font-bold text-sm">{f.callsign || f.icao24}</span>
+                  <StatusBadge status={flightStatus(f)} />
                 </div>
-                <div className="flex items-center gap-2 text-xs text-sky-300">
-                  <span className="font-semibold">{f.from}</span>
-                  <div className="flex-1 border-t border-dashed border-sky-700 relative">
-                    <Plane size={10} className="absolute -top-1.5 text-accent" style={{ left: `${f.progress * 100}%`, transform: 'translateX(-50%)' }} />
-                  </div>
-                  <span className="font-semibold">{f.to}</span>
+                <div className="flex items-center justify-between text-[10px] text-sky-500">
+                  <span>{f.origin_country}</span>
+                  {!f.on_ground && f.altitude_m != null && <span>{Math.round(f.altitude_m).toLocaleString()} m · {Math.round((f.velocity_ms ?? 0) * 3.6)} km/h</span>}
                 </div>
-                <div className="flex items-center justify-between mt-1 text-[10px] text-sky-500">
-                  <span>{f.aircraft}</span>
-                  {f.alt > 0 && <span>{f.alt.toLocaleString()} ft · {f.speed} km/h</span>}
-                </div>
-                {f.progress > 0 && f.progress < 1 && (
-                  <div className="mt-2 h-1 bg-white/5 rounded-full overflow-hidden">
-                    <div className="h-full bg-gradient-to-r from-accent to-cyan-400 rounded-full transition-all duration-500"
-                      style={{ width: `${f.progress * 100}%` }} />
-                  </div>
-                )}
               </motion.div>
             ))}
           </div>
@@ -140,18 +167,18 @@ export default function FlightTracker() {
               <div className="flex items-center gap-3">
                 <div className="p-2 rounded-xl bg-accent/10 border border-accent/20 text-accent"><Plane size={18} /></div>
                 <div>
-                  <p className="text-white font-bold">{selected.id} — {selected.from} → {selected.to}</p>
-                  <p className="text-sky-400 text-xs">{selected.aircraft} · {selected.dep} → {selected.arr}</p>
+                  <p className="text-white font-bold">{selected.callsign || 'Unknown callsign'} — {selected.origin_country}</p>
+                  <p className="text-sky-400 text-xs">ICAO24 {selected.icao24} · {flightStatus(selected)}</p>
                 </div>
               </div>
               <button onClick={() => setSelected(null)} className="text-sky-400 hover:text-white text-xs btn-ghost py-1 px-3">Close</button>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               {[
-                { icon: Plane, label: 'Status', value: selected.status },
-                { icon: Wind, label: 'Speed', value: selected.speed > 0 ? `${selected.speed} km/h` : 'Ground' },
-                { icon: Eye, label: 'Altitude', value: selected.alt > 0 ? `${selected.alt.toLocaleString()} ft` : 'On Ground' },
-                { icon: Thermometer, label: 'Progress', value: `${Math.round(selected.progress * 100)}%` },
+                { icon: Hash, label: 'Aircraft Class', value: selected.category },
+                { icon: Wind, label: 'Speed', value: selected.on_ground ? 'On Ground' : `${Math.round((selected.velocity_ms ?? 0) * 3.6)} km/h` },
+                { icon: Gauge, label: 'Altitude', value: selected.on_ground ? 'Ground level' : selected.altitude_m != null ? `${Math.round(selected.altitude_m).toLocaleString()} m` : 'Unknown' },
+                { icon: Navigation, label: 'Heading', value: selected.heading != null ? `${Math.round(selected.heading)}°` : 'Unknown' },
               ].map(item => (
                 <div key={item.label} className="glass rounded-xl p-3 flex items-center gap-3">
                   <item.icon size={16} className="text-accent" />
@@ -162,25 +189,24 @@ export default function FlightTracker() {
                 </div>
               ))}
             </div>
-            {/* Timeline */}
-            <div className="mt-4 flex items-center gap-3">
-              <div className="text-center">
-                <p className="text-white font-black text-xl">{selected.from}</p>
-                <p className="text-sky-400 text-xs">{selected.dep}</p>
-              </div>
-              <div className="flex-1 relative h-8 flex items-center">
-                <div className="w-full h-0.5 bg-white/10 rounded-full" />
-                <div className="absolute h-0.5 bg-gradient-to-r from-accent to-cyan-400 rounded-full transition-all duration-1000"
-                  style={{ width: `${selected.progress * 100}%` }} />
-                <motion.div className="absolute" style={{ left: `${selected.progress * 100}%`, transform: 'translateX(-50%)' }}
-                  animate={{ y: [0, -3, 0] }} transition={{ duration: 2, repeat: Infinity }}>
-                  <Plane size={16} className="text-accent" />
-                </motion.div>
-              </div>
-              <div className="text-center">
-                <p className="text-white font-black text-xl">{selected.to}</p>
-                <p className="text-sky-400 text-xs">{selected.arr}</p>
-              </div>
+
+            {/* AI Delay Prediction */}
+            <div className="mt-4 pt-4 border-t border-white/5">
+              {!delay && (
+                <button onClick={predictDelay} disabled={delayLoading} className="btn-primary text-xs">
+                  {delayLoading ? 'Predicting…' : 'Predict Delay with AI Model'}
+                </button>
+              )}
+              {delayError && <p className="text-rose-400 text-xs mt-2">{delayError}</p>}
+              {delay && (
+                <div className="flex flex-col gap-1">
+                  <p className="text-white text-sm">
+                    Predicted delay: <span className="font-bold text-accent">{delay.predicted_delay_minutes} min</span>
+                  </p>
+                  <p className="text-sky-400 text-[11px]">{delay.notes.weather_score}</p>
+                  <p className="text-sky-500 text-[11px]">{delay.notes.destination}</p>
+                </div>
+              )}
             </div>
           </motion.div>
         )}

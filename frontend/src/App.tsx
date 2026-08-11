@@ -12,6 +12,8 @@ import OperationsCenter from './dashboard/operations/OperationsCenter'
 import FlightTracker from './dashboard/flights/FlightTracker'
 import AIDashboard from './dashboard/ai/AIDashboard'
 import AnalyticsDashboard from './dashboard/analytics/AnalyticsDashboard'
+import AirportExplorer from './dashboard/airport/AirportExplorer'
+import AirlineDatabase from './dashboard/airlines/AirlineDatabase'
 import TravelTools from './dashboard/passenger/TravelTools'
 import PassengerPortal from './dashboard/passenger/PassengerPortal'
 import SeatMap from './dashboard/passenger/SeatMap'
@@ -40,7 +42,8 @@ export default function App() {
           <Route path="/dashboard/operations" element={<OperationsCenter />} />
           <Route path="/dashboard/flights" element={<FlightTracker />} />
           <Route path="/dashboard/aircraft" element={<WorkspacePage kind="aircraft" />} />
-          <Route path="/dashboard/airport" element={<WorkspacePage kind="airport" />} />
+          <Route path="/dashboard/airport" element={<AirportExplorer />} />
+          <Route path="/dashboard/airlines" element={<AirlineDatabase />} />
           <Route path="/dashboard/crew" element={<WorkspacePage kind="crew" />} />
           <Route path="/dashboard/passenger" element={<PassengerPortal />} />
           <Route path="/dashboard/passenger/travel-tools" element={<TravelTools />} />

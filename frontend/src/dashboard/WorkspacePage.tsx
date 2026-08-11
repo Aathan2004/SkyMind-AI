@@ -1,10 +1,10 @@
 import { useMemo, useState } from 'react'
 import { motion } from 'framer-motion'
-import { Bell, Building2, CircleHelp, ClipboardCheck, Headphones, Plane, ShieldCheck, UserRound, Users, Wrench, type LucideIcon } from 'lucide-react'
+import { Bell, CircleHelp, ClipboardCheck, Headphones, Plane, ShieldCheck, UserRound, Users, Wrench, type LucideIcon } from 'lucide-react'
 import PageHeader from '../components/ui/PageHeader'
 import StatCard from '../components/ui/StatCard'
 
-type WorkspaceKind = 'aircraft' | 'airport' | 'crew' | 'notifications' | 'profile' | 'support'
+type WorkspaceKind = 'aircraft' | 'crew' | 'notifications' | 'profile' | 'support'
 
 interface WorkspaceConfig {
   title: string
@@ -20,11 +20,6 @@ const configs: Record<WorkspaceKind, WorkspaceConfig> = {
     title: 'Aircraft Fleet', subtitle: 'Readiness, maintenance windows, and utilization across the fleet.', icon: Wrench, entity: 'aircraft',
     metrics: [{ title: 'In Service', value: '142', change: '98.6%', icon: Plane, color: 'text-accent' }, { title: 'Maintenance Due', value: '6', change: 'Next 24h', icon: Wrench, color: 'text-amber-400' }, { title: 'Fleet Readiness', value: '99.1%', change: '+0.4%', icon: ShieldCheck, color: 'text-emerald-400' }],
     rows: [{ name: 'Boeing 777-300ER · SK-001', detail: 'DXB · 3,942 flight hours', state: 'Available', owner: 'Engineering' }, { name: 'Airbus A380 · SK-014', detail: 'LHR · Inspection in 6h', state: 'Scheduled', owner: 'Line Maintenance' }, { name: 'Boeing 787-9 · SK-032', detail: 'SIN · 84% utilization', state: 'In flight', owner: 'Operations' }],
-  },
-  airport: {
-    title: 'Airport Operations', subtitle: 'Gate allocation, turnaround health, and network coordination.', icon: Building2, entity: 'airport',
-    metrics: [{ title: 'Active Gates', value: '37', change: 'of 42', icon: Building2, color: 'text-cyan-400' }, { title: 'Turnaround SLA', value: '94%', change: '+3.1%', icon: ClipboardCheck, color: 'text-emerald-400' }, { title: 'Gate Conflicts', value: '2', change: 'Review', icon: Bell, color: 'text-amber-400' }],
-    rows: [{ name: 'Dubai International · DXB', detail: 'Terminal 3 · 18 gates active', state: 'Nominal', owner: 'Airport Control' }, { name: 'London Heathrow · LHR', detail: 'Terminal 4 · Weather watch', state: 'Monitor', owner: 'Station Manager' }, { name: 'Singapore Changi · SIN', detail: 'Terminal 1 · 6 arrivals next hour', state: 'Nominal', owner: 'Ground Ops' }],
   },
   crew: {
     title: 'Crew Management', subtitle: 'Crew availability, duty compliance, and roster coverage.', icon: Users, entity: 'crew member',

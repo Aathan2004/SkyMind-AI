@@ -23,6 +23,7 @@ const navGroups = [
       { to: '/dashboard/flights', icon: Plane, label: 'Flight Control' },
       { to: '/dashboard/aircraft', icon: Wrench, label: 'Aircraft' },
       { to: '/dashboard/airport', icon: Building2, label: 'Airport' },
+      { to: '/dashboard/airlines', icon: Plane, label: 'Airlines' },
       { to: '/dashboard/crew', icon: Users, label: 'Crew' },
       { to: '/dashboard/passenger', icon: UserCircle, label: 'Passengers' },
     ],

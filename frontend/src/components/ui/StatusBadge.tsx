@@ -14,6 +14,10 @@ const styles: Record<string, string> = {
   'High':       'bg-rose-500/10 text-rose-400 border-rose-500/20',
   'Medium':     'bg-amber-500/10 text-amber-400 border-amber-500/20',
   'Low':        'bg-emerald-500/10 text-emerald-400 border-emerald-500/20',
+  'Cruising':   'bg-emerald-500/10 text-emerald-400 border-emerald-500/20',
+  'Climbing':   'bg-blue-500/10 text-blue-400 border-blue-500/20',
+  'Descending': 'bg-amber-500/10 text-amber-400 border-amber-500/20',
+  'On Ground':  'bg-sky-500/10 text-sky-400 border-sky-500/20',
 }
 
 export default function StatusBadge({ status }: { status: string }) {
